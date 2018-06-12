@@ -1,0 +1,1029 @@
+{
+  "posts": [
+    { "id": 1, "title": "json-server", "author": "typicode" }
+  ],
+  "comments": [
+    { "id": 1, "body": "some comment", "postId": 1 }
+  ],
+  "profile": { "name": "typicode" },
+
+
+  "people":
+  [
+    {
+      "id": 0,
+      "name": "Mrs. 余 鹏煊",
+      "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/allthingssmitty/128.jpg"
+    },
+    {
+      "id": 1,
+      "name": "秦 聪健",
+      "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/id835559/128.jpg"
+    },
+    {
+      "id": 2,
+      "name": "杜 潇然 Jr.",
+      "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/aleclarsoniv/128.jpg"
+    },
+    {
+      "id": 3,
+      "name": "许 雨泽 II",
+      "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/thimo_cz/128.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Ms. 白 炎彬",
+      "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/jedbridges/128.jpg"
+    },
+    {
+      "id": 5,
+      "name": "阎 果",
+      "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/russoedu/128.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Dr. 蒋 智辉",
+      "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/kapaluccio/128.jpg"
+    },
+    {
+      "id": 7,
+      "name": "叶 立辉",
+      "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/daniloc/128.jpg"
+    },
+    {
+      "id": 8,
+      "name": "范 懿轩",
+      "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/kylefoundry/128.jpg"
+    },
+    {
+      "id": 9,
+      "name": "姚 越泽",
+      "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/lowie/128.jpg"
+    },
+    {
+      "id": 10,
+      "name": "韩 明轩",
+      "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/supjoey/128.jpg"
+    },
+    {
+      "id": 11,
+      "name": "谢 志强",
+      "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/smalonso/128.jpg"
+    },
+    {
+      "id": 12,
+      "name": "Ms. 方 鸿煊",
+      "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/markolschesky/128.jpg"
+    },
+    {
+      "id": 13,
+      "name": "雷 立果 II",
+      "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/_vojto/128.jpg"
+    },
+    {
+      "id": 14,
+      "name": "彭 鹭洋 Jr.",
+      "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/shanehudson/128.jpg"
+    },
+    {
+      "id": 15,
+      "name": "贺 明哲",
+      "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/dimaposnyy/128.jpg"
+    },
+    {
+      "id": 16,
+      "name": "夏 煜祺",
+      "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/kalmerrautam/128.jpg"
+    },
+    {
+      "id": 17,
+      "name": "崔 思",
+      "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/russell_baylis/128.jpg"
+    },
+    {
+      "id": 18,
+      "name": "于 雪松",
+      "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/kerem/128.jpg"
+    },
+    {
+      "id": 19,
+      "name": "姚 梓晨",
+      "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/plbabin/128.jpg"
+    },
+    {
+      "id": 20,
+      "name": "卢 哲瀚",
+      "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/operatino/128.jpg"
+    },
+    {
+      "id": 21,
+      "name": "范 智宸",
+      "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/irae/128.jpg"
+    },
+    {
+      "id": 22,
+      "name": "曹 旭尧",
+      "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/nicklacke/128.jpg"
+    },
+    {
+      "id": 23,
+      "name": "贾 修洁",
+      "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/andresdjasso/128.jpg"
+    },
+    {
+      "id": 24,
+      "name": "范 思",
+      "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/wearesavas/128.jpg"
+    },
+    {
+      "id": 25,
+      "name": "Dr. 曾 晓博",
+      "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/duivvv/128.jpg"
+    },
+    {
+      "id": 26,
+      "name": "阎 嘉懿",
+      "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/mhaligowski/128.jpg"
+    },
+    {
+      "id": 27,
+      "name": "梁 琪",
+      "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/mufaddal_mw/128.jpg"
+    },
+    {
+      "id": 28,
+      "name": "金 擎宇",
+      "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/posterjob/128.jpg"
+    },
+    {
+      "id": 29,
+      "name": "崔 煜城",
+      "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/carlosgavina/128.jpg"
+    },
+    {
+      "id": 30,
+      "name": "韦 烨华",
+      "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/xravil/128.jpg"
+    },
+    {
+      "id": 31,
+      "name": "苏 潇然",
+      "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/ManikRathee/128.jpg"
+    },
+    {
+      "id": 32,
+      "name": "杨 子默",
+      "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/SULiik/128.jpg"
+    },
+    {
+      "id": 33,
+      "name": "武 弘文",
+      "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/bighanddesign/128.jpg"
+    },
+    {
+      "id": 34,
+      "name": "罗 峻熙",
+      "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/joelcipriano/128.jpg"
+    },
+    {
+      "id": 35,
+      "name": "谢 擎苍",
+      "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/davidbaldie/128.jpg"
+    },
+    {
+      "id": 36,
+      "name": "马 伟诚",
+      "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/xravil/128.jpg"
+    },
+    {
+      "id": 37,
+      "name": "卢 熠彤",
+      "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/darylws/128.jpg"
+    },
+    {
+      "id": 38,
+      "name": "胡 鸿涛",
+      "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/bobwassermann/128.jpg"
+    },
+    {
+      "id": 39,
+      "name": "袁 航",
+      "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/hiemil/128.jpg"
+    },
+    {
+      "id": 40,
+      "name": "朱 天翊",
+      "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/bigmancho/128.jpg"
+    },
+    {
+      "id": 41,
+      "name": "马 晋鹏",
+      "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/akmalfikri/128.jpg"
+    },
+    {
+      "id": 42,
+      "name": "黎 正豪 III",
+      "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/low_res/128.jpg"
+    },
+    {
+      "id": 43,
+      "name": "刘 烨华 III",
+      "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/kojourin/128.jpg"
+    },
+    {
+      "id": 44,
+      "name": "叶 嘉懿",
+      "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/colirpixoil/128.jpg"
+    },
+    {
+      "id": 45,
+      "name": "萧 越彬",
+      "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/suprb/128.jpg"
+    },
+    {
+      "id": 46,
+      "name": "Mrs. 曹 嘉熙",
+      "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/charliecwaite/128.jpg"
+    },
+    {
+      "id": 47,
+      "name": "曾 远航",
+      "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/timothycd/128.jpg"
+    },
+    {
+      "id": 48,
+      "name": "石 博超",
+      "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/divya/128.jpg"
+    },
+    {
+      "id": 49,
+      "name": "石 弘文",
+      "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/plasticine/128.jpg"
+    },
+    {
+      "id": 50,
+      "name": "廖 志泽",
+      "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/shaneIxD/128.jpg"
+    },
+    {
+      "id": 51,
+      "name": "郭 雪松",
+      "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/vladarbatov/128.jpg"
+    },
+    {
+      "id": 52,
+      "name": "阎 智辉",
+      "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/jackiesaik/128.jpg"
+    },
+    {
+      "id": 53,
+      "name": "梁 弘文",
+      "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/falconerie/128.jpg"
+    },
+    {
+      "id": 54,
+      "name": "姜 炫明",
+      "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/mrebay007/128.jpg"
+    },
+    {
+      "id": 55,
+      "name": "洪 鹤轩",
+      "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/bistrianiosip/128.jpg"
+    },
+    {
+      "id": 56,
+      "name": "贾 耀杰",
+      "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/salleedesign/128.jpg"
+    },
+    {
+      "id": 57,
+      "name": "龚 皓轩",
+      "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/findingjenny/128.jpg"
+    },
+    {
+      "id": 58,
+      "name": "彭 正豪 MD",
+      "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/solid_color/128.jpg"
+    },
+    {
+      "id": 59,
+      "name": "邹 展鹏",
+      "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/michalhron/128.jpg"
+    },
+    {
+      "id": 60,
+      "name": "梁 煜城",
+      "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/_pedropinho/128.jpg"
+    },
+    {
+      "id": 61,
+      "name": "胡 乐驹 I",
+      "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/iqonicd/128.jpg"
+    },
+    {
+      "id": 62,
+      "name": "吴 浩然",
+      "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/karolkrakowiak_/128.jpg"
+    },
+    {
+      "id": 63,
+      "name": "谭 弘文",
+      "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/mr_subtle/128.jpg"
+    },
+    {
+      "id": 64,
+      "name": "Miss 顾 鹤轩",
+      "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/aviddayentonbay/128.jpg"
+    },
+    {
+      "id": 65,
+      "name": "白 擎宇",
+      "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/prinzadi/128.jpg"
+    },
+    {
+      "id": 66,
+      "name": "曾 智宸",
+      "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/grrr_nl/128.jpg"
+    },
+    {
+      "id": 67,
+      "name": "马 思淼",
+      "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/dgajjar/128.jpg"
+    },
+    {
+      "id": 68,
+      "name": "刘 炫明",
+      "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/danmartin70/128.jpg"
+    },
+    {
+      "id": 69,
+      "name": "邵 潇然",
+      "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/randomlies/128.jpg"
+    },
+    {
+      "id": 70,
+      "name": "黄 鹏涛",
+      "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/Chakintosh/128.jpg"
+    },
+    {
+      "id": 71,
+      "name": "Dr. 钱 智渊",
+      "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/divya/128.jpg"
+    },
+    {
+      "id": 72,
+      "name": "万 擎苍",
+      "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/normanbox/128.jpg"
+    },
+    {
+      "id": 73,
+      "name": "钟 熠彤 PhD",
+      "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/akashsharma39/128.jpg"
+    },
+    {
+      "id": 74,
+      "name": "姚 修杰 III",
+      "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/geobikas/128.jpg"
+    },
+    {
+      "id": 75,
+      "name": "龚 浩",
+      "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/victordeanda/128.jpg"
+    },
+    {
+      "id": 76,
+      "name": "Mrs. 傅 雪松",
+      "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/iamglimy/128.jpg"
+    },
+    {
+      "id": 77,
+      "name": "陈 子骞",
+      "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/pierre_nel/128.jpg"
+    },
+    {
+      "id": 78,
+      "name": "任 笑愚",
+      "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/konus/128.jpg"
+    },
+    {
+      "id": 79,
+      "name": "雷 煜城",
+      "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/aleksitappura/128.jpg"
+    },
+    {
+      "id": 80,
+      "name": "汪 昊天",
+      "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/danvierich/128.jpg"
+    },
+    {
+      "id": 81,
+      "name": "金 思远",
+      "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/sainraja/128.jpg"
+    },
+    {
+      "id": 82,
+      "name": "萧 思",
+      "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/envex/128.jpg"
+    },
+    {
+      "id": 83,
+      "name": "Ms. 覃 潇然",
+      "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/algunsanabria/128.jpg"
+    },
+    {
+      "id": 84,
+      "name": "谢 金鑫",
+      "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/bigmancho/128.jpg"
+    },
+    {
+      "id": 85,
+      "name": "曾 子涵",
+      "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/louis_currie/128.jpg"
+    },
+    {
+      "id": 86,
+      "name": "尹 耀杰",
+      "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/ChrisFarina78/128.jpg"
+    },
+    {
+      "id": 87,
+      "name": "Dr. 蒋 振家",
+      "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/guillemboti/128.jpg"
+    },
+    {
+      "id": 88,
+      "name": "丁 潇然",
+      "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/maz/128.jpg"
+    },
+    {
+      "id": 89,
+      "name": "刘 越彬",
+      "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/sunshinedgirl/128.jpg"
+    },
+    {
+      "id": 90,
+      "name": "陶 弘文",
+      "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/perretmagali/128.jpg"
+    },
+    {
+      "id": 91,
+      "name": "覃 健柏",
+      "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/thatonetommy/128.jpg"
+    },
+    {
+      "id": 92,
+      "name": "Dr. 宋 天磊",
+      "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/bruno_mart/128.jpg"
+    },
+    {
+      "id": 93,
+      "name": "顾 明杰",
+      "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/scottgallant/128.jpg"
+    },
+    {
+      "id": 94,
+      "name": "方 俊驰",
+      "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/benefritz/128.jpg"
+    },
+    {
+      "id": 95,
+      "name": "于 俊驰",
+      "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/dahparra/128.jpg"
+    },
+    {
+      "id": 96,
+      "name": "武 笑愚",
+      "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/ponchomendivil/128.jpg"
+    },
+    {
+      "id": 97,
+      "name": "龙 熠彤",
+      "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/evandrix/128.jpg"
+    },
+    {
+      "id": 98,
+      "name": "陆 潇然",
+      "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/missaaamy/128.jpg"
+    },
+    {
+      "id": 99,
+      "name": "何 苑博",
+      "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/yigitpinarbasi/128.jpg"
+    }
+  ],
+
+  "address":
+
+  [
+    {
+      "id": "f9426583-911e-4bac-90b4-5d8919a33aac",
+      "city": "海 范",
+      "county": "Cambridgeshire"
+    },
+    {
+      "id": "b3de55f0-ef46-4488-bf1b-28fdd6806fb1",
+      "city": "成 宋都市",
+      "county": "Avon"
+    },
+    {
+      "id": "f05dbbca-24cc-48ec-ac0d-bf2a6d2ec6fc",
+      "city": "吉 林",
+      "county": "Avon"
+    },
+    {
+      "id": "60417e37-f092-4708-af89-f6023b22a429",
+      "city": "烨伟码市",
+      "county": "Berkshire"
+    },
+    {
+      "id": "e354fe21-bf0b-4f4f-b660-1e953d8e0dd2",
+      "city": "熠彤南市",
+      "county": "Borders"
+    },
+    {
+      "id": "d164527e-d3e4-43fc-a050-fc3c7e42e2ee",
+      "city": "厦 石",
+      "county": "Bedfordshire"
+    },
+    {
+      "id": "ba65f401-7c99-4e1f-a398-9fa2e2d95767",
+      "city": "安 邵口市",
+      "county": "Bedfordshire"
+    },
+    {
+      "id": "5ada762f-1f93-4259-bf86-96d990f73562",
+      "city": "吉 袁沙市",
+      "county": "Cambridgeshire"
+    },
+    {
+      "id": "c3cbf2a1-b07c-4164-8191-153a754ef86f",
+      "city": "智宸阳市",
+      "county": "Berkshire"
+    },
+    {
+      "id": "1f2388fb-f6f0-4b88-b2d3-b32d6b0538b7",
+      "city": "笑愚口市",
+      "county": "Avon"
+    },
+    {
+      "id": "b8ac7182-b574-4f70-a976-2eb431f38551",
+      "city": "郑林市",
+      "county": "Avon"
+    },
+    {
+      "id": "16403f97-6be8-402e-acde-96a956154997",
+      "city": "驰都市",
+      "county": "Buckinghamshire"
+    },
+    {
+      "id": "91044499-c2cd-438d-a193-ca7ec52a5d28",
+      "city": "志泽南市",
+      "county": "Berkshire"
+    },
+    {
+      "id": "35c8b83b-519d-43ed-93d8-ef5c1c944d26",
+      "city": "廖头市",
+      "county": "Buckinghamshire"
+    },
+    {
+      "id": "562c3c2d-97c2-4511-9be4-3d8ce911aa7c",
+      "city": "珠 蒋南市",
+      "county": "Avon"
+    },
+    {
+      "id": "96a4b7c5-90d2-4c7a-b6fa-3b8318e4e592",
+      "city": "聪健宁市",
+      "county": "Avon"
+    },
+    {
+      "id": "7e3fac01-d993-410a-81f3-70e08c245f88",
+      "city": "昊焱海市",
+      "county": "Bedfordshire"
+    },
+    {
+      "id": "9a3d3a80-d8f3-4361-9c77-8100e46ff905",
+      "city": "沈口市",
+      "county": "Buckinghamshire"
+    },
+    {
+      "id": "a822d0b5-efed-4212-b0e2-c9d6f95e54ac",
+      "city": "上 秦京市",
+      "county": "Borders"
+    },
+    {
+      "id": "28ecbba1-a5dc-4d57-8b8e-c12cfad22b64",
+      "city": "洪都市",
+      "county": "Buckinghamshire"
+    },
+    {
+      "id": "7300ea8a-9f05-4dea-966a-a2e09e991724",
+      "city": "雨泽原市",
+      "county": "Cambridgeshire"
+    },
+    {
+      "id": "a8586092-8d33-4992-ac8f-c1d95810cb44",
+      "city": "包 万",
+      "county": "Buckinghamshire"
+    },
+    {
+      "id": "e29d72ed-524f-49b5-9344-e00d7a03fc20",
+      "city": "厦 罗",
+      "county": "Cambridgeshire"
+    },
+    {
+      "id": "51110299-3a40-4d34-a923-a81894ff2779",
+      "city": "长 程",
+      "county": "Bedfordshire"
+    },
+    {
+      "id": "27554b01-bddf-4847-a936-2c1381fe60cc",
+      "city": "诸 韦口市",
+      "county": "Bedfordshire"
+    },
+    {
+      "id": "e9531908-a50c-4779-bf7f-f3c22060ad1d",
+      "city": "贵 吕",
+      "county": "Cambridgeshire"
+    },
+    {
+      "id": "8c7d9d60-47c7-4120-8119-6919cc684ba9",
+      "city": "煜祺沙市",
+      "county": "Buckinghamshire"
+    },
+    {
+      "id": "5addc91c-3f98-48e7-9958-b560ab9b06e6",
+      "city": "珠 刘门市",
+      "county": "Borders"
+    },
+    {
+      "id": "a809594e-77f3-43b5-872c-e4d0190e1e53",
+      "city": "致远阳市",
+      "county": "Cambridgeshire"
+    },
+    {
+      "id": "afdea177-cfa7-44b3-91a5-08850a42138b",
+      "city": "浩门市",
+      "county": "Buckinghamshire"
+    },
+    {
+      "id": "b24d5373-5945-49e1-af6f-7a882b0eeec9",
+      "city": "萧门市",
+      "county": "Bedfordshire"
+    },
+    {
+      "id": "921ea246-c3ce-4d4f-96cf-005af4e85908",
+      "city": "金乡县",
+      "county": "Cambridgeshire"
+    },
+    {
+      "id": "7ac6d310-892e-4713-8073-cae84fb5c380",
+      "city": "上 冯京市",
+      "county": "Berkshire"
+    },
+    {
+      "id": "48b182bf-6c72-402c-8820-e3c6d8670533",
+      "city": "秦头市",
+      "county": "Avon"
+    },
+    {
+      "id": "ac0a8925-e518-4abe-8695-a97adb0f0751",
+      "city": "洪南市",
+      "county": "Bedfordshire"
+    },
+    {
+      "id": "566ca658-016d-42db-a85f-3ce72b257592",
+      "city": "陶原市",
+      "county": "Borders"
+    },
+    {
+      "id": "8725e989-688d-4793-8c84-c71f2274ab9f",
+      "city": "戴宁市",
+      "county": "Borders"
+    },
+    {
+      "id": "c2829734-8a15-4d03-9938-5a73c81f64bb",
+      "city": "包 钟南市",
+      "county": "Borders"
+    },
+    {
+      "id": "bda2854b-d9f6-42ac-b7b3-b936f59b8fac",
+      "city": "昊焱阳市",
+      "county": "Bedfordshire"
+    },
+    {
+      "id": "710808f4-9c34-461a-b0ba-7f47ebc8c3d8",
+      "city": "珠 熊沙市",
+      "county": "Bedfordshire"
+    },
+    {
+      "id": "4bdab1e1-5daa-47a2-a571-1e093f8b114c",
+      "city": "贵 罗门市",
+      "county": "Buckinghamshire"
+    },
+    {
+      "id": "ceb1ed96-5194-4bf8-815c-4f3e27fd01be",
+      "city": "成 罗",
+      "county": "Cambridgeshire"
+    },
+    {
+      "id": "518dc517-c4e1-46b5-9ac3-b3924f387ea2",
+      "city": "厦 徐",
+      "county": "Buckinghamshire"
+    },
+    {
+      "id": "38d31a50-c5b4-4799-aa52-a129dd9b87cc",
+      "city": "贵 于",
+      "county": "Bedfordshire"
+    },
+    {
+      "id": "f23b0c6c-05be-40c8-962d-2feb74225ce0",
+      "city": "钰轩林市",
+      "county": "Bedfordshire"
+    },
+    {
+      "id": "cf6e1213-1dd6-419b-957a-bd38f525d379",
+      "city": "白码市",
+      "county": "Avon"
+    },
+    {
+      "id": "c93b7963-01b6-4eba-bf88-983520b00f77",
+      "city": "济 毛头市",
+      "county": "Buckinghamshire"
+    },
+    {
+      "id": "8447659e-515e-4b05-a6dc-21402e00aef5",
+      "city": "诸 汪汉市",
+      "county": "Cambridgeshire"
+    },
+    {
+      "id": "5d68a696-d5bc-470a-adf6-1b1747ddf8a7",
+      "city": "彭州市",
+      "county": "Cambridgeshire"
+    },
+    {
+      "id": "ca91dfc0-54dd-495b-b616-3cbfb315017a",
+      "city": "诸 崔阳市",
+      "county": "Buckinghamshire"
+    },
+    {
+      "id": "bb31a9ea-11a4-4bc8-bbec-fd88cb343a7e",
+      "city": "驰阳市",
+      "county": "Bedfordshire"
+    },
+    {
+      "id": "241cdb5d-b41d-4291-aa96-59716eebf137",
+      "city": "太 唐",
+      "county": "Buckinghamshire"
+    },
+    {
+      "id": "f92f2c10-4f24-4320-8da5-4b7c2de344df",
+      "city": "陈乡县",
+      "county": "Buckinghamshire"
+    },
+    {
+      "id": "6b69b402-8c21-40ba-b07d-d2f0a8f8f479",
+      "city": "包 许林市",
+      "county": "Bedfordshire"
+    },
+    {
+      "id": "94772d07-e703-4c3d-a16b-9160e6e6e5d2",
+      "city": "福 莫京市",
+      "county": "Berkshire"
+    },
+    {
+      "id": "0a2e7a31-82ad-4861-8b98-b29bfd9f0693",
+      "city": "南 杨",
+      "county": "Berkshire"
+    },
+    {
+      "id": "05b7e47e-c060-4a7b-9300-07025a2f3984",
+      "city": "峻熙林市",
+      "county": "Bedfordshire"
+    },
+    {
+      "id": "f582b0a9-2ee3-4ba6-9026-5dce03292420",
+      "city": "厦 任徽市",
+      "county": "Buckinghamshire"
+    },
+    {
+      "id": "c04ac33e-51c5-4ee3-a007-a7f68ebb7713",
+      "city": "福 胡",
+      "county": "Avon"
+    },
+    {
+      "id": "6ac27289-5df9-44ca-957b-604f92b38fc3",
+      "city": "南 叶",
+      "county": "Borders"
+    },
+    {
+      "id": "8bd8a1ff-7f47-48c6-9779-b139863b56ff",
+      "city": "戴宁市",
+      "county": "Avon"
+    },
+    {
+      "id": "d0686c11-aca4-4642-843f-c198eb420df8",
+      "city": "旭尧口市",
+      "county": "Berkshire"
+    },
+    {
+      "id": "8b9cd692-094f-4977-b6d9-b490d671ce95",
+      "city": "贵 陆原市",
+      "county": "Avon"
+    },
+    {
+      "id": "d84ae85d-ff8e-40f5-9663-e278440f3275",
+      "city": "孙阳市",
+      "county": "Cambridgeshire"
+    },
+    {
+      "id": "a596b64b-a181-4151-b8f0-f30d40efcb90",
+      "city": "钰轩安市",
+      "county": "Berkshire"
+    },
+    {
+      "id": "91657fc9-403f-433b-ace6-b63e8049916f",
+      "city": "孔乡县",
+      "county": "Cambridgeshire"
+    },
+    {
+      "id": "406b8668-6de5-47b5-a4f7-bdf296b453cd",
+      "city": "夏沙市",
+      "county": "Borders"
+    },
+    {
+      "id": "55e801c1-7127-423f-a5c5-606d1f1e41f8",
+      "city": "嘉懿汉市",
+      "county": "Bedfordshire"
+    },
+    {
+      "id": "03e7c9b2-fe18-41f8-82c3-9a8d46d61bc2",
+      "city": "武 郭阳市",
+      "county": "Cambridgeshire"
+    },
+    {
+      "id": "6a11dac6-080a-4078-a6bb-309bbdbd1670",
+      "city": "烨霖都市",
+      "county": "Bedfordshire"
+    },
+    {
+      "id": "4bfae108-5bae-4276-bc0e-6be17e1d2855",
+      "city": "黎京市",
+      "county": "Cambridgeshire"
+    },
+    {
+      "id": "4c28fc74-24e7-4452-a785-b82b180a37b9",
+      "city": "厦 高南市",
+      "county": "Avon"
+    },
+    {
+      "id": "6a6e6ff4-0a8a-4a65-a724-81cf7b12e09b",
+      "city": "武 黎",
+      "county": "Buckinghamshire"
+    },
+    {
+      "id": "bd653bf1-5e2f-4900-95a9-e1f192701706",
+      "city": "西 潘",
+      "county": "Buckinghamshire"
+    },
+    {
+      "id": "a95a886b-4149-4347-bc86-577c03dc9fbc",
+      "city": "武 冯阳市",
+      "county": "Cambridgeshire"
+    },
+    {
+      "id": "52445c2f-d10d-4457-9e93-3f3a2906bded",
+      "city": "薛阳市",
+      "county": "Cambridgeshire"
+    },
+    {
+      "id": "1f001213-287c-4c46-8a4d-0aaae3b592fd",
+      "city": "贵 叶",
+      "county": "Borders"
+    },
+    {
+      "id": "169c980f-9ed6-419f-a367-5d12edcb37ad",
+      "city": "吉 龚林市",
+      "county": "Bedfordshire"
+    },
+    {
+      "id": "9318b42f-7f63-47cf-9de6-57c13130a143",
+      "city": "杜州市",
+      "county": "Cambridgeshire"
+    },
+    {
+      "id": "bef29c9b-e182-4eab-9245-fdd9b12d8da0",
+      "city": "曹口市",
+      "county": "Avon"
+    },
+    {
+      "id": "9b72c8ef-c0d5-4c58-b861-9f8e572845a3",
+      "city": "贵 任",
+      "county": "Borders"
+    },
+    {
+      "id": "50f586ff-2eeb-44f0-b81f-1f210b5fbdf8",
+      "city": "贵 叶",
+      "county": "Avon"
+    },
+    {
+      "id": "40bd6c72-21cb-45d9-84a0-4d4c6104af8f",
+      "city": "博超州市",
+      "county": "Cambridgeshire"
+    },
+    {
+      "id": "7541e7a8-aa00-4b35-bea6-bc4e31b25aab",
+      "city": "于徽市",
+      "county": "Bedfordshire"
+    },
+    {
+      "id": "13bdabd8-e288-4bdf-a584-2bc95bcbf1b9",
+      "city": "成 金安市",
+      "county": "Avon"
+    },
+    {
+      "id": "058631cf-80ca-4144-8b5c-05a5c0f8770f",
+      "city": "靖琪码市",
+      "county": "Borders"
+    },
+    {
+      "id": "ef5cc476-8dca-4ce5-aeaa-6c354bc19127",
+      "city": "越彬南市",
+      "county": "Cambridgeshire"
+    },
+    {
+      "id": "53000889-0308-4a6c-9746-ae4854cc999d",
+      "city": "陶都市",
+      "county": "Cambridgeshire"
+    },
+    {
+      "id": "63a09c36-4167-4628-a68c-ff506e76e1cd",
+      "city": "衡 龙阳市",
+      "county": "Cambridgeshire"
+    },
+    {
+      "id": "e65bd3d6-1447-4071-b1b1-fbfa83222a63",
+      "city": "郝沙市",
+      "county": "Avon"
+    },
+    {
+      "id": "6aec237f-23ad-4b5a-b0b1-ab55b87738f4",
+      "city": "珠 姚",
+      "county": "Berkshire"
+    },
+    {
+      "id": "04e42d8a-8d4a-4e44-b5dd-2b56e689551e",
+      "city": "绍辉徽市",
+      "county": "Cambridgeshire"
+    },
+    {
+      "id": "4fd3703b-b548-4e4c-af6a-5594ee81224f",
+      "city": "晋鹏头市",
+      "county": "Buckinghamshire"
+    },
+    {
+      "id": "2f2f6d0b-d04c-4a50-80f9-2503dce0ff18",
+      "city": "成 吴",
+      "county": "Avon"
+    },
+    {
+      "id": "8b87d40c-ea48-49af-b005-87f527ab7cca",
+      "city": "太 王阳市",
+      "county": "Berkshire"
+    },
+    {
+      "id": "a94a8d5f-604c-44be-a62d-11a93f85bdd6",
+      "city": "厦 林",
+      "county": "Cambridgeshire"
+    },
+    {
+      "id": "75f3d8c3-d208-4082-99c1-0251a781c586",
+      "city": "太 武",
+      "county": "Berkshire"
+    },
+    {
+      "id": "1f3facb2-41c6-4f89-a4a4-973f4ea0b8e0",
+      "city": "安 严头市",
+      "county": "Buckinghamshire"
+    },
+    {
+      "id": "b55a06ff-f47f-4e57-a248-b87d0546fa31",
+      "city": "西 侯",
+      "county": "Berkshire"
+    },
+    {
+      "id": "cde5fffc-da86-434d-b2ba-3030becdfee6",
+      "city": "西 陈门市",
+      "county": "Berkshire"
+    }
+  ],
+
+  // CNode API
+
+  "topics":
+
+  {"success":true,"data":[{"id":"5ae140407b0e8dc508cca7cc","author_id":"573ab7ba542374db1db0a436","tab":"share","content":"<div class=\"markdown-text\"><h3>【6.8更新】</h3>\n<p>直播地址 <a href=\"https://www.douyu.com/3460404\">斗鱼直播地址，6.9下午13:30开播</a></p>\n<h3>【议程安排】</h3>\n<p>本次NodeParty将于2018年6月9日在上海市静安区新闸路1418号，冠生园大厦5楼会议室举行\n13:00 签到入场\n13:30-16:30 主题分享\n16:30-17:30 自由交流</p>\n<h3>【报名】</h3>\n<p>添加我的微信 aojiaotage ，注明 NodeParty 即可，下面是我微信的二维码\n<img src=\"//dn-cnode.qbox.me/FjXp42hBbGGTrv_fnQUGxmX3RUeA\" alt=\"image.png\"></p>\n<h3>【分享简介】</h3>\n<h4>Node.js构建游戏服务器集群的思考 - 毛明超</h4>\n<p>分享者简介：15年游戏开发经验，2015年开始使用Node.js开发高性能服务器集群，精通服务端开发和项目架构设计</p>\n<h4>Difficulty and Complexity - kyicy</h4>\n<p>分享者简介：PwC team leader，擅长Go和JavaScript</p>\n<h4>AnyProxy， 基于node的一种可编程代理实现 -  砚然</h4>\n<p>分享者简介：蚂蚁金服高级前端工程师，AnyProxy开源项目成员</p>\n<h4>GraphQL实践 - timqian</h4>\n<p>分享者简介：Modelo 后端工程师，star-history，gql-generator 作者</p>\n<h4>Node.js在自动化测试中的全面应用 - 经致远</h4>\n<p>分享者简介：聆播科技CEO，曾任惠普软件研发经理和微软高级开发经理，负责多款自动化产品的中国区研发，包括LoadRunner、QTP/UFT、Mobile Center等</p>\n<h4>A Beginner’s Guide to the Internet of Things—How to lifehack your life with Node.js and IoT clouds-Grant Dawson</h4>\n<p>分享者简介：17 years of experience hacking online games, VR and 3D mapping. UwoTec CTO. Nominated as an Alibaba Cloud MVP and speaker for the 2050 New Generation conference.</p>\n<h3>赞助商详情</h3>\n<p>本次活动由于报名人数大于预期，我们临时更换了付费场地以容纳更多与会者，十分感谢以下公司无私的场地赞助、人力赞助（排名不分先后）</p>\n<h4>考拉优教</h4>\n<p>考拉优教（我司）专注于为中国家庭提供多元化儿童素质教育服务平台，为百万用户提供多样的素质教育优质内容</p>\n<h4>游密通讯云</h4>\n<p>游密科技成立于2015年，其核心团队曾在腾讯、盛大、华为从事音视频通讯开发与管理16年。短短3年间，服务的用户数量突破10亿，游密也成为全球音视频通讯云服务的领先者！</p>\n<h4>数数科技</h4>\n<p>数数科技是一家专业的大数据服务公司，为客户提供舆情分析与监控、深度用户行为分析平台、以及专业的咨询服务和行业解决方案等一站式服务，赋予客户数据驱动的能力。</p>\n</div>","title":"【NODE PARTY】【上海】【6月9日 13:30】报名&答疑帖","last_reply_at":"2018-06-08T15:25:42.372Z","good":false,"top":true,"reply_count":236,"visit_count":10751,"create_at":"2018-04-26T02:58:08.067Z","author":{"loginname":"aojiaotage","avatar_url":"https://avatars3.githubusercontent.com/u/8339316?v=4&s=120"}},{"id":"5ab34443e7b166bb7b9ecd06","author_id":"596a2b5edb0b6aec18a28569","tab":"share","content":"<div class=\"markdown-text\"><p>加入cnodejs社区也快1年了，没对社区做过什么贡献，看到社区要公测，刚好自己在公司使用node.js做自动化测试。\n这次我要对社区贡献一套UI自动化代码，别人如果想自己搭建一套社区的话，可以直接运行这套UI自动化代码来检查UI功能。\n平时工作时间比较忙，所以本周日我计划要做如下的事情，\n为了让大家都能看懂我的代码，我会使用行为驱动测试的方式来写代码，完成之后的代码大致如下：\n<img src=\"//dn-cnode.qbox.me/FpAr57XACJfit4rzN4sa2BBulYUj\" alt=\"image.png\">\n可以通过查阅文字描述了解测试的功能点。</p>\n<p>现在我想拉个微信群，如果各位有兴趣，我们可以一起来做。不会写代码也没有关系，可以帮助我们来写测试用例，或者给我们写的测试用例提建议。\n<img src=\"//dn-cnode.qbox.me/FlVUhc1vFM8HAnb0jH1hRHfT6Nu5\" alt=\"微信图片_20180322133956.png\">\n微信群人数超过100. 不能添加人员，可以加入QQ群 707467292 进行讨论node.js &amp;&amp; Cucumber的测试技术交流。</p>\n</div>","title":"为社区做贡献，帮社区写自动化测试代码","last_reply_at":"2018-05-29T03:24:46.461Z","good":false,"top":true,"reply_count":104,"visit_count":32204,"create_at":"2018-03-22T05:50:59.209Z","author":{"loginname":"imzengyang","avatar_url":"https://avatars1.githubusercontent.com/u/22312483?v=4&s=120"}},{"id":"5b1f8e5e29e6e510415b2a31","author_id":"583262d46efc292b79ff0b84","tab":"ask","content":"<div class=\"markdown-text\"><p>问题描述：\n在公司有做一个node中间层负责 merge多个后端接口返回给前端调用，现在有一情景，需要分7次请求某个后端接口，一次请求6个id，这7次可以并发请求，\n单纯压测后端接口（6个id的情况），qps可达7000，node中间层代理后 qps降到了 220左右， 去掉了其他影响条件，只是单纯的并发请求7次接口，qps也只有280左右，\ncpu占用率 高达80%，内存占用不高，应该只有socket创建产生的内存，几十M左右。\n使用strace 跟踪进程，发现是\n<img src=\"//dn-cnode.qbox.me/Fpq8fK0ymwYAGLfaF3EN1YlqMGi0\" alt=\"image.png\">\nfutex跟读写操作占cpu使用较高\n使用pstack分析结果：\n<img src=\"//dn-cnode.qbox.me/FsrDd7a0gTPqQI8-dpD4d5NqH4HU\" alt=\"image.png\">\nC++较弱，看样子是在创建序列化JSON对象。</p>\n<p>问题条件：\n1.打印这7次并发请求的时间，发现最后一次请求的时间 远大于前6次，应该是响应时间过长导致qps上不去，\n做了以下优化：agent的maxSocket设置为3000，keepalive为true，减少tcp握手浪费的时间，使用tcpdump抓包，确实没有了tcp握手这一步，时间有一点点减少</p>\n<ol>\n<li>单个接口(批量6个id请求后端接口)时间为 20ms左右，但是并发七个 请求 就变成了 1500ms+了 (<strong>忽略该条件，重新验证时间差不多)</strong></li>\n</ol>\n<p>令人头秃的疑问：\nsocket在资源足够的情况下理论上是可以无限创建的，这意味着request请求可以无限发起，而且node本身是异步的，网络io不需要阻塞等待，可以继续发起下一次req，如果下一个事件循环中res返回了，再进行处理。\n即使是由于node事件监听这块的性能有损耗，不能无限发起，现在的情况 也太低了， 应该到1000qps左右才算正常，（参照后端接口7000的并发）</p>\n<p>希望cnode 里的node大佬给咱解释一下这个问题。\n以上测试 都是在单纯的并发7个请求并返回给前端的情况，中间层无额外处理逻辑。\n拜谢~~</p>\n<hr>\n<p>问题补充：\n框架使用的是简化版的egg，基于koa的，请求包用的是request，并未对 http请求做额外的封装\n补充一：\n重新验证了同时发6次，7次的情况，日志里记录的时间 差不多，没有较大差异， 使用process.hrttime()记录的，应该比较准</p>\n</div>","title":"node处理高并发请求cpu过高的问题","last_reply_at":"2018-06-12T10:28:40.099Z","good":false,"top":false,"reply_count":4,"visit_count":131,"create_at":"2018-06-12T09:11:58.938Z","author":{"loginname":"sunstdot","avatar_url":"https://avatars3.githubusercontent.com/u/2016843?v=4&s=120"}},{"id":"5b1f97ee57137f22415c4b8f","author_id":"5a5d75459288dc8153287e58","tab":"ask","content":"<div class=\"markdown-text\"><p>没有nodejs版本啊~~</p>\n</div>","title":"请问 ！阿里云OSS  服务端签名直传并设置上传回调 有谁做过吗？","last_reply_at":"2018-06-12T10:23:27.015Z","good":false,"top":false,"reply_count":1,"visit_count":44,"create_at":"2018-06-12T09:52:46.231Z","author":{"loginname":"zhubenjie","avatar_url":"https://avatars3.githubusercontent.com/u/21832438?v=4&s=120"}},{"id":"5b1d08e457137f22415c4af8","author_id":"5ad09d2d464b1bfa6b42510b","tab":"ask","content":"<div class=\"markdown-text\"><p><img src=\"//dn-cnode.qbox.me/FiqZbvCCLNuVB1XvwW3huxI6LTye\" alt=\"捕获.PNG\">\n按照网上教程都是默认安装，可是一直报这个错：/c/Program Files/nodejs/npm: line 19: /c/Program Files/nodejs/node.exe: Invalid argument\n搞不明白</p>\n</div>","title":"git终端无法使用npm命令","last_reply_at":"2018-06-12T10:05:44.675Z","good":false,"top":false,"reply_count":6,"visit_count":502,"create_at":"2018-06-10T11:17:56.721Z","author":{"loginname":"is-Fack","avatar_url":"https://avatars1.githubusercontent.com/u/37771426?v=4&s=120"}},{"id":"5b1deec75cd02be640901380","author_id":"4f4c779a940ce2e60b1e3b3f","tab":"share","content":"<div class=\"markdown-text\"><blockquote>\n<p>一个直接用纯ES6实现的跨平台的Linux命令集。</p>\n</blockquote>\n<p>Cash 的实现没有任何原生编译和其他额外依赖，在Windows上通过JS环境提供一个跟Linux体验一致的跨平台bash脚本终端。</p>\n<h2>npm即可安装：</h2>\n<pre class=\"prettyprint language-bash\"><code>&gt; npm install cash -g\n&gt; cash\n$\n</code></pre><p><img src=\"//dn-cnode.qbox.me/FqYJ4TDmBcnyA9aIi38tAmsGLgYH\" alt=\"cash.gif\"></p>\n<h3>而且还能混合Windows和Unix命令：</h3>\n<pre class=\"prettyprint language-bash\"><code>$ ipconfig | grep IPv4 | sort\nIPv4 Address. . . . . . . . . . . : 10.10.40.50\nIPv4 Address. . . . . . . . . . . : 192.168.100.11\n$\n</code></pre><h3>如果不想输入cash直接全局安装所有命令即可：</h3>\n<pre class=\"prettyprint language-bash\"><code>&gt; npm install cash-global -g\n&gt; ls -lah\n</code></pre><h3>当然，也可以只安装指定命令</h3>\n<pre class=\"prettyprint language-bash\"><code>&gt; npm install cash-ls -g\n&gt; npm install cash-grep -g\n</code></pre><h3>什么，居然还能在代码里直接用？</h3>\n<pre class=\"prettyprint language-js\"><code>const $ = require(&#x27;cash&#x27;);\nconst out = $.ls(&#x27;.&#x27;, {l: true});\n</code></pre><p>还可以这样：</p>\n<pre class=\"prettyprint language-js\"><code>const out = $(&#x27;ls -lah&#x27;);\n</code></pre><h2>Cash 已经支持的命令清单，如下：</h2>\n<ul>\n<li>alias</li>\n<li>cat</li>\n<li>clear</li>\n<li>cd</li>\n<li>cp</li>\n<li>echo</li>\n<li>export</li>\n<li>false</li>\n<li>grep</li>\n<li>head</li>\n<li>kill</li>\n<li>less</li>\n<li>ls</li>\n<li>mkdir</li>\n<li>mv</li>\n<li>pwd</li>\n<li>rm</li>\n<li>sort</li>\n<li>source</li>\n<li>tail</li>\n<li>touch</li>\n<li>true</li>\n<li>unalias</li>\n</ul>\n<p>想支持更多命令？看看cash下一步的<a href=\"https://github.com/dthree/cash/wiki/Roadmap\">规划</a></p>\n<p>更多<a href=\"https://awehunt.com/?tnid=5af284c153b5378301378d75\">Node.js精彩命令行应用</a>\n更多<a href=\"https://awehunt.com/?tnid=5b0015cd1cff0c17b76b56f7\">Node.js开脑洞的命令行开发模式</a></p>\n<p>来自✨ <a href=\"https://awehunt.com/?tnid=5af1c0b67b4fac67bf3af2b4\">Node.js开源项目精选</a>✨</p>\n</div>","title":"只需一个Node.js库，即可轻松在Windows和代码里执行Linux命令！","last_reply_at":"2018-06-12T09:45:31.168Z","good":false,"top":false,"reply_count":9,"visit_count":566,"create_at":"2018-06-11T03:38:47.183Z","author":{"loginname":"vendar","avatar_url":"//gravatar.com/avatar/246abe2445d43c1497ff0481c0ab524c?size=48"}},{"id":"5b1f92a857137f22415c4b8c","author_id":"5b1f917457137f22415c4b8b","tab":"share","content":"<div class=\"markdown-text\"><p>VPN的英文全称为Virtual Private Network，翻译成汉语叫做虚拟专用网络，选择一款好用的VPN能够有效的帮助我们在中国进行科学上网，比如使用google搜索，gmail，youtube等非常优秀的互联网产品。</p>\n<p>本页面会推荐几款在中国好用又稳定的国外付费VPN服务，也算是术业有专攻吧，省精力省时间。国内的还是算了，不解释。另外，天底下没有免费的午餐，免费的才是最贵的，大家慢慢会体会到这一句话的意思，因为1免费的VPN效果通常都不好，一方面网络不稳定、速度慢，2另一方面，我们要花费大量的时间和精力用在不停的寻找免费VPN上。</p>\n<p>国外付费VPN的推荐原则：不追求数量、尽量减少推荐的数量；着重于质量，首先被推荐的付费VPN要在中国可以很好的使用，然后要尽量有一些价格上的优惠，毕竟大家都喜欢优惠。</p>\n<h2>书归正传，2018 在中国最好用的几款国外付费VPN推荐：</h2>\n<p>以下VPN都支持android安卓、iOS苹果系统、windows等主流平台和设备。</p>\n<p><strong><a href=\"http://www.linkev.com/?a_fid=clover\" title=\"中国 付费VPN，expressVPN\">. ExpressVPN</a></strong>，成立于2009年，注册地点在英属维尔京群岛，不记录连接信息、不记录活动日志，30天内无条件退款，支持支付宝和PayPal付款，使用效果最优。</p>\n<p><strong>. <a href=\"https://www.goldenfrog.com/zh/vyprvpn?offer_id=174&amp;aff_id=3008\" title=\"好用的付费VPN，golden frog VyprVPN\">VyprVPN</a></strong>，注册地在瑞士，2010年成立，专业公司Golden Frog(黄金青蛙)的VPN服务，综合性价比最优惠，其变色龙加密在中国的VPN圈里是非常知名的，一共有年付和月付两种优惠类型，两种优惠都支持三天免费试用，年付的话<a href=\"https://www.goldenfrog.com/zh/vyprvpn?offer_id=174&amp;aff_id=3008\" title=\"年付优惠\">送三个月免费</a>，月付的话<a href=\"https://www.goldenfrog.com/zh/vyprvpn?offer_id=129&amp;aff_id=3008\" title=\"月付优惠\">首月半价</a>，优惠在选择付款方式时可见。同样也支持支付宝付款，推荐用paypal付款。</p>\n<p><strong><a href=\"https://go.nordvpn.net/aff_c?offer_id=153&amp;aff_id=13110&amp;url_id=1514\" title=\"中国 付费VPN推荐 nordVPN\">. NordVPN</a></strong>，2012年在巴拿马注册成立，PC Magazine评价它为2017年年度最佳VPN服务，在中国的口碑也非常好，最多可以同时连接6台设备，双重数据加密，30天内退款保证，可以支付宝付款。</p>\n<p>. 正在测试中的。</p>\n<p><a href=\"https://billing.purevpn.com/aff.php?aff=35614\" title=\"香港VPN\">pureVPN</a>，来自香港，2006年就开始运营，规模和实力不及上面的三个，它主要针对的就是中国大陆的市场，也算是小而精吧，同时最多供5个设备使用，7天内退款保证。</p>\n<p>以上VPN都有很好的在线客服服务，如果你在购买或者使用过程中有什么问题，你可以通过在线客服及时获得相关帮助，如果使用结果不满意，你可以在规定的时间内及时退款。</p>\n</div>","title":"2018 在中国最好用的几款国外付费VPN推荐","last_reply_at":"2018-06-12T09:30:16.015Z","good":false,"top":false,"reply_count":0,"visit_count":72,"create_at":"2018-06-12T09:30:16.015Z","author":{"loginname":"yhsyxyz","avatar_url":"https://avatars1.githubusercontent.com/u/40199642?v=4&s=120"}},{"id":"5b1f839a29e6e510415b2a24","author_id":"597220fe8f0313ff0d08d6bb","tab":"ask","content":"<div class=\"markdown-text\"><p>假设文档如下：</p>\n<pre class=\"prettyprint\"><code>\t{\n\t\t _id:ObjectId(&quot;aafdfefef343fdsfs&quot;),\n\t\tname:&quot;hehe&quot;,\n\t\titemList:[\n\t\t\t{\n\t\t\t\titemType:1,\n\t\t\t\tcount:100\n\t\t\t},\n\t\t\t{\n\t\t\t\titemType:2,\n\t\t\t\tcount:100\n\t\t\t},\n\t\t\t{\n\t\t\t\titemType:3,\n\t\t\t\tcount:100\n\t\t\t},\n\t\t\t{\n\t\t\t\titemType:4,\n\t\t\t\tcount:100\n\t\t\t},\n\t\t\t{\n\t\t\t\titemType:5,\n\t\t\t\tcount:100\n\t\t\t},\t\t\t\t\n\t\t]\n\t}\n</code></pre><p><strong>现在要实现将itemList中itempType为1的count减小1， itempType为5的count减小2，要怎么操作呢？</strong></p>\n</div>","title":"有人熟悉mongodb的   $[<identifier>]  操作吗","last_reply_at":"2018-06-12T08:26:02.853Z","good":false,"top":false,"reply_count":0,"visit_count":104,"create_at":"2018-06-12T08:26:02.853Z","author":{"loginname":"lovegnep","avatar_url":"https://avatars0.githubusercontent.com/u/29669264?v=4&s=120"}},{"id":"5b18aba65cd02be64090125c","author_id":"58acddd3414c2f516447891b","tab":"share","content":"<div class=\"markdown-text\"><p><strong>链接如下</strong>\n<a href=\"https://promotion.aliyun.com/ntms/act/group/team.html?group=t052tHeHXO\">传送门</a>\n<img src=\"//dn-cnode.qbox.me/FjBkfpXsYtT3tW8kAusTK3fkFzcL\" alt=\"image.png\"></p>\n</div>","title":"阿里云ECS搞活动了，云服务低至99元每年了","last_reply_at":"2018-06-12T08:13:19.301Z","good":false,"top":false,"reply_count":5,"visit_count":417,"create_at":"2018-06-07T03:51:02.601Z","author":{"loginname":"15521054523","avatar_url":"https://avatars2.githubusercontent.com/u/19297519?v=4&s=120"}},{"id":"5b1f6ff58a4f51e140d9475a","author_id":"56b3107271204e03637a37fa","tab":"share","content":"<div class=\"markdown-text\"><p>帮朋友转两个域名\ntaopiaopiao.app\ntongbanjie.app\n需要可以咨询 17317443405 （微信号也是这个手机号）</p>\n</div>","title":"转让淘票票 铜板街域名","last_reply_at":"2018-06-12T07:02:13.495Z","good":false,"top":false,"reply_count":0,"visit_count":335,"create_at":"2018-06-12T07:02:13.495Z","author":{"loginname":"andythink","avatar_url":"https://avatars.githubusercontent.com/u/5006638?v=3&s=120"}},{"id":"5b1f3acb8a4f51e140d94749","author_id":"53e47a3a71470ac0550b907e","tab":"ask","content":"<div class=\"markdown-text\"><p>比如A视频文件，有3秒\nB视频有4秒文件。\n拼合成7秒的新视频。\n搜索引擎找不到有类似案例，所以来问问。</p>\n</div>","title":"有人试过用nodejs将两个mp4的视频拼在一块吗？","last_reply_at":"2018-06-12T06:34:01.735Z","good":false,"top":false,"reply_count":5,"visit_count":459,"create_at":"2018-06-12T03:15:23.451Z","author":{"loginname":"x-da","avatar_url":"https://avatars0.githubusercontent.com/u/7136286?v=4&s=120"}},{"id":"5b1dd9ad5cd02be64090136a","author_id":"590a90375bb7efe417431fd4","tab":"ask","content":"<div class=\"markdown-text\"><p>做博客的时候在登录界面搞了个 github 登录，希望在 github 接口调用结束，若是有用户已绑定该 github 账号就直接登录。于是在查询该用户存在成功后会将用户信息存到 session 中（<code>express-session</code>）。</p>\n<h3>github.js(用来github第三方登录)</h3>\n<pre class=\"prettyprint language-node\"><code>router.get(&#x27;&#x2F;login&#x27;, checkNotLogin, async (req, res, next) =&gt; {\n    const dataStr = (new Date()).valueOf()\n    &#x2F;&#x2F;  重定向到认证接口,并配置参数\n    let path = &quot;https:&#x2F;&#x2F;github.com&#x2F;login&#x2F;oauth&#x2F;authorize&quot;\n    path += &#x27;?client_id=&#x27; + config.client_id\n    path += &#x27;&amp;scope=&#x27; + config.scope\n    path += &#x27;&amp;state=&#x27; + dataStr\n    &#x2F;&#x2F; 转发到授权服务器\n    res.redirect(path)\n})\nrouter.get(&#x27;&#x2F;oauth&#x2F;callback&#x27;, checkNotLogin, (req, res, next) =&gt; {\n    const code = req.query.code;\n    let path = &#x27;https:&#x2F;&#x2F;github.com&#x2F;login&#x2F;oauth&#x2F;access_token&#x27;;\n    const params = {\n        client_id: config.client_id,\n        client_secret: config.client_secret,\n        code: code\n    }\n    fetch(path, {\n        method: &#x27;POST&#x27;,\n        headers: {\n            &#x27;Content-Type&#x27;: &#x27;application&#x2F;json&#x27;\n        },\n        body: JSON.stringify(params)\n    })\n    .then(result =&gt; {\n        return result.text()\n    }).then(body =&gt; {\n        let access_token = body.split(&#x27;&amp;&#x27;)[0].split(&#x27;=&#x27;)[1]\n        return access_token\n    }).then(token =&gt; {\n        const url = &#x27; https:&#x2F;&#x2F;api.github.com&#x2F;user?access_token=&#x27; + token;\n        fetch(url)\n            .then(info =&gt; {\n                return info.json();\n            })\n            .then(github_info =&gt; {\n                UserModel.getUserByOauthInfo({ type: &#x27;github&#x27;, name: github_info.login }).then(user =&gt; {\n                    if (user) {\n                        &#x2F;&#x2F; 已注册，获取登录信息后直接跳转到列表页\n                        user = user.toObject()\n                        delete user.password\n                        req.session.user = JSON.parse(JSON.stringify(user))\n                        res.redirect(&#96;${config.main_url}?username=${user.username}&#96;)\n                    } else {\n                        &#x2F;&#x2F; 如果没有注册，就跳转到注册界面\n                        res.redirect(&#96;${config.register_url}?name=${github_info.login}&amp;type=github&amp;avatar_url=${github_info.avatar_url}&amp;bio=${github_info.bio}&#96;)\n                    }\n                })\n                \n            })\n\n    })\n})\n</code></pre><h3>如代码中所示，如果 github 账号已与现有账号关联，后端会直接</h3>\n<p><code>req.session.user = JSON.parse(JSON.stringify(user))</code>\n将 <code>user</code> 保存到 <code>req.session</code> 中</p>\n<p>但是在登录之后，我在界面上做一些其他的操作，调用了其他的接口，接口中用到了监测是否登陆的中间件 check.js</p>\n<pre class=\"prettyprint language-node\"><code>    checkLogin (req, res, next) {\n\t\tif (!req.session.user) { &#x2F;&#x2F; 登录超时 前端通过状态码 401 识别\n\t\t\tconsole.log(req.session.user)\n\t\t\tres.status(401).json({ code: &#x27;error&#x27;, data: &#x27;该用户未登录&#x27; })\n\t\t\treturn false\n\t\t}\n\t\tnext()\n\t},\n\tcheckNotLogin (req, res, next) {\n\t\tif (req.session.user) {\n\t\t\tconsole.log(req.session.user)\n\t\t\tres.status(402).json({ code: &#x27;error&#x27;, data: &#x27;该用户已登录&#x27; })\n\t\t\treturn false\n\t\t}\n\t\tnext()\n\t}\n</code></pre><p>当用 github 直接登录时中间件打印出来的 <code>req.session.user</code> 一直是 <code>undefined</code>\n我不太明白，我觉得我登录的时候已经将 <code>user</code> 信息保存到 <code>req.session</code> 了</p>\n<p><a href=\"https://github.com/hellomrbigshot/VueExpressBlog/blob/master/server/routes/github.js\">github.js代码链接戳这里</a>\n<a href=\"https://github.com/hellomrbigshot/VueExpressBlog/blob/master/server/middlewares/check.js\">中间件check.js代码戳这里</a></p>\n</div>","title":"第三方登陆后，无法将用户信息存到session 中","last_reply_at":"2018-06-12T05:41:30.594Z","good":false,"top":false,"reply_count":4,"visit_count":537,"create_at":"2018-06-11T02:08:45.481Z","author":{"loginname":"hellomrbigshot","avatar_url":"https://avatars1.githubusercontent.com/u/16463481?v=4&s=120"}},{"id":"5231a630101e574521e45ef8","author_id":"5110f2bedf9e9fcc584e4677","tab":"share","content":"<div class=\"markdown-text\"><p>require 用来加载代码，而 exports 和 module.exports 则用来导出代码。但很多新手可能会迷惑于 exports 和 module.exports 的区别，为了更好的理解 exports 和 module.exports 的关系，我们先来巩固下 js 的基础。示例：</p>\n<p><strong>test.js</strong></p>\n<p>var a = {name: 1};\nvar b = a;</p>\n<p>console.log(a);\nconsole.log(b);</p>\n<p><a href=\"http://b.name\">b.name</a> = 2;\nconsole.log(a);\nconsole.log(b);</p>\n<p>var b = {name: 3};\nconsole.log(a);\nconsole.log(b);</p>\n<p>运行 test.js 结果为：</p>\n<p>{ name: 1 }\n{ name: 1 }\n{ name: 2 }\n{ name: 2 }\n{ name: 2 }\n{ name: 3 }</p>\n<p><strong>解释</strong>：a 是一个对象，b 是对 a 的引用，即 a 和 b 指向同一块内存，所以前两个输出一样。当对 b 作修改时，即 a 和 b 指向同一块内存地址的内容发生了改变，所以 a 也会体现出来，所以第三四个输出一样。当 b 被覆盖时，b 指向了一块新的内存，a 还是指向原来的内存，所以最后两个输出不一样。</p>\n<p>明白了上述例子后，我们只需知道三点就知道 exports 和 module.exports 的区别了：</p>\n<ol>\n<li>module.exports 初始值为一个空对象 {}</li>\n<li>exports 是指向的 module.exports 的引用</li>\n<li>require() 返回的是 module.exports 而不是 exports</li>\n</ol>\n<p>现在我们来看 Node.js 官方文档的截图:\n<img src=\"//dn-cnode.qbox.me/FjN9jHWiy-yuUtghTUlRgB_0cgUC\" alt=\"屏幕快照 2016-09-29 上午11.59.44.png\">\n我们经常看到这样的写法：</p>\n<pre class=\"prettyprint\"><code>exports = module.exports = somethings\n</code></pre><p>上面的代码等价于:</p>\n<pre class=\"prettyprint\"><code>module.exports = somethings\nexports = module.exports\n</code></pre><p>原理很简单，即 module.exports 指向新的对象时，exports 断开了与 module.exports 的引用，那么通过 exports = module.exports 让 exports 重新指向 module.exports 即可。</p>\n</div>","title":"exports 和 module.exports 的区别","last_reply_at":"2018-06-12T05:41:29.409Z","good":true,"top":false,"reply_count":107,"visit_count":221952,"create_at":"2013-09-12T11:32:00.741Z","author":{"loginname":"nswbmw","avatar_url":"https://avatars0.githubusercontent.com/u/4279697?v=4&s=120"}},{"id":"5b1d44fc5cd02be640901359","author_id":"597f162768aa87c774e5edd7","tab":"ask","content":"<div class=\"markdown-text\"><p>可通过编写一个配置文件来定义语法，语法定义函数的写法与BNF类似。之后便能自动生成文本分析器。\n然后再使用生成的文本分析器处理文本即可获得相应输出（例如可将markdown转成html）\n<a href=\"https://github.com/hwfhc/brudie\">https://github.com/hwfhc/brudie</a>\n目前只能简单文本处理，没有运行环境。\n下一步准备添加运行环境功能。</p>\n<p>欢迎大家批评指正。</p>\n<p>另外我是一名大二学生，年末需要找实习了。\n请问这个玩具能否写到找实习的简历里面去？\n我应该往哪个方向写这个玩具？</p>\n</div>","title":"新手上路，写了一个玩具文本分析器","last_reply_at":"2018-06-12T05:36:55.550Z","good":false,"top":false,"reply_count":5,"visit_count":665,"create_at":"2018-06-10T15:34:20.775Z","author":{"loginname":"hwfhc","avatar_url":"https://avatars2.githubusercontent.com/u/22198210?v=4&s=120"}},{"id":"5b1d3f9a8a4f51e140d946f8","author_id":"5937c5c5a6390f5a5c2533f2","tab":"ask","content":"<div class=\"markdown-text\"><p><img src=\"//dn-cnode.qbox.me/FqE9O0m2k5UOIlaSz7t5W4jXdg9y\" alt=\"image.png\">\n如图，在返回数据的时候，有时候articles会是<code>undefined</code>，导致上述问题，但是有时候会查询成功，不会出现错误，有时候会出现articles为<code>undefined</code>错误，后台用的是koa，模版引擎是<code>koa-ejs</code>，求解，谢谢。</p>\n</div>","title":"koa出现Internal Server Error问题，求解","last_reply_at":"2018-06-12T05:13:07.687Z","good":false,"top":false,"reply_count":8,"visit_count":484,"create_at":"2018-06-10T15:11:22.852Z","author":{"loginname":"wangxuedongOvO","avatar_url":"https://avatars1.githubusercontent.com/u/26771151?v=4&s=120"}},{"id":"5b13b1a857137f22415c488f","author_id":"597220fe8f0313ff0d08d6bb","tab":"share","content":"<div class=\"markdown-text\"><p>之前那个团20人了，新的链接如下：</p>\n<blockquote>\n<p><a href=\"https://promotion.aliyun.com/ntms/act/group/team.html?group=4PKcx7LHzr\">https://promotion.aliyun.com/ntms/act/group/team.html?group=4PKcx7LHzr</a></p>\n</blockquote>\n<hr>\n<p><em>活动6月12号晚24点截止</em></p>\n<hr>\n<h2><strong>活动最后一天了</strong></h2>\n<hr>\n<p><img src=\"//dn-cnode.qbox.me/FqUC00ryqgyQ9lxy-HBHhrNiGJMB\" alt=\"捕获.PNG\"></p>\n</div>","title":"阿里云ECS又搞活动了，低到99元每年，新手可以拿来玩玩","last_reply_at":"2018-06-12T03:42:49.340Z","good":false,"top":false,"reply_count":26,"visit_count":1608,"create_at":"2018-06-03T09:15:20.788Z","author":{"loginname":"lovegnep","avatar_url":"https://avatars0.githubusercontent.com/u/29669264?v=4&s=120"}},{"id":"5b1b458d29e6e510415b297c","author_id":"5ad9731bba60fcc66b7b86aa","tab":"share","content":"<div class=\"markdown-text\"><p>最近ry的新项目deno很火，占了前端娱乐的半壁江山：</p>\n<p>先是issue狂欢，中国开发者、前端开发者被贴标签\n再是媒体大肆宣传deno：下一代node，然后是一些开发得出结论：Node.js 要亡了\n最后社区各种辟谣</p>\n<p>我们来理性看看这些事</p>\n<h2>issue狂欢</h2>\n<p>在发生了issue 灌水后，有些人给前端乃至中国开发者打上了素质低的标签。但是在技术圈抖机灵、皮一下是随处可见的如：知乎很多大佬，<a href=\"https://github.com/kelseyhightower/nocode\">nocode</a> …… 那么那个皮一下的开发者的学习能力到底如何？试想他能在第一时间关注到deno项目说明不是一个一无是处的开发者。再分析下动机很显然只是为了皮一下、调侃一下，但是不得不承认后面的issue 都是由他引起的，他得负一定责任，（这原本是皮一下，然后被无限放大，大V带节奏无疑是加速了事件恶化，有多少人是在看热闹后又去灌水的。这然后呢，jjc 发了个黑名单，公布了一批开发者在GitHub的信息并作出一些短评，你们觉得妥不妥？<strong>我觉得有点不妥</strong></p>\n<h2>Node.js 要亡了？无力回天？</h2>\n<p>在issue 过后还是要回归到deno上来。很多自媒体以下一代Node.js为题，对于此觉得还好，下一代究竟如何定义是一个问题？对此，jjc做了深入研究 <a href=\"https://cnodejs.org/topic/5b14a93b57137f22415c48b3\">Deno 并不是下一代 Node.js</a>，但是后面出来一篇 《Ryan Dahl：Node 失误太多无力回天，Deno 前景明朗》 这… node 亡了的言论开始大肆流传。对于这种言论难道作为一个开发者没有一点基本判断能力吗？php被黑了这么多年还是发展的很好，mvc, mvvm 前端框各种好，jQuery使用还是很广泛\n试问：一个十多天的项目(还是个demo)和一个发展了九年生态完善的项目，你选哪个？假如 deno 很好 普及又需要多久？</p>\n<h2>程序员，需要一点基本的判断能力！</h2>\n</div>","title":"程序员，需要一点基本的判断能力！","last_reply_at":"2018-06-12T03:10:19.453Z","good":false,"top":false,"reply_count":8,"visit_count":968,"create_at":"2018-06-09T03:12:13.082Z","author":{"loginname":"liuxing","avatar_url":"https://avatars0.githubusercontent.com/u/17724186?v=4&s=120"}},{"id":"5b1e15eb5cd02be64090138d","author_id":"58bcbd32ea21217a4486d01e","tab":"ask","content":"<div class=\"markdown-text\"><p>求问生产环境升级node版本有什么好的办法吗？</p>\n</div>","title":"求问生产环境升级node版本有什么好的办法吗？","last_reply_at":"2018-06-12T03:10:06.993Z","good":false,"top":false,"reply_count":5,"visit_count":527,"create_at":"2018-06-11T06:25:47.201Z","author":{"loginname":"chenqichenqi","avatar_url":"https://avatars0.githubusercontent.com/u/11622497?v=4&s=120"}},{"id":"5b1f380157137f22415c4b67","author_id":"5b1f379b5cd02be6409013c5","tab":"share","content":"<div class=\"markdown-text\"><h2>1. 准备工作</h2>\n<h3>1.1 注册阿里云账号</h3>\n<p>使用个人淘宝账号或手机号，开通阿里云账号，并通过__&lt;span data-type=“color” style=“color:#F5222D”&gt;实名认证(可以用支付宝认证)&lt;/span&gt;__</p>\n<h3>1.2 免费开通IoT物联网套件</h3>\n<p>产品官网 <a href=\"https://www.aliyun.com/product/iot\">https://www.aliyun.com/product/iot</a></p>\n<p><img src=\"https://cdn.yuque.com/yuque/0/2018/png/106007/1527834006370-99ad90ea-18c9-42b6-ba2a-1d5d7bd2d0c5.png\" alt=\"Screen Shot 2018-06-01 at 13.53.55.png | center | 569x357\"></p>\n<h3>1.3 软件环境</h3>\n<p>Nodejs安装 <a href=\"https://nodejs.org/en/download/\">https://nodejs.org/en/download/</a>\n编辑器 sublimeText/nodepad++/vscode</p>\n<h2>2. 开发步骤</h2>\n<h3>2.1 云端开发</h3>\n<h4>1) 创建高级版产品</h4>\n<p><img src=\"https://cdn.yuque.com/yuque/0/2018/png/106007/1527592172667-525f6784-fb16-4e3e-9f4f-c1917acae796.png\" alt=\"image.png | left | 747x253\"></p>\n<h4>2) 功能定义，产品物模型添加属性</h4>\n<p><img src=\"https://cdn.yuque.com/yuque/0/2018/png/106007/1527592269959-7a1feae2-25f8-47f9-8e46-8418f654fc65.png\" alt=\"image.png | left | 747x186\"></p>\n<h4>3) 注册设备，获得身份三元组</h4>\n<p><img src=\"https://cdn.yuque.com/yuque/0/2018/png/106007/1527592477943-2bda303d-5586-450e-99d5-89acd0a53128.png\" alt=\"image.png | left | 747x188\"></p>\n<h3>2.2 设备端开发</h3>\n<p>我们以nodejs程序来模拟设备，建立连接，上报数据。</p>\n<h4>1) 应用程序目录结构</h4>\n<p><img src=\"https://cdn.yuque.com/yuque/0/2018/png/106007/1527592919268-9e027a61-00ff-45c5-964c-27acf911a37d.png\" alt=\"image.png | left | 412x159\"></p>\n<h4>2) package.json添加阿里云IoT套件sdk依赖</h4>\n<pre class=\"prettyprint language-javascript\"><code>{\n  &quot;name&quot;: &quot;aliyun-iot&quot;,\n  &quot;dependencies&quot;: {\n    &quot;aliyun-iot-mqtt&quot;: &quot;^0.0.4&quot;\n  },\n  &quot;author&quot;: &quot;wongxming&quot;,\n  &quot;license&quot;: &quot;MIT&quot;\n}\n</code></pre><p>下载安装SDK</p>\n<pre class=\"prettyprint language-bash\"><code>$npm install\n</code></pre><h4>3) 模拟设备thermometer.js代码</h4>\n<pre class=\"prettyprint language-javascript\"><code>&#x2F;**\n&quot;dependencies&quot;: { &quot;aliyun-iot-mqtt&quot;: &quot;^0.0.4&quot; }\n*&#x2F;\nconst mqtt = require(&#x27;aliyun-iot-mqtt&#x27;);\n&#x2F;&#x2F;设备属性\nconst options = {\n    productKey: &quot;产品productKey&quot;,\n    deviceName: &quot;设备deviceName&quot;,\n    deviceSecret: &quot;设备的secret&quot;,\n    regionId: &quot;cn-shanghai&quot;\n};\n&#x2F;&#x2F;建立连接\nconst client = mqtt.getAliyunIotMqttClient(options);\n\n&#x2F;&#x2F;属性上报的Topic\nconst topic = &#96;&#x2F;sys&#x2F;${options.productKey}&#x2F;${options.deviceName}&#x2F;thing&#x2F;event&#x2F;property&#x2F;post&#96;;\nsetInterval(function() {\n    &#x2F;&#x2F;发布数据到topic\n    client.publish(topic, getPostData());\n}, 5 * 1000);\n\nfunction getPostData(){\n    const payloadJson = {\n        id: Date.now(),\n        params: {\n            temperature: Math.floor((Math.random() * 20) + 10),\n            humidity: Math.floor((Math.random() * 20) + 60)\n        },\n        method: &quot;thing.event.property.post&quot;\n    }\n\n    console.log(&quot;===postData topic=&quot; + topic)\n    console.log(payloadJson)\n\n    return JSON.stringify(payloadJson);\n}\n</code></pre><h2>3. 启动运行</h2>\n<h3>3.1 设备启动</h3>\n<pre class=\"prettyprint language-bash\"><code>$node thermometer.js\n</code></pre><h3>3.2 云端查看设备运行状态</h3>\n<p><img src=\"https://cdn.yuque.com/yuque/0/2018/png/106007/1527593531278-77e6f426-07fc-4c2d-b903-91abae34fe9f.png\" alt=\"image.png | left | 602x225\"></p>\n<h2>原文链接</h2>\n<p><a href=\"https://yuque.com/wongxming/iot-tech/gvttbm\">https://yuque.com/wongxming/iot-tech/gvttbm</a></p>\n</div>","title":"[Nodejs]10min物联网设备接入阿里云IoT平台实战","last_reply_at":"2018-06-12T03:03:29.315Z","good":false,"top":false,"reply_count":0,"visit_count":332,"create_at":"2018-06-12T03:03:29.315Z","author":{"loginname":"wongxming","avatar_url":"https://avatars1.githubusercontent.com/u/674463?v=4&s=120"}},{"id":"5a72c66ace45d440451465c3","author_id":"58400cd63aa1310a5786878f","tab":"share","content":"<div class=\"markdown-text\"><p>总共录了18集，课程主要针对 nodejs 初学者，查看下面网址：</p>\n<p><a href=\"https://www.rails365.net/playlists/qing-song-xue-nodejs-ji-chu-pian\">https://www.rails365.net/playlists/qing-song-xue-nodejs-ji-chu-pian</a></p>\n<p>录制视频不易，如果对你有帮助，请多多支持。</p>\n<p>下一套课程计划：Nodejs + express</p>\n</div>","title":"18集 Node.js 视频入门教程 - 全部免费观看","last_reply_at":"2018-06-12T03:02:52.873Z","good":false,"top":false,"reply_count":11,"visit_count":6030,"create_at":"2018-02-01T07:48:58.823Z","author":{"loginname":"yinsigan","avatar_url":"https://avatars2.githubusercontent.com/u/740643?v=4&s=120"}},{"id":"5b1939ad29e6e510415b2916","author_id":"5ad9731bba60fcc66b7b86aa","tab":"share","content":"<div class=\"markdown-text\"><p>最近利用空闲时间写了一个从入门到上线的的node实战教程《Node.js从入门到上线》A blog build with Koa2. 目前还在更新中，入门篇已基本成型。</p>\n<p>本项目使用es6语法，采用Koa2 + mongoose 搭建了一个博客系统，实现了文章管理、用户登录注册、权限控制、分类管理等功能。</p>\n<p>GitHub: <a href=\"https://github.com/liuxing/node-blog\">https://github.com/liuxing/node-blog</a></p>\n<h2>目录</h2>\n<p><a href=\"https://github.com/liuxing/abc-blog/tree/master/docs/1.1Node.js%E7%9A%84%E5%AE%89%E8%A3%85%E4%B8%8E%E9%85%8D%E7%BD%AE.md\">1.1  Node.js 的安装与配置</a></p>\n<ul>\n<li><a href=\"https://github.com/liuxing/abc-blog/tree/master/docs/1.1Node.js%E7%9A%84%E5%AE%89%E8%A3%85%E4%B8%8E%E9%85%8D%E7%BD%AE.md#%E5%AE%89%E8%A3%85nodejs\">安装Node.js</a></li>\n<li><a href=\"https://github.com/liuxing/abc-blog/tree/master/docs/1.1Node.js%E7%9A%84%E5%AE%89%E8%A3%85%E4%B8%8E%E9%85%8D%E7%BD%AE.md#%E4%BD%BF%E7%94%A8-nvm\">使用nvm</a></li>\n<li><a href=\"https://github.com/liuxing/abc-blog/tree/master/docs/1.1Node.js%E7%9A%84%E5%AE%89%E8%A3%85%E4%B8%8E%E9%85%8D%E7%BD%AE.md#%E4%B8%80%E4%BA%9B%E6%9C%89%E7%94%A8%E7%9A%84%E5%B7%A5%E5%85%B7\">一些有用的工具</a></li>\n<li><a href=\"https://github.com/liuxing/abc-blog/tree/master/docs/1.1Node.js%E7%9A%84%E5%AE%89%E8%A3%85%E4%B8%8E%E9%85%8D%E7%BD%AE.md#hello-node\">hello-node</a></li>\n</ul>\n<p><a href=\"https://github.com/liuxing/abc-blog/tree/master/docs/1.2Node.js%E5%9F%BA%E7%A1%80%E6%A6%82%E8%A7%88.md\">1.2 Node.js 基础概览</a></p>\n<ul>\n<li><a href=\"https://github.com/liuxing/abc-blog/tree/master/docs/1.2Node.js%E5%9F%BA%E7%A1%80%E6%A6%82%E8%A7%88.md#node%E6%A8%A1%E5%9D%97\">node模块</a></li>\n<li><a href=\"https://github.com/liuxing/abc-blog/tree/master/docs/1.2Node.js%E5%9F%BA%E7%A1%80%E6%A6%82%E8%A7%88.md#npm%E6%A8%A1%E5%9D%97%E7%AE%A1%E7%90%86%E5%99%A8\">npm包管理器</a></li>\n</ul>\n<p><a href=\"https://github.com/liuxing/abc-blog/tree/master/docs/2.1Koa2%E5%88%9D%E4%BD%93%E9%AA%8C.md\">2.1 Koa2初体验</a></p>\n<ul>\n<li>\n<p><a href=\"https://github.com/liuxing/abc-blog/tree/master/docs/2.1Koa2%E5%88%9D%E4%BD%93%E9%AA%8C.md#hello-koa2\">Hello Koa2</a></p>\n</li>\n<li>\n<p><a href=\"https://github.com/liuxing/abc-blog/tree/master/docs/2.1Koa2%E5%88%9D%E4%BD%93%E9%AA%8C.md#%E4%BD%BF%E7%94%A8supervisor-%E6%88%96%E8%80%85-nodemon\">使用supervisor 或者 nodemon</a></p>\n</li>\n</ul>\n<p><a href=\"https://github.com/liuxing/abc-blog/tree/master/docs/2.2MongoDB%E5%AE%89%E8%A3%85%E5%8F%8A%E4%BD%BF%E7%94%A8.md\">2.2 MongoDB的安装及使用</a></p>\n<p><a href=\"https://github.com/liuxing/abc-blog/tree/master/docs/3.1%E5%BC%80%E5%8F%91%E5%89%8D%E7%9A%84%E9%A1%B9%E7%9B%AE%E9%85%8D%E7%BD%AE.md\">3.1 开发前的项目配置</a></p>\n<ul>\n<li><a href=\"https://github.com/liuxing/abc-blog/tree/master/docs/3.1%E5%BC%80%E5%8F%91%E5%89%8D%E7%9A%84%E9%A1%B9%E7%9B%AE%E9%85%8D%E7%BD%AE.md#%E8%A7%84%E5%88%92%E9%A1%B9%E7%9B%AE%E7%9B%AE%E5%BD%95%E7%BB%93%E6%9E%84\">规划项目目录结构</a></li>\n<li><a href=\"https://github.com/liuxing/abc-blog/tree/master/docs/3.1%E5%BC%80%E5%8F%91%E5%89%8D%E7%9A%84%E9%A1%B9%E7%9B%AE%E9%85%8D%E7%BD%AE.md#%E4%BD%BF%E7%94%A8editorconfig\">使用editorconfig</a></li>\n<li><a href=\"https://github.com/liuxing/abc-blog/tree/master/docs/3.1%E5%BC%80%E5%8F%91%E5%89%8D%E7%9A%84%E9%A1%B9%E7%9B%AE%E9%85%8D%E7%BD%AE.md#%E4%BD%BF%E7%94%A8commitizen\">使用commitizen</a></li>\n<li><a href=\"https://github.com/liuxing/abc-blog/tree/master/docs/3.1%E5%BC%80%E5%8F%91%E5%89%8D%E7%9A%84%E9%A1%B9%E7%9B%AE%E9%85%8D%E7%BD%AE.md#%E4%BD%BF%E7%94%A8eslint\">使用eslint</a></li>\n<li><a href=\"https://github.com/liuxing/abc-blog/tree/master/docs/3.1%E5%BC%80%E5%8F%91%E5%89%8D%E7%9A%84%E9%A1%B9%E7%9B%AE%E9%85%8D%E7%BD%AE.md#%E4%BD%BF%E7%94%A8git-hooks%E8%87%AA%E5%8A%A8%E6%A3%80%E6%9F%A5%E4%BB%A3%E7%A0%81\">使用Git hooks自动检查代码</a></li>\n</ul>\n<p><a href=\"https://github.com/liuxing/abc-blog/tree/master/docs/3.2%E6%8A%8A%E9%A1%B9%E7%9B%AE%E8%B7%91%E8%B5%B7%E6%9D%A5.md\">3.2 把项目跑起来</a></p>\n<ul>\n<li><a href=\"https://github.com/liuxing/abc-blog/tree/master/docs/3.2%E6%8A%8A%E9%A1%B9%E7%9B%AE%E8%B7%91%E8%B5%B7%E6%9D%A5.md#router\">router</a></li>\n<li><a href=\"https://github.com/liuxing/abc-blog/tree/master/docs/3.2%E6%8A%8A%E9%A1%B9%E7%9B%AE%E8%B7%91%E8%B5%B7%E6%9D%A5.md#%E9%85%8D%E7%BD%AE%E6%A8%A1%E6%9D%BF%E5%BC%95%E6%93%8E\">配置模板引擎</a></li>\n<li><a href=\"https://github.com/liuxing/abc-blog/tree/master/docs/3.2%E6%8A%8A%E9%A1%B9%E7%9B%AE%E8%B7%91%E8%B5%B7%E6%9D%A5.md#%E9%85%8D%E7%BD%AE%E9%9D%99%E6%80%81%E8%B5%84%E6%BA%90\">配置静态资源</a></li>\n</ul>\n<p><a href=\"https://github.com/liuxing/abc-blog/tree/master/docs/3.3%E6%93%8D%E4%BD%9C%E6%95%B0%E6%8D%AE%E5%BA%93.md\">3.3 使用mongoose操作数据库</a></p>\n<ul>\n<li>\n<p><a href=\"https://github.com/liuxing/abc-blog/tree/master/docs/3.3%E6%93%8D%E4%BD%9C%E6%95%B0%E6%8D%AE%E5%BA%93.md#%E8%AE%BE%E8%AE%A1schema\">设计Schema</a></p>\n</li>\n<li>\n<p><a href=\"https://github.com/liuxing/abc-blog/tree/master/docs/3.3%E6%93%8D%E4%BD%9C%E6%95%B0%E6%8D%AE%E5%BA%93.md#%E4%BD%BF%E7%94%A8model\">使用model</a></p>\n</li>\n</ul>\n<p><a href=\"https://github.com/liuxing/abc-blog/blob/master/docs/3.4%E7%94%A8%E6%88%B7%E6%B3%A8%E5%86%8C%E4%B8%8E%E7%99%BB%E5%BD%95.md\">3.4用户注册与登录</a></p>\n<ul>\n<li><a href=\"https://github.com/liuxing/abc-blog/blob/master/docs/3.4%E7%94%A8%E6%88%B7%E6%B3%A8%E5%86%8C%E4%B8%8E%E7%99%BB%E5%BD%95.md#cookie%E4%B8%8Esession\">cookie与session</a></li>\n<li><a href=\"https://github.com/liuxing/abc-blog/blob/master/docs/3.4%E7%94%A8%E6%88%B7%E6%B3%A8%E5%86%8C%E4%B8%8E%E7%99%BB%E5%BD%95.md#%E7%94%A8%E6%88%B7%E6%B3%A8%E5%86%8C\">用户注册</a></li>\n<li><a href=\"https://github.com/liuxing/abc-blog/blob/master/docs/3.4%E7%94%A8%E6%88%B7%E6%B3%A8%E5%86%8C%E4%B8%8E%E7%99%BB%E5%BD%95.md#%E7%94%A8%E6%88%B7%E7%99%BB%E5%BD%95\">用户登录</a></li>\n<li><a href=\"https://github.com/liuxing/abc-blog/blob/master/docs/3.4%E7%94%A8%E6%88%B7%E6%B3%A8%E5%86%8C%E4%B8%8E%E7%99%BB%E5%BD%95.md#%E7%94%A8%E6%88%B7%E7%99%BB%E5%87%BA\">用户登出</a></li>\n</ul>\n<p><a href=\"https://github.com/liuxing/abc-blog/blob/master/docs/3.5koa2%E4%B8%AD%E9%97%B4%E4%BB%B6%E5%BC%80%E5%8F%91.md\">3.5 koa2中间件开发</a></p>\n<ul>\n<li>\n<p><a href=\"https://github.com/liuxing/abc-blog/blob/master/docs/3.5koa2%E4%B8%AD%E9%97%B4%E4%BB%B6%E5%BC%80%E5%8F%91.md#koa2-%E4%B8%AD%E9%97%B4%E4%BB%B6%E6%9C%BA%E5%88%B6\">koa2 中间件机制</a></p>\n</li>\n<li>\n<p><a href=\"https://github.com/liuxing/abc-blog/blob/master/docs/3.5koa2%E4%B8%AD%E9%97%B4%E4%BB%B6%E5%BC%80%E5%8F%91.md#%E6%B6%88%E6%81%AF%E9%97%AA%E7%8E%B0%E4%B8%AD%E9%97%B4%E4%BB%B6\">消息闪现中间件</a></p>\n</li>\n</ul>\n<p><a href=\"https://github.com/liuxing/abc-blog/blob/master/docs/3.6%E6%96%87%E7%AB%A0%E5%A2%9E%E5%88%A0%E6%94%B9%E6%9F%A5.md\">3.6 文章增删改查</a></p>\n<ul>\n<li><a href=\"https://github.com/liuxing/abc-blog/blob/master/docs/3.6%E6%96%87%E7%AB%A0%E5%A2%9E%E5%88%A0%E6%94%B9%E6%9F%A5.md#%E6%96%87%E7%AB%A0%E6%A8%A1%E5%9E%8B%E8%AE%BE%E8%AE%A1\">文章模型设计</a></li>\n<li><a href=\"https://github.com/liuxing/abc-blog/blob/master/docs/3.6%E6%96%87%E7%AB%A0%E5%A2%9E%E5%88%A0%E6%94%B9%E6%9F%A5.md#%E6%96%87%E7%AB%A0%E5%8F%91%E8%A1%A8\">文章发表</a></li>\n<li><a href=\"https://github.com/liuxing/abc-blog/blob/master/docs/3.6%E6%96%87%E7%AB%A0%E5%A2%9E%E5%88%A0%E6%94%B9%E6%9F%A5.md#%E6%96%87%E7%AB%A0%E5%88%97%E8%A1%A8%E4%B8%8E%E8%AF%A6%E6%83%85\">文章列表与详情</a></li>\n<li><a href=\"https://github.com/liuxing/abc-blog/blob/master/docs/3.6%E6%96%87%E7%AB%A0%E5%A2%9E%E5%88%A0%E6%94%B9%E6%9F%A5.md#%E6%96%87%E7%AB%A0%E7%BC%96%E8%BE%91%E4%B8%8E%E5%88%A0%E9%99%A4\">文章编辑与删除</a></li>\n</ul>\n<p><a href=\"https://github.com/liuxing/abc-blog/blob/master/docs/3.7%E7%94%A8%E6%88%B7%E6%9D%83%E9%99%90%E6%8E%A7%E5%88%B6.md\">3.7 用户权限控制</a></p>\n<ul>\n<li><a href=\"https://github.com/liuxing/abc-blog/blob/master/docs/3.7%E7%94%A8%E6%88%B7%E6%9D%83%E9%99%90%E6%8E%A7%E5%88%B6.md#%E7%99%BB%E5%BD%95%E7%8A%B6%E6%80%81%E6%A3%80%E6%9F%A5\">登录状态检查</a></li>\n<li><a href=\"https://github.com/liuxing/abc-blog/blob/master/docs/3.7%E7%94%A8%E6%88%B7%E6%9D%83%E9%99%90%E6%8E%A7%E5%88%B6.md#%E7%AE%A1%E7%90%86%E6%9D%83%E9%99%90%E6%8E%A7%E5%88%B6\">管理权限控制</a></li>\n</ul>\n<p><a href=\"https://github.com/liuxing/abc-blog/blob/master/docs/3.8%E8%AF%84%E8%AE%BA%E5%8A%9F%E8%83%BD.md\">3.8 评论功能</a></p>\n<ul>\n<li><a href=\"https://github.com/liuxing/abc-blog/blob/master/docs/3.8%E8%AF%84%E8%AE%BA%E5%8A%9F%E8%83%BD.md#%E8%AE%BE%E8%AE%A1%E8%AF%84%E8%AE%BA%E7%9A%84%E6%A8%A1%E5%9E%8B\">设计评论的模型</a></li>\n<li><a href=\"https://github.com/liuxing/abc-blog/blob/master/docs/3.8%E8%AF%84%E8%AE%BA%E5%8A%9F%E8%83%BD.md#%E5%8F%91%E5%B8%83%E7%95%99%E8%A8%80\">发布留言</a></li>\n<li><a href=\"https://github.com/liuxing/abc-blog/blob/master/docs/3.8%E8%AF%84%E8%AE%BA%E5%8A%9F%E8%83%BD.md#%E5%8F%91%E5%B8%83%E7%95%99%E8%A8%80\">显示留言</a></li>\n<li><a href=\"https://github.com/liuxing/abc-blog/blob/master/docs/3.8%E8%AF%84%E8%AE%BA%E5%8A%9F%E8%83%BD.md#%E5%88%A0%E9%99%A4%E7%95%99%E8%A8%80\">删除留言</a></li>\n</ul>\n<p><a href=\"https://github.com/liuxing/abc-blog/blob/master/docs/3.9%E4%B8%80%E4%BA%9B%E5%AE%89%E5%85%A8%E9%97%AE%E9%A2%98.md\">3.9 一些安全问题</a></p>\n<ul>\n<li><a href=\"https://github.com/liuxing/abc-blog/blob/master/docs/3.9%E4%B8%80%E4%BA%9B%E5%AE%89%E5%85%A8%E9%97%AE%E9%A2%98.md#xss%E7%9A%84%E9%98%B2%E8%8C%83\">XSS的防范</a></li>\n<li><a href=\"https://github.com/liuxing/abc-blog/blob/master/docs/3.9%E4%B8%80%E4%BA%9B%E5%AE%89%E5%85%A8%E9%97%AE%E9%A2%98.md#csrf-%E7%9A%84%E9%98%B2%E8%8C%83\">CSRF的防范</a></li>\n</ul>\n<p><a href=\"https://github.com/liuxing/abc-blog/blob/master/docs/3.10%E6%96%87%E7%AB%A0%E5%88%86%E7%B1%BB.md\">3.10 分类管理</a></p>\n<ul>\n<li><a href=\"https://github.com/liuxing/abc-blog/blob/master/docs/3.10%E6%96%87%E7%AB%A0%E5%88%86%E7%B1%BB.md#%E5%88%86%E7%B1%BB%E6%A8%A1%E5%9E%8B%E8%AE%BE%E8%AE%A1\">分类模型</a></li>\n<li><a href=\"https://github.com/liuxing/abc-blog/blob/master/docs/3.10%E6%96%87%E7%AB%A0%E5%88%86%E7%B1%BB.md#%E5%88%86%E7%B1%BB%E7%AE%A1%E7%90%86%E4%B8%BB%E9%A1%B5\">分类管理主页</a></li>\n<li><a href=\"https://github.com/liuxing/abc-blog/blob/master/docs/3.10%E6%96%87%E7%AB%A0%E5%88%86%E7%B1%BB.md#%E6%96%B0%E5%A2%9E%E5%88%86%E7%B1%BB\">新增与删除</a></li>\n</ul>\n<p><a href=\"https://github.com/liuxing/abc-blog/blob/master/docs/3.11%E5%88%86%E9%A1%B5%E5%8A%9F%E8%83%BD.md\">3.11 分页功能</a></p>\n<ul>\n<li><a href=\"https://github.com/liuxing/abc-blog/blob/master/docs/3.11%E5%88%86%E9%A1%B5%E5%8A%9F%E8%83%BD.md#mongodb-%E5%AE%9E%E7%8E%B0%E5%88%86%E9%A1%B5%E5%8E%9F%E7%90%86\">MongoDB分页原理</a></li>\n<li><a href=\"https://github.com/liuxing/abc-blog/blob/master/docs/3.11%E5%88%86%E9%A1%B5%E5%8A%9F%E8%83%BD.md#%E5%AE%9E%E7%8E%B0%E4%B8%80%E4%B8%AA%E5%9F%BA%E6%9C%AC%E7%9A%84%E5%88%86%E9%A1%B5%E5%99%A8\">实现一个基本的分页器</a></li>\n<li><a href=\"https://github.com/liuxing/abc-blog/blob/master/docs/3.11%E5%88%86%E9%A1%B5%E5%8A%9F%E8%83%BD.md#%E9%AB%98%E7%BA%A7%E4%B8%80%E7%82%B9%E5%84%BF%E7%9A%84%E5%88%86%E9%A1%B5%E5%99%A8\">高级一点儿的分页器</a></li>\n</ul>\n<p><a href=\"https://github.com/liuxing/abc-blog/blob/master/docs/3.12koa2%E9%94%99%E8%AF%AF%E5%A4%84%E7%90%86%E5%8F%8A404.md\">3.12 koa2错误处理及404</a></p>\n<p>[3.13 单元测试 更新中]</p>\n<p>关于测试：大家喜欢什么框架 mocha or jest？\n…</p>\n<p>持续更新中，未来将逐步发布【上线篇】：域名服务器选购、服务器配置、Nginx等等。实现线上部署</p>\n<p><img src=\"https://user-gold-cdn.xitu.io/2018/3/12/1621826e0dd7f41a?w=642&amp;h=382&amp;f=webp&amp;s=12738\" alt></p>\n<p>左手代码右手砖抛砖引玉</p>\n</div>","title":"《Node.js从入门到上线》入门篇 （持续更新中）","last_reply_at":"2018-06-12T02:05:27.534Z","good":false,"top":false,"reply_count":5,"visit_count":1473,"create_at":"2018-06-07T13:57:01.654Z","author":{"loginname":"liuxing","avatar_url":"https://avatars0.githubusercontent.com/u/17724186?v=4&s=120"}},{"id":"5b1e13fb29e6e510415b29cd","author_id":"581ffec9e90cfbec054d7710","tab":"share","content":"<div class=\"markdown-text\"><p><img src=\"https://sfault-image.b0.upaiyun.com/393/256/393256615-5b1e133fdf9a8_articlex\" alt></p>\n<blockquote>\n<p>末尾有彩蛋。</p>\n</blockquote>\n<p>过去的两年里，<a href=\"https://github.com/iview/iview\">iView</a> 开源项目已经帮助成千上万的开发者快速完成网站开发，大幅度提高了开发效率，成为 Vue.js 生态里重要的一部分。</p>\n<p>与此同时，我们也在思考，除了服务 PC Web，iView 还能提供什么。可能是 Mobile Web？但同类产品已经太过丰富，所以 iView 一直没有探索 Mobile 端。但是，我们注意到，<strong>微信小程序</strong>正在崛起，这将是移动端新的一种开发模式。</p>\n<p>对于微信小程序，iView 团队并不陌生，在微信最早发布小程序时，我们（TalkingData）就上线了小程序统计分析服务 SDK（<a href=\"https://www.talkingdata.com/weApp/weApp.jsp\">https://www.talkingdata.com/weApp/weApp.jsp</a>），只是那时候小程序一直处于不温不火的状态。不过微信对小程序越来越开放，给的入口也越来越多，这让很多开发者投入到小程序的开发上。</p>\n<p>于是，我们探索了一个月，对于微信小程序，我们能提供什么服务。思前想后，还是觉得做一套高质量的 UI 组件库比较合适，因为 iView 团队在这上面有 2 年的积累，而且爱屋及乌，iView 的开发者也会很喜欢 iView Weapp。</p>\n<h3>地址</h3>\n<p><strong>GitHub</strong>: <a href=\"https://github.com/TalkingData/iview-weapp\">https://github.com/TalkingData/iview-weapp</a></p>\n<p><strong>文档</strong>: <a href=\"https://weapp.iviewui.com/\">https://weapp.iviewui.com/</a></p>\n<p>欢迎 Star 和 PR ！</p>\n<h3>iView Weapp 是什么？</h3>\n<p>微信小程序提供了<a href=\"https://developers.weixin.qq.com/miniprogram/dev/framework/custom-component/\">自定义组件</a>的功能，这使得 iView Weapp 成为了可能。小程序已经提供了很多组件和 API，但它们过于基础，实际开发时仍需要一定的封装和 UI 调整。iView Weapp 提供了与 iView 一致的 UI 和尽可能相同的接口名称，大幅度降低了学习成本，使用起来如鱼得水。如果你是 iView 的核心用户，用起 iView Weapp 来甚至不用看文档！当然，我们对新用户也很友好，事无巨细的文档、友好的 API 和完整的示例，几分钟就可以上手啦。</p>\n<p>iView Weapp 1.0 提供了 30 个组件，并会不断丰富：</p>\n<p><img src=\"https://file.iviewui.com/icon/iview-weapp.png\" alt=\"iView Weapp 组件\"></p>\n<h3>先睹为快</h3>\n<p>使用微信扫一扫体验 iView Weapp 小程序组件示例：</p>\n<p><img src=\"https://file.iviewui.com/icon/iview-code.jpg\" alt=\"iView Weapp 小程序组件示例\"></p>\n<p>当然，你也可以在微信开发者工具中查看：</p>\n<pre class=\"prettyprint language-shell\"><code># 从 GitHub 下载后，安装依赖\nnpm install\n\n# 编译组件\nnpm run dev\n</code></pre><p>然后，将 <code>examples</code> 目录在微信开发者工具中打开即可。</p>\n<p>1.0 提供的都是基础组件，能够满足大部分常用的布局和交互。接下来，我们还会提供更为丰富的基础组件及典型业务组件，比如刮刮乐。旨为让小程序开发的门槛降低，并带来出色的用户体验。</p>\n<h3>开源协议</h3>\n<p>iView Weapp 使用 MIT 开源协议，并 100% 开放源码。<a href=\"https://github.com/TalkingData/iview-weapp/blob/master/LICENSE\">查看开源协议</a>。</p>\n<h3>彩蛋</h3>\n<p>我们预计在 2018 年 7 月（或 8 月）发布 iView 3.0 以及 5 款神秘新产品，届时会举办线下发布会（线上同步直播），敬请关注 iView 官网。感谢大家长久以来对 iView 的支持，我们也会持续维护，投入更多的人力和精力完善生态，让 iView 成为全球最好用的组件库！</p>\n</div>","title":"iView 发布微信小程序 UI 组件库 iView Weapp","last_reply_at":"2018-06-12T01:47:18.303Z","good":false,"top":false,"reply_count":5,"visit_count":581,"create_at":"2018-06-11T06:17:31.510Z","author":{"loginname":"icarusion","avatar_url":"https://avatars2.githubusercontent.com/u/5370542?v=4&s=120"}},{"id":"58ad76db7872ea0864fedfcc","author_id":"51f0f267f4963ade0e08f503","tab":"share","content":"<div class=\"markdown-text\"><p><img src=\"//dn-cnode.qbox.me/FlwW5i2h_UuKpnBXXvD3AqyrwjHP\" alt=\"untitled4.png\"></p>\n<h1>饿了么大前端 Node.js 进阶教程</h1>\n<p>因为 2016 年面试了很多做 Node.js 的同学，发现大部分做 Node 的同学都是前端转过来的，对后端的知识大多一片空白。所以很难招到比较好的 Node.js 服务端程序员（注意，不是全栈）。</p>\n<p>于是出于我们一贯的开源与分享精神，我们筹备了这个名字叫《如何通过饿了么 Node.js 面试》的开源的 Node.js 进阶教程。</p>\n<p>github 仓库地址：<a href=\"https://github.com/ElemeFE/node-interview\">https://github.com/ElemeFE/node-interview</a></p>\n<h3>导读</h3>\n<p>本教程包含 2~3 年经验的 Node.js 服务端需要知道的知识点。</p>\n<p>需要注意的是, 并不适用于零基础的同学, 你需要有一定的 JavaScript/Node.js 基础, 并且有一定的工作经验. 另外本教程的重点更准确的说是服务端基础中 Node.js 程序员需要了解的部分.</p>\n<p>稳重将一些常见的问题划分归类, 每类标明涵盖的一些<code>覆盖点</code>, 并且列举几个<code>常见问题</code>, 通常这些问题都是 2~3 年工作经验需要了解或者面对的. 如果你对某类问题感兴趣, 或者想知道其中列举问题的答案, 可以通过该类下方的 <code>阅读更多</code> 查看更多的内容.</p>\n<p>整体上大纲列举的并不是很全面, 细节上覆盖率不高, 很多讨论只是点到即止, 希望大家带着问题去思考.</p>\n<h2><a href=\"https://github.com/ElemeFE/node-interview/blob/master/sections/zh-cn/js-basic.md\">Js 基础问题</a></h2>\n<blockquote>\n<p>与前端 Js 不同, 后端是直面服务器的, 更加偏向内存方面.</p>\n</blockquote>\n<ul>\n<li><a href=\"https://github.com/ElemeFE/node-interview/blob/master/sections/zh-cn/js-basic.md#%E7%B1%BB%E5%9E%8B%E5%88%A4%E6%96%AD\"><code>[Basic]</code> 类型判断</a></li>\n<li><a href=\"https://github.com/ElemeFE/node-interview/blob/master/sections/zh-cn/js-basic.md#%E4%BD%9C%E7%94%A8%E5%9F%9F\"><code>[Basic]</code> 作用域</a></li>\n<li><a href=\"https://github.com/ElemeFE/node-interview/blob/master/sections/zh-cn/js-basic.md#%E5%BC%95%E7%94%A8%E4%BC%A0%E9%80%92\"><code>[Basic]</code> 引用传递</a></li>\n<li><a href=\"https://github.com/ElemeFE/node-interview/blob/master/sections/zh-cn/js-basic.md#%E5%86%85%E5%AD%98%E9%87%8A%E6%94%BE\"><code>[Basic]</code> 内存释放</a></li>\n<li><a href=\"https://github.com/ElemeFE/node-interview/blob/master/sections/zh-cn/js-basic.md#es6-%E6%96%B0%E7%89%B9%E6%80%A7\"><code>[Basic]</code> ES6 新特性</a></li>\n</ul>\n<h3>常见问题</h3>\n<ul>\n<li>js 中什么类型是引用传递, 什么类型是值传递? 如何将值类型的变量以引用的方式传递? <a href=\"https://github.com/ElemeFE/node-interview/blob/master/sections/zh-cn/js-basic.md#q-value\">[more]</a></li>\n<li>js 中， 0.1 + 0.2 === 0.3 是否为 true ? 在不知道浮点数位数时应该怎样判断两个浮点数之和与第三数是否相等？</li>\n<li>const 定义的 Array 中间元素能否被修改? 如果可以, 那 const 的意义是? <a href=\"https://github.com/ElemeFE/node-interview/blob/master/sections/zh-cn/js-basic.md#q-const\">[more]</a></li>\n<li>JavaScript 中不同类型以及不同环境下变量的内存都是何时释放? <a href=\"https://github.com/ElemeFE/node-interview/blob/master/sections/zh-cn/js-basic.md#q-mem\">[more]</a></li>\n</ul>\n<p><a href=\"https://github.com/ElemeFE/node-interview/blob/master/sections/zh-cn/js-basic.md\">阅读更多</a></p>\n<h2><a href=\"https://github.com/ElemeFE/node-interview/blob/master/sections/zh-cn/module.md\">模块</a></h2>\n<ul>\n<li><a href=\"https://github.com/ElemeFE/node-interview/blob/master/sections/zh-cn/module.md#%E6%A8%A1%E5%9D%97%E6%9C%BA%E5%88%B6\"><code>[Basic]</code> 模块机制</a></li>\n<li><a href=\"https://github.com/ElemeFE/node-interview/blob/master/sections/zh-cn/module.md#%E7%83%AD%E6%9B%B4%E6%96%B0\"><code>[Basic]</code> 热更新</a></li>\n<li><a href=\"https://github.com/ElemeFE/node-interview/blob/master/sections/zh-cn/module.md#%E4%B8%8A%E4%B8%8B%E6%96%87\"><code>[Basic]</code> 上下文</a></li>\n</ul>\n<h3>常见问题</h3>\n<ul>\n<li>a.js 和 b.js 两个文件互相 require 是否会死循环? 双方是否能导出变量? 如何从设计上避免这种问题? <a href=\"https://github.com/ElemeFE/node-interview/blob/master/sections/zh-cn/module.md#q-loop\">[more]</a></li>\n<li>如果 a.js require 了 b.js, 那么在 b 中定义全局变量 <code>t = 111</code> 能否在 a 中直接打印出来? <a href=\"https://github.com/ElemeFE/node-interview/blob/master/sections/zh-cn/module.md#q-global\">[more]</a></li>\n<li>如何在不重启 node 进程的情况下热更新一个 js/json 文件? 这个问题本身是否有问题? <a href=\"https://github.com/ElemeFE/node-interview/blob/master/sections/zh-cn/module.md#q-hot\">[more]</a></li>\n</ul>\n<p><a href=\"https://github.com/ElemeFE/node-interview/blob/master/sections/zh-cn/module.md\">阅读更多</a></p>\n<h2><a href=\"https://github.com/ElemeFE/node-interview/blob/master/sections/zh-cn/event-async.md\">事件/异步</a></h2>\n<ul>\n<li><a href=\"https://github.com/ElemeFE/node-interview/blob/master/sections/zh-cn/event-async.md#promise\"><code>[Basic]</code> Promise</a></li>\n<li><a href=\"https://github.com/ElemeFE/node-interview/blob/master/sections/zh-cn/event-async.md#events\"><code>[Doc]</code> Events (事件)</a></li>\n<li><a href=\"https://github.com/ElemeFE/node-interview/blob/master/sections/zh-cn/event-async.md#timers\"><code>[Doc]</code> Timers (定时器)</a></li>\n<li><a href=\"https://github.com/ElemeFE/node-interview/blob/master/sections/zh-cn/event-async.md#%E9%98%BB%E5%A1%9E%E5%BC%82%E6%AD%A5\"><code>[Point]</code> 阻塞/异步</a></li>\n<li><a href=\"https://github.com/ElemeFE/node-interview/blob/master/sections/zh-cn/event-async.md#%E5%B9%B6%E8%A1%8C%E5%B9%B6%E5%8F%91\"><code>[Point]</code> 并行/并发</a></li>\n</ul>\n<h3>常见问题</h3>\n<ul>\n<li>Promise 中 .then 的第二参数与 .catch 有什么区别? <a href=\"https://github.com/ElemeFE/node-interview/blob/master/sections/zh-cn/event-async.md#q-1\">[more]</a></li>\n<li>Eventemitter 的 emit 是同步还是异步? <a href=\"https://github.com/ElemeFE/node-interview/blob/master/sections/zh-cn/event-async.md#q-2\">[more]</a></li>\n<li>如何判断接口是否异步? 是否只要有回调函数就是异步? <a href=\"https://github.com/ElemeFE/node-interview/blob/master/sections/zh-cn/event-async.md#q-3\">[more]</a></li>\n<li>nextTick, setTimeout 以及 setImmediate 三者有什么区别? <a href=\"https://github.com/ElemeFE/node-interview/blob/master/sections/zh-cn/event-async.md#q-4\">[more]</a></li>\n<li>如何实现一个 sleep 函数? <a href=\"https://github.com/ElemeFE/node-interview/blob/master/sections/zh-cn/event-async.md#q-5\">[more]</a></li>\n<li>如何实现一个异步的 reduce? (注:不是异步完了之后同步 reduce) <a href=\"https://github.com/ElemeFE/node-interview/blob/master/sections/zh-cn/event-async.md#q-6\">[more]</a></li>\n</ul>\n<p><a href=\"https://github.com/ElemeFE/node-interview/blob/master/sections/zh-cn/event-async.md\">阅读更多</a></p>\n<h2><a href=\"https://github.com/ElemeFE/node-interview/blob/master/sections/zh-cn/process.md\">进程</a></h2>\n<ul>\n<li><a href=\"https://github.com/ElemeFE/node-interview/blob/master/sections/zh-cn/process.md#process\"><code>[Doc]</code> Process (进程)</a></li>\n<li><a href=\"https://github.com/ElemeFE/node-interview/blob/master/sections/zh-cn/process.md#child-process\"><code>[Doc]</code> Child Processes (子进程)</a></li>\n<li><a href=\"https://github.com/ElemeFE/node-interview/blob/master/sections/zh-cn/process.md#cluster\"><code>[Doc]</code> Cluster (集群)</a></li>\n<li><a href=\"https://github.com/ElemeFE/node-interview/blob/master/sections/zh-cn/process.md#%E8%BF%9B%E7%A8%8B%E9%97%B4%E9%80%9A%E4%BF%A1\"><code>[Basic]</code> 进程间通信</a></li>\n<li><a href=\"https://github.com/ElemeFE/node-interview/blob/master/sections/zh-cn/process.md#%E5%AE%88%E6%8A%A4%E8%BF%9B%E7%A8%8B\"><code>[Basic]</code> 守护进程</a></li>\n</ul>\n<h3>常见问题</h3>\n<ul>\n<li>进程的当前工作目录是什么? 有什么作用? <a href=\"https://github.com/ElemeFE/node-interview/blob/master/sections/zh-cn/process.md#q-cwd\">[more]</a></li>\n<li>child_process.fork 与 POSIX 的 fork 有什么区别? <a href=\"https://github.com/ElemeFE/node-interview/blob/master/sections/zh-cn/process.md#q-fork\">[more]</a></li>\n<li>父进程或子进程的死亡是否会影响对方? 什么是孤儿进程? <a href=\"https://github.com/ElemeFE/node-interview/blob/master/sections/zh-cn/process.md#q-child\">[more]</a></li>\n<li>cluster 是如何保证负载均衡的? <a href=\"https://github.com/ElemeFE/node-interview/blob/master/sections/zh-cn/process.md#how-it-works\">[more]</a></li>\n<li>什么是守护进程? 如何实现守护进程? <a href=\"https://github.com/ElemeFE/node-interview/blob/master/sections/zh-cn/process.md#%E5%AE%88%E6%8A%A4%E8%BF%9B%E7%A8%8B\">[more]</a></li>\n</ul>\n<p><a href=\"https://github.com/ElemeFE/node-interview/blob/master/sections/zh-cn/process.md\">阅读更多</a></p>\n<h2><a href=\"https://github.com/ElemeFE/node-interview/blob/master/sections/zh-cn/io.md\">IO</a></h2>\n<ul>\n<li><a href=\"https://github.com/ElemeFE/node-interview/blob/master/sections/zh-cn/io.md#buffer\"><code>[Doc]</code> Buffer</a></li>\n<li><a href=\"https://github.com/ElemeFE/node-interview/blob/master/sections/zh-cn/io.md#string-decoder\"><code>[Doc]</code> String Decoder (字符串解码)</a></li>\n<li><a href=\"https://github.com/ElemeFE/node-interview/blob/master/sections/zh-cn/io.md#stream\"><code>[Doc]</code> Stream (流)</a></li>\n<li><a href=\"https://github.com/ElemeFE/node-interview/blob/master/sections/zh-cn/io.md#console\"><code>[Doc]</code> Console (控制台)</a></li>\n<li><a href=\"https://github.com/ElemeFE/node-interview/blob/master/sections/zh-cn/io.md#file\"><code>[Doc]</code> File System (文件系统)</a></li>\n<li><a href=\"https://github.com/ElemeFE/node-interview/blob/master/sections/zh-cn/io.md#readline\"><code>[Doc]</code> Readline</a></li>\n<li><a href=\"https://github.com/ElemeFE/node-interview/blob/master/sections/zh-cn/io.md#repl\"><code>[Doc]</code> REPL</a></li>\n</ul>\n<h3>常见问题</h3>\n<ul>\n<li>Buffer 一般用于处理什么数据? 其长度能否动态变化? <a href=\"https://github.com/ElemeFE/node-interview/blob/master/sections/zh-cn/io.md#buffer\">[more]</a></li>\n<li>Stream 的 highWaterMark 与 drain 事件是什么? 二者之间的关系是? <a href=\"https://github.com/ElemeFE/node-interview/blob/master/sections/zh-cn/io.md#%E7%BC%93%E5%86%B2%E5%8C%BA\">[more]</a></li>\n<li>Stream 的 pipe 的作用是? 在 pipe 的过程中数据是引用传递还是拷贝传递? <a href=\"https://github.com/ElemeFE/node-interview/blob/master/sections/zh-cn/io.md#pipe\">[more]</a></li>\n<li>什么是文件描述符? 输入流/输出流/错误流是什么? <a href=\"https://github.com/ElemeFE/node-interview/blob/master/sections/zh-cn/io.md#file\">[more]</a></li>\n<li>console.log 是同步还是异步? 如何实现一个 console.log? <a href=\"https://github.com/ElemeFE/node-interview/blob/master/sections/zh-cn/io.md#console\">[more]</a></li>\n<li>如何同步的获取用户的输入?  <a href=\"https://github.com/ElemeFE/node-interview/blob/master/sections/zh-cn/io.md#%E5%A6%82%E4%BD%95%E5%90%8C%E6%AD%A5%E7%9A%84%E8%8E%B7%E5%8F%96%E7%94%A8%E6%88%B7%E7%9A%84%E8%BE%93%E5%85%A5\">[more]</a></li>\n<li>Readline 是如何实现的? (有思路即可) <a href=\"https://github.com/ElemeFE/node-interview/blob/master/sections/zh-cn/io.md#readline\">[more]</a></li>\n</ul>\n<p><a href=\"https://github.com/ElemeFE/node-interview/blob/master/sections/zh-cn/io.md\">阅读更多</a></p>\n<h2><a href=\"https://github.com/ElemeFE/node-interview/blob/master/sections/zh-cn/network.md\">Network</a></h2>\n<ul>\n<li><a href=\"https://github.com/ElemeFE/node-interview/blob/master/sections/zh-cn/network.md#net\"><code>[Doc]</code> Net (网络)</a></li>\n<li><a href=\"https://github.com/ElemeFE/node-interview/blob/master/sections/zh-cn/network.md#udp\"><code>[Doc]</code> UDP/Datagram</a></li>\n<li><a href=\"https://github.com/ElemeFE/node-interview/blob/master/sections/zh-cn/network.md#http\"><code>[Doc]</code> HTTP</a></li>\n<li><a href=\"https://github.com/ElemeFE/node-interview/blob/master/sections/zh-cn/network.md#dns\"><code>[Doc]</code> DNS (域名服务器)</a></li>\n<li><a href=\"https://github.com/ElemeFE/node-interview/blob/master/sections/zh-cn/network.md#zlib\"><code>[Doc]</code> ZLIB (压缩)</a></li>\n<li><a href=\"https://github.com/ElemeFE/node-interview/blob/master/sections/zh-cn/network.md#rpc\"><code>[Point]</code> RPC</a></li>\n</ul>\n<h3>常见问题</h3>\n<ul>\n<li>cookie 与 session 的区别? 服务端如何清除 cookie? <a href=\"https://github.com/ElemeFE/node-interview/blob/master/sections/zh-cn/network.md#q-cookie-session\">[more]</a></li>\n<li>HTTP 协议中的 POST 和 PUT 有什么区别? <a href=\"https://github.com/ElemeFE/node-interview/blob/master/sections/zh-cn/network.md#q-post-put\">[more]</a></li>\n<li>什么是跨域请求? 如何允许跨域? <a href=\"https://github.com/ElemeFE/node-interview/blob/master/sections/zh-cn/network.md#q-cors\">[more]</a></li>\n<li>TCP/UDP 的区别? TCP 粘包是怎么回事，如何处理? UDP 有粘包吗? <a href=\"https://github.com/ElemeFE/node-interview/blob/master/sections/zh-cn/network.md#q-tcp-udp\">[more]</a></li>\n<li><code>TIME_WAIT</code> 是什么情况? 出现过多的 <code>TIME_WAIT</code> 可能是什么原因? <a href=\"https://github.com/ElemeFE/node-interview/blob/master/sections/zh-cn/network.md#q-time-wait\">[more]</a></li>\n<li>ECONNRESET 是什么错误? 如何复现这个错误?</li>\n<li>socket hang up 是什么意思? 可能在什么情况下出现? <a href=\"https://github.com/ElemeFE/node-interview/blob/master/sections/zh-cn/network.md#socket-hang-up\">[more]</a></li>\n<li>hosts 文件是什么? 什么叫 DNS 本地解析?</li>\n<li>列举几个提高网络传输速度的办法?</li>\n</ul>\n<p><a href=\"https://github.com/ElemeFE/node-interview/blob/master/sections/zh-cn/network.md\">阅读更多</a></p>\n<h2><a href=\"https://github.com/ElemeFE/node-interview/blob/master/sections/zh-cn/os.md\">OS</a></h2>\n<ul>\n<li><a href=\"https://github.com/ElemeFE/node-interview/blob/master/sections/zh-cn/os.md#tty\"><code>[Doc]</code> TTY</a></li>\n<li><a href=\"https://github.com/ElemeFE/node-interview/blob/master/sections/zh-cn/os.md#os\"><code>[Doc]</code> OS (操作系统)</a></li>\n<li><a href=\"https://github.com/ElemeFE/node-interview/blob/master/sections/zh-cn/os.md#path\"><code>[Doc]</code> Path</a></li>\n<li><a href=\"https://github.com/ElemeFE/node-interview/blob/master/sections/zh-cn/os.md#%E5%91%BD%E4%BB%A4%E8%A1%8C%E5%8F%82%E6%95%B0\"><code>[Doc]</code> 命令行参数</a></li>\n<li><a href=\"https://github.com/ElemeFE/node-interview/blob/master/sections/zh-cn/os.md#%E8%B4%9F%E8%BD%BD\"><code>[Basic]</code> 负载</a></li>\n<li><a href=\"https://github.com/ElemeFE/node-interview/blob/master/sections/zh-cn/os.md#checklist\"><code>[Point]</code> CheckList</a></li>\n</ul>\n<h3>常见问题</h3>\n<ul>\n<li>什么是 TTY? 如何判断是否处于 TTY 环境? <a href=\"https://github.com/ElemeFE/node-interview/blob/master/sections/zh-cn/os.md#tty\">[more]</a></li>\n<li>不同操作系统的换行符 (EOL) 有什么区别? <a href=\"https://github.com/ElemeFE/node-interview/blob/master/sections/zh-cn/os.md#os\">[more]</a></li>\n<li>服务器负载是什么概念? 如何查看负载? <a href=\"https://github.com/ElemeFE/node-interview/blob/master/sections/zh-cn/os.md#%E8%B4%9F%E8%BD%BD\">[more]</a></li>\n<li>ulimit 是用来干什么的? <a href=\"https://github.com/ElemeFE/node-interview/blob/master/sections/zh-cn/os.md#ulimit\">[more]</a></li>\n</ul>\n<p><a href=\"https://github.com/ElemeFE/node-interview/blob/master/sections/zh-cn/os.md\">阅读更多</a></p>\n<h2><a href=\"https://github.com/ElemeFE/node-interview/blob/master/sections/zh-cn/error.md\">错误处理/调试/优化</a></h2>\n<ul>\n<li><a href=\"https://github.com/ElemeFE/node-interview/blob/master/sections/zh-cn/error.md#errors\"><code>[Doc]</code> Errors (异常)</a></li>\n<li><a href=\"https://github.com/ElemeFE/node-interview/blob/master/sections/zh-cn/error.md#domain\"><code>[Doc]</code> Domain (域)</a></li>\n<li><a href=\"https://github.com/ElemeFE/node-interview/blob/master/sections/zh-cn/error.md#debugger\"><code>[Doc]</code> Debugger (调试器)</a></li>\n<li><a href=\"https://github.com/ElemeFE/node-interview/blob/master/sections/zh-cn/error.md#c-c++-addon\"><code>[Doc]</code> C/C++ 插件</a></li>\n<li><a href=\"https://github.com/ElemeFE/node-interview/blob/master/sections/zh-cn/error.md#v8\"><code>[Doc]</code> V8</a></li>\n<li><a href=\"https://github.com/ElemeFE/node-interview/blob/master/sections/zh-cn/error.md#%E5%86%85%E5%AD%98%E5%BF%AB%E7%85%A7\"><code>[Point]</code> 内存快照</a></li>\n<li><a href=\"https://github.com/ElemeFE/node-interview/blob/master/sections/zh-cn/error.md#cpu-profiling\"><code>[Point]</code> CPU profiling</a></li>\n</ul>\n<h3>常见问题</h3>\n<ul>\n<li>怎么处理未预料的出错? 用 try/catch ，domains 还是其它什么? <a href=\"https://github.com/ElemeFE/node-interview/blob/master/sections/zh-cn/error.md#q-handle-error\">[more]</a></li>\n<li>什么是 <code>uncaughtException</code> 事件? 一般在什么情况下使用该事件? <a href=\"https://github.com/ElemeFE/node-interview/blob/master/sections/zh-cn/error.md#uncaughtexception\">[more]</a></li>\n<li>domain 的原理是? 为什么要弃用 domain? <a href=\"https://github.com/ElemeFE/node-interview/blob/master/sections/zh-cn/error.md#domain\">[more]</a></li>\n<li>什么是防御性编程? 与其相对的 let it crash 又是什么?</li>\n<li>为什么要在 cb 的第一参数传 error? 为什么有的 cb 第一个参数不是 error, 例如 http.createServer?</li>\n<li>为什么有些异常没法根据报错信息定位到代码调用? 如何准确的定位一个异常? <a href=\"https://github.com/ElemeFE/node-interview/blob/master/sections/zh-cn/error.md#%E9%94%99%E8%AF%AF%E6%A0%88%E4%B8%A2%E5%A4%B1\">[more]</a></li>\n<li>内存泄漏通常由哪些原因导致? 如何分析以及定位内存泄漏? <a href=\"https://github.com/ElemeFE/node-interview/blob/master/sections/zh-cn/error.md#%E5%86%85%E5%AD%98%E5%BF%AB%E7%85%A7\">[more]</a></li>\n</ul>\n<p><a href=\"https://github.com/ElemeFE/node-interview/blob/master/sections/zh-cn/error.md\">阅读更多</a></p>\n<h2><a href=\"https://github.com/ElemeFE/node-interview/blob/master/sections/zh-cn/test.md\">测试</a></h2>\n<ul>\n<li><a href=\"https://github.com/ElemeFE/node-interview/blob/master/sections/zh-cn/test.md#%E6%B5%8B%E8%AF%95%E6%96%B9%E6%B3%95\"><code>[Basic]</code> 测试方法</a></li>\n<li><a href=\"https://github.com/ElemeFE/node-interview/blob/master/sections/zh-cn/test.md#%E5%8D%95%E5%85%83%E6%B5%8B%E8%AF%95\"><code>[Basic]</code> 单元测试</a></li>\n<li><a href=\"https://github.com/ElemeFE/node-interview/blob/master/sections/zh-cn/test.md#%E9%9B%86%E6%88%90%E6%B5%8B%E8%AF%95\"><code>[Basic]</code> 集成测试</a></li>\n<li><a href=\"https://github.com/ElemeFE/node-interview/blob/master/sections/zh-cn/test.md#%E5%9F%BA%E5%87%86%E6%B5%8B%E8%AF%95\"><code>[Basic]</code> 基准测试</a></li>\n<li><a href=\"https://github.com/ElemeFE/node-interview/blob/master/sections/zh-cn/test.md#%E5%8E%8B%E5%8A%9B%E6%B5%8B%E8%AF%95\"><code>[Basic]</code> 压力测试</a></li>\n<li><a href=\"https://github.com/ElemeFE/node-interview/blob/master/sections/zh-cn/test.md#assert\"><code>[Doc]</code> Assert (断言)</a></li>\n</ul>\n<h3>常见问题</h3>\n<ul>\n<li>为什么要写测试? 写测试是否会拖累开发进度?<a href=\"https://github.com/ElemeFE/node-interview/blob/master/sections/zh-cn/test.md#q-why-write-test\">[more]</a></li>\n<li>单元测试的单元是指什么? 什么是覆盖率?<a href=\"https://github.com/ElemeFE/node-interview/blob/master/sections/zh-cn/test.md#%E5%8D%95%E5%85%83%E6%B5%8B%E8%AF%95\">[more]</a></li>\n<li>测试是如何保证业务逻辑中不会出现死循环的?<a href=\"https://github.com/ElemeFE/node-interview/blob/master/sections/zh-cn/test.md#q-death-loop\">[more]</a></li>\n<li>mock 是什么? 一般在什么情况下 mock?<a href=\"https://github.com/ElemeFE/node-interview/blob/master/sections/zh-cn/test.md#mock\">[more]</a></li>\n</ul>\n<p><a href=\"https://github.com/ElemeFE/node-interview/blob/master/sections/zh-cn/test.md\">阅读更多</a></p>\n<h2><a href=\"https://github.com/ElemeFE/node-interview/blob/master/sections/zh-cn/util.md\">util</a></h2>\n<ul>\n<li><a href=\"https://github.com/ElemeFE/node-interview/blob/master/sections/zh-cn/util.md#url\"><code>[Doc]</code> URL</a></li>\n<li><a href=\"https://github.com/ElemeFE/node-interview/blob/master/sections/zh-cn/util.md#query-strings\"><code>[Doc]</code> Query Strings (查询字符串)</a></li>\n<li><a href=\"https://github.com/ElemeFE/node-interview/blob/master/sections/zh-cn/util.md#util-1\"><code>[Doc]</code> Utilities (实用函数)</a></li>\n<li><a href=\"https://github.com/ElemeFE/node-interview/blob/master/sections/zh-cn/util.md#%E6%AD%A3%E5%88%99%E8%A1%A8%E8%BE%BE%E5%BC%8F\"><code>[Basic]</code> 正则表达式</a></li>\n</ul>\n<h3>常见问题</h3>\n<ul>\n<li>HTTP 如何通过 GET 方法 (URL) 传递 let arr = [1,2,3,4] 给服务器? <a href=\"https://github.com/ElemeFE/node-interview/blob/master/sections/zh-cn/util.md#get-param\">[more]</a></li>\n<li>Node.js 中继承 (util.inherits) 的实现? <a href=\"https://github.com/ElemeFE/node-interview/blob/master/sections/zh-cn/util.md#utilinherits\">[more]</a></li>\n<li>如何递归获取某个文件夹下所有的文件名? <a href=\"https://github.com/ElemeFE/node-interview/blob/master/sections/zh-cn/util.md#q-traversal\">[more]</a></li>\n</ul>\n<p><a href=\"https://github.com/ElemeFE/node-interview/blob/master/sections/zh-cn/util.md\">阅读更多</a></p>\n<h2><a href=\"https://github.com/ElemeFE/node-interview/blob/master/sections/zh-cn/storage.md\">存储</a></h2>\n<ul>\n<li><a href=\"https://github.com/ElemeFE/node-interview/blob/master/sections/zh-cn/storage.md#mysql\"><code>[Point]</code> Mysql</a></li>\n<li><a href=\"https://github.com/ElemeFE/node-interview/blob/master/sections/zh-cn/storage.md#mongodb\"><code>[Point]</code> Mongodb</a></li>\n<li><a href=\"https://github.com/ElemeFE/node-interview/blob/master/sections/zh-cn/storage.md#replication\"><code>[Point]</code> Replication</a></li>\n<li><a href=\"https://github.com/ElemeFE/node-interview/blob/master/sections/zh-cn/storage.md#%E6%95%B0%E6%8D%AE%E4%B8%80%E8%87%B4%E6%80%A7\"><code>[Point]</code> 数据一致性</a></li>\n<li><a href=\"https://github.com/ElemeFE/node-interview/blob/master/sections/zh-cn/storage.md#%E7%BC%93%E5%AD%98\"><code>[Point]</code> 缓存</a></li>\n</ul>\n<h3>常见问题</h3>\n<ul>\n<li>备份数据库与 M/S, M/M 等部署方式的区别? <a href=\"https://github.com/ElemeFE/node-interview/blob/master/sections/zh-cn/storage.md#replication\">[more]</a></li>\n<li>索引有什么用，大致原理是什么? 设计索引有什么注意点? <a href=\"https://github.com/ElemeFE/node-interview/blob/master/sections/zh-cn/storage.md#%E7%B4%A2%E5%BC%95\">[more]</a></li>\n<li>Monogdb 连接问题(超时/断开等)有可能是什么问题导致的? <a href=\"https://github.com/ElemeFE/node-interview/blob/master/sections/zh-cn/storage.md#Mongodb\">[more]</a></li>\n<li>什么情况下数据会出现脏数据? 如何避免? <a href=\"https://github.com/ElemeFE/node-interview/blob/master/sections/zh-cn/storage.md#%E6%95%B0%E6%8D%AE%E4%B8%80%E8%87%B4%E6%80%A7\">[more]</a></li>\n<li>redis 与 memcached 的区别? <a href=\"https://github.com/ElemeFE/node-interview/blob/master/sections/zh-cn/storage.md#%E7%BC%93%E5%AD%98\">[more]</a></li>\n</ul>\n<p><a href=\"https://github.com/ElemeFE/node-interview/blob/master/sections/zh-cn/storage.md\">阅读更多</a></p>\n<h2><a href=\"https://github.com/ElemeFE/node-interview/blob/master/sections/zh-cn/security.md\">安全</a></h2>\n<ul>\n<li><a href=\"https://github.com/ElemeFE/node-interview/blob/master/sections/zh-cn/security.md#crypto\"><code>[Doc]</code> Crypto (加密)</a></li>\n<li><a href=\"https://github.com/ElemeFE/node-interview/blob/master/sections/zh-cn/security.md#tlsssl\"><code>[Doc]</code> TLS/SSL</a></li>\n<li><a href=\"https://github.com/ElemeFE/node-interview/blob/master/sections/zh-cn/security.md#https\"><code>[Doc]</code> HTTPS</a></li>\n<li><a href=\"https://github.com/ElemeFE/node-interview/blob/master/sections/zh-cn/security.md#xss\"><code>[Point]</code> XSS</a></li>\n<li><a href=\"https://github.com/ElemeFE/node-interview/blob/master/sections/zh-cn/security.md#csrf\"><code>[Point]</code> CSRF</a></li>\n<li><a href=\"https://github.com/ElemeFE/node-interview/blob/master/sections/zh-cn/security.md#%E4%B8%AD%E9%97%B4%E4%BA%BA%E6%94%BB%E5%87%BB\"><code>[Point]</code> 中间人攻击</a></li>\n<li><a href=\"https://github.com/ElemeFE/node-interview/blob/master/sections/zh-cn/security.md#sqlnosql-%E6%B3%A8%E5%85%A5\"><code>[Point]</code> Sql/Nosql 注入</a></li>\n</ul>\n<h3>常见问题</h3>\n<ul>\n<li>加密是如何保证用户密码的安全性? <a href=\"https://github.com/ElemeFE/node-interview/blob/master/sections/zh-cn/security.md#crypto\">[more]</a></li>\n<li>TLS 与 SSL 有什么区别? <a href=\"https://github.com/ElemeFE/node-interview/blob/master/sections/zh-cn/security.md#tlsssl\">[more]</a></li>\n<li>HTTPS 能否被劫持? <a href=\"https://github.com/ElemeFE/node-interview/blob/master/sections/zh-cn/security.md#https\">[more]</a></li>\n<li>XSS 攻击是什么? 有什么危害? <a href=\"https://github.com/ElemeFE/node-interview/blob/master/sections/zh-cn/security.md#xss\">[more]</a></li>\n<li>过滤 Html 标签能否防止 XSS? 请列举不能的情况? <a href=\"https://github.com/ElemeFE/node-interview/blob/master/sections/zh-cn/security.md#xss\">[more]</a></li>\n<li>CSRF 是什么? 如何防范? <a href=\"https://github.com/ElemeFE/node-interview/blob/master/sections/zh-cn/security.md#csrf\">[more]</a></li>\n<li>如何避免中间人攻击? <a href=\"https://github.com/ElemeFE/node-interview/blob/master/sections/zh-cn/security.md#%E4%B8%AD%E9%97%B4%E4%BA%BA%E6%94%BB%E5%87%BB\">[more]</a></li>\n</ul>\n<p><a href=\"https://github.com/ElemeFE/node-interview/blob/master/sections/zh-cn/security.md\">阅读更多</a></p>\n<h2>最后</h2>\n<p>目前 repo 处于施工现场的情况，如果发现问题欢迎在 <a href=\"https://github.com/ElemeFE/node-interview/issues\">issues</a> 中指出。如果有比较好的<code>问题/知识点/指正</code>，也欢迎提 PR。</p>\n<p>另外关于 <code>Js 基础</code> 是个比较大的话题，在本教程不会很细致深入的讨论，更多的是列出一些重要或者更服务端更相关的地方，所以如果你拿着《JavaScript 权威指南》给教程提 PR 可能不会采纳。本教程的重点更准确的说是服务端基础中 Node.js 程序员需要了解的部分。</p>\n</div>","title":"饿了么大前端 Node.js 进阶教程","last_reply_at":"2018-06-12T01:47:12.448Z","good":true,"top":false,"reply_count":296,"visit_count":908037,"create_at":"2017-02-22T11:32:43.547Z","author":{"loginname":"lellansin","avatar_url":"https://avatars2.githubusercontent.com/u/2081487?v=4&s=120"}},{"id":"5746cdcf991011691ef17b88","author_id":"57329f1c2e11c7a80c33f87a","tab":"share","content":"<div class=\"markdown-text\"><p>express作为nodejs平台下非常流行的web框架，相信大家都对其已经很熟悉了，对于express的使用这里不再多说，如有需要可以移步到<a href>www.expressjs.com</a>自行查看express的官方文档，今天主要是想说下express的路由机制。</p>\n<p>最近抽时间看了下express的源码，看完源码体会最深刻的还是express的路由机制，感觉搞懂了express的路由就算是基本搞懂了express，而express的路由机制都是router模块来实现，所以在这里对express的router模块实现进行一下简单的整理，所有理解都来自自己对源码的理解，如有不对的地方，还请各位多多拍砖。</p>\n<p>好了，废话不多说了，进入正题，首先先了解一下express源码的目录结构，如下图：\n<img src=\"//dn-cnode.qbox.me/FnuptVMv5TZchESOT0JRT0re7KZ0\" alt=\"express.jpg\">\napplication.js为express的主文件，express.js对application.js进行了包装，对外提供各种API，这里我们不多做说明，我们今天要说的就是router目录下的内容，express关于路由的具体实现都是由这个目录完成。我们先看一个简单的express路由的例子：</p>\n<pre class=\"prettyprint\"><code>var app = express();\napp.get(&#x27;&#x2F;hello&#x27;, function(req,res){\n    res.send(&#x27;hello everyone!!!&#x27;); \n}); \n</code></pre><p>上边就是一个最简单的express路由的例子，将path为 ‘/hello’ 的请求路由到当前的处理函数，并返回 ‘hello everyone!!!’ ，那么我们来一起看看，app.get()何实现的，通过查看代码我们发现源码里并没有app.get()的实现，但仔细找找你会在application.js中发现如下的代码：</p>\n<pre class=\"prettyprint\"><code>methods.forEach(function(method){\n  app[method] = function(path){\n    if (method === &#x27;get&#x27; &amp;&amp; arguments.length === 1) {\n      &#x2F;&#x2F; app.get(setting)\n      return this.set(path);\n    }\n\n    this.lazyrouter();\n\n    var route = this._router.route(path);\n    route[method].apply(route, slice.call(arguments, 1));\n    return this;\n  };\n});\n</code></pre><p>(⊙o⊙)哦，隐藏的好深，原来express对get，post等方法的添加都是动态的，methods来自<a href=\"https://www.npmjs.com/package/methods\">methods</a>这个模块，他提供了和nodejs  http.METHODS 相似的东西，返回了http协议的所有method，这样一个循环搞定了所有method函数的定义，赞一个。</p>\n<p>接下来我们主要分析下函数内部的实现，首先判断如果method等于get，并且参数的长度是1，则直接返回this.set(path)，大家查看express官网的API就可以发现，app.get()函数其实实现了两种功能，如果参数长度是1，则返回app.set()定义的变量，如果参数长度大于1，则进行路由处理。</p>\n<p>继续往下看，<strong>this.lazyrouter()</strong>，从名字来看，好像是懒加载router，那我们看看源码：</p>\n<pre class=\"prettyprint\"><code>app.lazyrouter = function lazyrouter() {\n  if (!this._router) {\n    this._router = new Router({\n      caseSensitive: this.enabled(&#x27;case sensitive routing&#x27;),\n      strict: this.enabled(&#x27;strict routing&#x27;)\n    });\n\n    this._router.use(query(this.get(&#x27;query parser fn&#x27;)));\n    this._router.use(middleware.init(this));\n  }\n};\n</code></pre><p>果然是，如果_router不存在，就new一个Router出来，而这个Router就是我们刚才在目录结构中看到的router目录，也就是今天的主角Router模块。继续上边的代码，加载完_router之后，执行了**this._router.route(path)**这样一行代码，那这行代码有做了什么呢，我们再继续往下挖，我们在router目录下的index.js中找到了它的实现：</p>\n<pre class=\"prettyprint\"><code>proto.route = function route(path) {\n  var route = new Route(path);\n\n  var layer = new Layer(path, {\n    sensitive: this.caseSensitive,\n    strict: this.strict,\n    end: true\n  }, route.dispatch.bind(route));\n\n  layer.route = route;\n\n  this.stack.push(layer);\n  return route;\n};\n</code></pre><p>我们可以看到，这里new了一个Route对象，并且new了一个Layer对象，然后将Route对象赋值给layer.route，最后将这个Layer添加到stack数组中。在这里我们先不对Layer进行说明，后边会有专门的介绍，我们先来看看Route，那这个Route又是什么呢，它和Router模块有什么关系呢，我来说下我的理解：</p>\n<blockquote>\n<p>Route模块对应的是route.js，主要是来处理路由信息的，每条路由都会生成一个Route实例。而Router模块对应的是index.js，Router是一个路由的集合，在Router模块下可以定义多个路由，也就是说，一个Router模块会包含多个Route模块。通过上边的代码我们已经知道，每个express创建的实例都会懒加载一个_router来进行路由处理，这个_router就是一个Router模块。</p>\n</blockquote>\n<p>理解了Route和Router的关系，感觉一下子清爽了有木有，O(∩_∩)O哈哈~~~</p>\n<p>好了，我们接着看代码，拿到route对象之后，通过apply的方式调用了route的对应method函数，假如我们现在使用的是get函数，那现在method就等于get。看到这里大家就会发现，express实例在处理路由的时候，会先创建一个Router对象，然后用Router对象和对应的path来生成一个Route对象，最后由Route对象来处理具体的路由实现。</p>\n<p>好了，那接下来我们继续深入研究，看看route.method究竟做了什么，我们找到route.js文件，发现如下的代码：</p>\n<pre class=\"prettyprint\"><code>methods.forEach(function(method){\n  Route.prototype[method] = function(){\n    var handles = flatten(slice.call(arguments));\n\n    for (var i = 0; i &lt; handles.length; i++) {\n      var handle = handles[i];\n\n      if (typeof handle !== &#x27;function&#x27;) {\n        var type = toString.call(handle);\n        var msg = &#x27;Route.&#x27; + method + &#x27;() requires callback functions but got a &#x27; + type;\n        throw new Error(msg);\n      }\n\n      debug(&#x27;%s %s&#x27;, method, this.path);\n\n      var layer = Layer(&#x27;&#x2F;&#x27;, {}, handle);\n      layer.method = method;\n\n      this.methods[method] = true;\n      this.stack.push(layer);\n    }\n\n    return this;\n  };\n});\n</code></pre><p>啊啊啊，原来route和application运用了同样的技巧，通过循环methods来动态添加method函数，我们直接看函数内部实现，首先通过入参获取到handles，这里的handles就是我们定义的路由中间件函数，这里我们可以看到是一个数组，所以我们可以给一个路由添加多个中间件函数。接下来循环handles，在每个循环中利用handle来创建一个Layer对象，然后将Layer对象push到stack中去，这个stack其实是Route内部维护的一个数组，用来存放所有的Layer对象。现在你一定想这道这个Layer到底是什么东西，那我们继续往下看，看看layer.js的源代码：</p>\n<pre class=\"prettyprint\"><code>function Layer(path, options, fn) {\n  if (!(this instanceof Layer)) {\n    return new Layer(path, options, fn);\n  }\n\n  debug(&#x27;new %s&#x27;, path);\n  var opts = options || {};\n\n  this.handle = fn;\n  this.name = fn.name || &#x27;&lt;anonymous&gt;&#x27;;\n  this.params = undefined;\n  this.path = undefined;\n  this.regexp = pathRegexp(path, this.keys = [], opts);\n\n  if (path === &#x27;&#x2F;&#x27; &amp;&amp; opts.end === false) {\n    this.regexp.fast_slash = true;\n  }\n}\n</code></pre><p>上边是Layer的构造函数，我们可以看到这里定义handle，params，path和regexp等几个主要的属性：</p>\n<ol>\n<li>其中最重要的就是handle，它就是我们刚刚在route中创建Layer对象传入的中间件函数。</li>\n<li>params其实就是req.params，至于如何实现的我们可以以后再做探讨，今天先不做说明。</li>\n<li>path就是我们定义路由时传入的path。</li>\n<li>regexp对于Layer来说是比较重要的一个属性，因为下边进行路由匹配的时候就是靠它来搞定的，而它的值是由pathRegexp得来的，其实这个pathRegexp对应的是一个第三方模块<a href=\"https://www.npmjs.com/package/path-to-regexp\">path-to-regexp</a>，它的功能是将path转换成regexp，具体用法大家可以自行查看。</li>\n</ol>\n<p>看完属性，我们再来看看Layer有什么方法：</p>\n<pre class=\"prettyprint\"><code>Layer.prototype.match = function match(path) {\n  if (path == null) {\n    &#x2F;&#x2F; no path, nothing matches\n    this.params = undefined;\n    this.path = undefined;\n    return false;\n  }\n\n  if (this.regexp.fast_slash) {\n    &#x2F;&#x2F; fast path non-ending match for &#x2F; (everything matches)\n    this.params = {};\n    this.path = &#x27;&#x27;;\n    return true;\n  }\n\n  var m = this.regexp.exec(path);\n\n  if (!m) {\n    this.params = undefined;\n    this.path = undefined;\n    return false;\n  }\n\n  &#x2F;&#x2F; store values\n  this.params = {};\n  this.path = m[0];\n\n  var keys = this.keys;\n  var params = this.params;\n\n  for (var i = 1; i &lt; m.length; i++) {\n    var key = keys[i - 1];\n    var prop = key.name;\n    var val = decode_param(m[i]);\n\n    if (val !== undefined || !(hasOwnProperty.call(params, prop))) {\n      params[prop] = val;\n    }\n  }\n\n  return true;\n};\n</code></pre><p>match函数主要用来匹配path的，当我们向express发送一个http请求时，当前请求对应的是哪个路由，就是通过这个match函数来判断的，如果path中带有参数，match还会把参数提取出来赋值给params，所以说match是整个路由中很重要的一点。</p>\n<pre class=\"prettyprint\"><code>Layer.prototype.handle_error = function handle_error(error, req, res, next) {\n  var fn = this.handle;\n\n  if (fn.length !== 4) {\n    &#x2F;&#x2F; not a standard error handler\n    return next(error);\n  }\n\n  try {\n    fn(error, req, res, next);\n  } catch (err) {\n    next(err);\n  }\n};\n</code></pre><p>这个是错误处理函数，专门用来处理错误的。</p>\n<pre class=\"prettyprint\"><code>Layer.prototype.handle_request = function handle(req, res, next) {\n  var fn = this.handle;\n\n  if (fn.length &gt; 3) {\n    &#x2F;&#x2F; not a standard request handler\n    return next();\n  }\n\n  try {\n    fn(req, res, next);\n  } catch (err) {\n    next(err);\n  }\n};\n</code></pre><p>从上边的代码我们可以看到调用了fn，而这个fn就是layer的handle属性，就是我们定义路由时传入的路由中间件，到这里我们总算找到了我们的路由中间件被执行的地方，是不是很兴奋。好了，到这里我们已经看完了Layer的代码，但Layer到底是做什么的呢，它和Route之间又有什么千丝万缕的联系呢，说说我的理解：</p>\n<blockquote>\n<p>每一个Layer对应一个中间件函数，Layer存储了每个路由的path和handle等信息，并且实现了match和handle的功能。而从前边我们已经知道，每个Route都会维护一个Layer数组，所有可以发现Route和Layer是一对多的关系，每个Route代表一个路由，而每个Layer对应的是路由的每一个中间件函数。</p>\n</blockquote>\n<p>讲完了Route和Layer的关系，我们再来回头看看Router和Layer的关系，我们再来看看index.js中prop.route的代码：</p>\n<pre class=\"prettyprint\"><code>proto.route = function route(path) {\n  var route = new Route(path);\n\n  var layer = new Layer(path, {\n    sensitive: this.caseSensitive,\n    strict: this.strict,\n    end: true\n  }, route.dispatch.bind(route));\n\n  layer.route = route;\n\n  this.stack.push(layer);\n  return route;\n};\n</code></pre><p>从代码我们可以看出来Router每次添加一个route，都会把route包装到layer中，并且将layer添加到自己的stack中，那为什么要把route包装到layer中呢，前边我们已经仔细研究了Layer模块的代码，我们发现Layer具有match和handle的功能，这样我们就可以通过Layer的match来进行route的匹配了。这里有一个关键点我们需要特别讲解下，上边的代码中在创建Layer对象的时候传入的handle函数为<strong>route.dispatch.bind(route)</strong>，我们来看看route.js中的route.dispatch：</p>\n<pre class=\"prettyprint\"><code>Route.prototype.dispatch = function dispatch(req, res, done) {\n  var idx = 0;\n  var stack = this.stack;\n  if (stack.length === 0) {\n    return done();\n  }\n\n  var method = req.method.toLowerCase();\n  if (method === &#x27;head&#x27; &amp;&amp; !this.methods[&#x27;head&#x27;]) {\n    method = &#x27;get&#x27;;\n  }\n\n  req.route = this;\n\n  next();\n\n  function next(err) {\n    if (err &amp;&amp; err === &#x27;route&#x27;) {\n      return done();\n    }\n\n    var layer = stack[idx++];\n    if (!layer) {\n      return done(err);\n    }\n\n    if (layer.method &amp;&amp; layer.method !== method) {\n      return next(err);\n    }\n\n    if (err) {\n      layer.handle_error(err, req, res, next);\n    } else {\n      layer.handle_request(req, res, next);\n    }\n  }\n};\n</code></pre><p>我们发现dispatch中通过next()获取stack中的每一个layer来执行相应的路由中间件，这样就保证了我们定义在路由上的多个中间件函数被按照定义的顺序依次执行。到这里我们已经知道了单个路由是被如何执行的，那我们定义的多个路由之间又是如何被依次执行的呢，现在我们来看看index.js中的handle函数：</p>\n<pre class=\"prettyprint\"><code>proto.handle = function handle(req, res, out) {\n\n  &#x2F;&#x2F; middleware and routes\n  var stack = self.stack;\n\n  next();\n\n  function next(err) {\n\n    &#x2F;&#x2F; find next matching layer\n    var layer;\n    var match;\n    var route;\n\n    while (match !== true &amp;&amp; idx &lt; stack.length) {\n      layer = stack[idx++];\n      match = matchLayer(layer, path);\n      route = layer.route;\n      \n      if (match !== true) {\n        continue;\n      }\n\n      if (!route) {\n        &#x2F;&#x2F; process non-route handlers normally\n        continue;\n      }\n    }\n\n    &#x2F;&#x2F; no match\n    if (match !== true) {\n      return done(layerError);\n    }\n\n    &#x2F;&#x2F; this should be done for the layer\n    self.process_params(layer, paramcalled, req, res, function (err) {\n      if (err) {\n        return next(layerError || err);\n      }\n\n      if (route) {\n        return layer.handle_request(req, res, next);\n      }\n\n      trim_prefix(layer, layerError, layerPath, path);\n    });\n  }\n};\n</code></pre><p>上边的代码我进行了处理，删除了一些逻辑，只留下关键部分。从上边的代码我们可以看出，这里也是利用next()，来处理stack中的每一个Layer，这里的stack是Router的stack，stack中存贮了多个route对应的layer，获取到每个layer对象之后，用请求的path与layer进行匹配，此处匹配用的是layer.match，如果能匹配到对应的layer，则获得layer.route，如果route不为空则执行对应的<strong>layer.handle_request()</strong>，如果route为空说明这个layer是通过use()添加的非路由中间件，需要特别说明的是，如果通过use()添加的非路由中间件没有指定path，则会在layer.match中默认返回true，也就是说，没有指定path的非路由中间件会匹配所有的http请求。</p>\n<p>到这里，我们基本已经说明了router相关的所有内容，想必看到这里你一定会有点晕，我们接下来来重新梳理一下。看看express究竟是如何对http请求进行路由的。</p>\n<p>当客户端发送一个http请求后，会先进入express实例对象对应的router.handle函数中，router.handle函数会通过next()遍历stack中的每一个layer进行match，如果match返回true，则获取layer.route，执行route.dispatch函数，route.dispatch同样是通过next()遍历stack中的每一个layer，然后执行layer.handle_request，也就是调用中间件函数。直到所有的中间件函数被执行完毕，整个路由处理结束。</p>\n</div>","title":"express源码分析之Router","last_reply_at":"2018-06-12T01:31:33.365Z","good":true,"top":false,"reply_count":15,"visit_count":14552,"create_at":"2016-05-26T10:19:59.631Z","author":{"loginname":"leijianning","avatar_url":"https://avatars.githubusercontent.com/u/14830812?v=3&s=120"}},{"id":"596ffb9b3f0ab31540ed4b91","author_id":"596ffb823f0ab31540ed4b90","tab":"share","content":"<div class=\"markdown-text\"><p><strong><a href=\"http://www.cnblogs.com/accordion/\">我的博客</a></strong></p>\n<h2>\b由表及里</h2>\n<p>HTTP服务器用于响应来自客户端的请求，当客户端请求数逐渐增大时服务端的处理机制有多种，如tomcat的多线程、nginx的事件循环等。而对于node而言，由于其也采用事件循环和异步I/O机制，因此在高\bI/O并发的场景下性能非常好，但是由于单个node程序仅仅利用单核cpu，因此为了更好利用系统资源\b就需要fork多个node进程执行HTTP服务器逻辑，所以node内建模块提供了<strong>child_process和cluster</strong>模块。利用child_process模块，我们可以执行shell命令，可以fork子进程执行代码，也可以直接执行二进制文件；利用cluster模块，使用node封装好的API、IPC通道和调度机可以非常简单的创建包括<code>一个master进程下HTTP代理服务器 + 多个\bworker进程多个HTTP应用服务器</code>的架构，并提供两种调度子进程算法。本文主要针对cluster模块讲述node是如何实现简介高效的服务集群创建和调度的。\b那么就从代码\u001c进入\b本文的主题：</p>\n<p><strong>code1</strong></p>\n<pre class=\"prettyprint\"><code>const cluster = require(&#x27;cluster&#x27;);\nconst http = require(&#x27;http&#x27;);\n\nif (cluster.isMaster) {\n\n  let numReqs = 0;\n  setInterval(() =&gt; {\n    console.log(&#96;numReqs = ${numReqs}&#96;);\n  }, 1000);\n\n  function messageHandler(msg) {\n    if (msg.cmd &amp;&amp; msg.cmd === &#x27;notifyRequest&#x27;) {\n      numReqs += 1;\n    }\n  }\n\n  const numCPUs = require(&#x27;os&#x27;).cpus().length;\n  for (let i = 0; i &lt; numCPUs; i++) {\n    cluster.fork();\n  }\n\n  for (const id in cluster.workers) {\n    cluster.workers[id].on(&#x27;message&#x27;, messageHandler);\n  }\n\n} else {\n\n  &#x2F;&#x2F; Worker processes have a http server.\n  http.Server((req, res) =&gt; {\n    res.writeHead(200);\n    res.end(&#x27;hello world\\n&#x27;);\n\n    process.send({ cmd: &#x27;notifyRequest&#x27; });\n  }).listen(8000);\n}\n</code></pre><p>主进程创建多个子进程，同时接受子进程传来的消息，循环输出处理请求的数量；</p>\n<p>子进程创建http服务器，侦听8000端口并返回响应。</p>\n<p>泛泛的大道理谁都了解，可是这套代码如何运行在主进程和子进程中呢？\b父进程如何向子进程传递客户端的请求？多个子进程共同侦听8000端口，会不会造成端口reuse error？每个服务器进程最大可有效支持多少并发量？\b主进程下的代理服务器如何调度请求？ 这些问题，如果不深入进去便永远只停留在写应用代码的层面，而且不了解cluster集群创建的多进程与使用child_process创建的进程集群的区别，也写不出符合业务的最优代码，因此，深入cluster还是有必要的。</p>\n<h2>cluster与net</h2>\n<p>cluster模块与net模块息息相关，而net模块又和底层socket有联系，至于socket则涉及到了系统内核，这样便由表及里的\b了解了node对底层的一些优化配置，这是我们的思路。介绍前，笔者仔细研读了node的js层模块实现，在基于自身理解的基础上诠释上节代码的实现流程，力图做到\b清晰、易懂，如果有某些纰漏也欢迎读者指出，\b只有在互相交流中才能收获更多。</p>\n<h3>一套代码，多次执行</h3>\n<p>很多人对<strong>code1</strong>代码如何在主进程和子进程执行感到疑惑，怎样通过<em>cluster.isMaster</em>判断语句内的代码是在主进程执行，而其他代码在子进程执行呢？</p>\n<p>其实\b\b只要你深入到了node源码层面，这个问题很容易作答。cluster模块的代码只有一句：</p>\n<pre class=\"prettyprint\"><code>module.exports = (&#x27;NODE_UNIQUE_ID&#x27; in process.env) ?\n                  require(&#x27;internal&#x2F;cluster&#x2F;child&#x27;) :\n                  require(&#x27;internal&#x2F;cluster&#x2F;master&#x27;);\n</code></pre><p>只需要判断当前进程有没有环境变量“NODE_UNIQUE_ID”就可知道当前进程是否是主进程；而变量“NODE_UNIQUE_ID”则是在主进程fork子进程时传递进去的参数，因此\b采用cluster.fork创建的子进程是一定包含“NODE_UNIQUE_ID”的。</p>\n<p><strong>这里需要\b指出的是，必须通过cluster.fork创建的子进程才有NODE_UNIQUE_ID变量，如果通过child_process.fork的子进程，在不传递环境变量的情况下是没有NODE_UNIQUE_ID的。因此，当你在child_process.fork的子进程中执行<code>cluster.isMaster</code>判断时，返回 true。</strong></p>\n<h3>主进程与服务器</h3>\n<p><strong>code1</strong>中，并没有在cluster.isMaster的条件语句中创建服务器，也没有提供服务器\u001d相关的路径、端口和fd，\b那么主进程中是否存在TCP服务器，有的话到底是什么时候怎么创建的？</p>\n<p>相信大家在学习nodejs时阅读的各种书籍都介绍过在集群模式下，主进程的服务器会接受到请求然后发送给子进程，那么\b问题就来到主进程的服务器到底是如何创建呢？\b主进程服务器的创建离不开与子进程的交互，毕竟与创建服务器相关的信息全在子进程的代码中。</p>\n<p>当子进程执行</p>\n<pre class=\"prettyprint\"><code>http.Server((req, res) =&gt; {\n    res.writeHead(200);\n    res.end(&#x27;hello world\\n&#x27;);\n\n    process.send({ cmd: &#x27;notifyRequest&#x27; });\n  }).listen(8000);\n</code></pre><p>时，http模块会调用net模块(确切的说，http.Server继承net.Server)，创建net.Server对象，同时侦听端口。创建net.Server实例，调用构造函数返回。创建的net.Server实例调用listen(8000)，等待accpet连接。那么，子进程如何传递\b\b服务器相关信息给主进程呢？答案就在\b\blisten函数中。我保证，net.Server.prototype.listen函数绝没有表面上看起来的那么简单，它涉及到了许\b多IPC通信和兼容性处理，可以说HTTP服务器创建的所有逻辑都在listen函数中。</p>\n<blockquote>\n<p>延伸下，在学习linux下的socket编程时，服务端的逻辑依次是执行<code>socket(),bind(),listen()和accept()</code>，在接收到客户端连接时执行<code>read(),write()</code>调用完成TCP层的通信。那么，对应到node的net模块好像只有**listen()**阶段，这是不是很难对应socket的四个阶段呢？其实不然，node的net模块把“bind，listen”操作全部写入了net.Server.prototype.listen中，\b清晰的对应底层socket和TCP三次握手，而向上层使用者只暴露简单的listen接口。</p>\n</blockquote>\n<p><strong>code2</strong></p>\n<pre class=\"prettyprint\"><code>Server.prototype.listen = function() {\n\n  ...\n\n  &#x2F;&#x2F; 根据参数创建 handle句柄\n  options = options._handle || options.handle || options;\n  &#x2F;&#x2F; (handle[, backlog][, cb]) where handle is an object with a handle\n  if (options instanceof TCP) {\n    this._handle = options;\n    this[async_id_symbol] = this._handle.getAsyncId();\n    listenInCluster(this, null, -1, -1, backlogFromArgs);\n    return this;\n  }\n\n  ...\n\n  var backlog;\n  if (typeof options.port === &#x27;number&#x27; || typeof options.port === &#x27;string&#x27;) {\n    if (!isLegalPort(options.port)) {\n      throw new RangeError(&#x27;&quot;port&quot; argument must be &gt;= 0 and &lt; 65536&#x27;);\n    }\n    backlog = options.backlog || backlogFromArgs;\n    &#x2F;&#x2F; start TCP server listening on host:port\n    if (options.host) {\n      lookupAndListen(this, options.port | 0, options.host, backlog,\n                      options.exclusive);\n    } else { &#x2F;&#x2F; Undefined host, listens on unspecified address\n      &#x2F;&#x2F; Default addressType 4 will be used to search for master server\n      listenInCluster(this, null, options.port | 0, 4,\n                      backlog, undefined, options.exclusive);\n    }\n    return this;\n  }\n\n  ...\n\n  throw new Error(&#x27;Invalid listen argument: &#x27; + util.inspect(options));\n};\n\n</code></pre><p>由于本文只探究cluster模式下HTTP服务器的相关内容，因此我们只关注有关TCP服务器部分，其他的Pipe（domain socket）服务\b不考虑。</p>\n<p>listen函数可以侦听端口、路径和指定的fd，因此在listen函数的实现中判断各种参数的情况，我们最为关心的就是侦听端口的情况，在成功进入条件语句后发现所有的情况最后都执行了listenInCluster函数\b而返回，因此有必要继续探究。</p>\n<p><strong>code3</strong></p>\n<pre class=\"prettyprint\"><code>function listenInCluster(server, address, port, addressType,\n                         backlog, fd, exclusive) {\n\n  ...\n\n  if (cluster.isMaster || exclusive) {\n    server._listen2(address, port, addressType, backlog, fd);\n    return;\n  }\n\n  &#x2F;&#x2F; 后续代码为worker执行逻辑\n  const serverQuery = {\n    address: address,\n    port: port,\n    addressType: addressType,\n    fd: fd,\n    flags: 0\n  };\n\n  ... \n\n  cluster._getServer(server, serverQuery, listenOnMasterHandle);\n}\n</code></pre><p>listenInCluster函数\b传入了各种参数，如server\b实例、ip、\bport、ip类型（IPv6和IPv4）、backlog（底层服务端socket处理请求的最大队列）、fd等，它们不是必须传入，比如创建一个TCP服务器，就仅仅需要一个port即可。</p>\n<p>简化后的listenInCluster函数很简单，cluster模块判断\b当前进程为主进程时，执行_listen2函数；否则，在子进程中执行cluster._getServer函数，同时像函数传递serverQuery对象，即创建服务器需要的相关信息。</p>\n<p>因此，我们可以大胆假设，子进程在cluster._getServer函数中向主进程发送了创建服务器所需要的数据，即serverQuery。实际上也确实如此：</p>\n<p><strong>code4</strong></p>\n<pre class=\"prettyprint\"><code>cluster._getServer = function(obj, options, cb) {\n\n  const message = util._extend({\n    act: &#x27;queryServer&#x27;,\n    index: indexes[indexesKey],\n    data: null\n  }, options);\n\n  send(message, function modifyHandle(reply, handle) =&gt; {\n    if (typeof obj._setServerData === &#x27;function&#x27;)\n      obj._setServerData(reply.data);\n\n    if (handle)\n      shared(reply, handle, indexesKey, cb);  &#x2F;&#x2F; Shared listen socket.\n    else\n      rr(reply, indexesKey, cb);              &#x2F;&#x2F; Round-robin.\n  });\n\n};\n</code></pre><p>子进程在该函数中向已建立的IPC通道发送内部消息message，\b该消息包含之前提到的serverQuery信息，同时包含**act: ‘queryServer’**字段，等待服务端响应后继续执行回调函数modifyHandle。</p>\n<p>主进程接收到子进程发送的内部消息，会根据**act: ‘queryServer’**执行对应queryServer方法，完成服务器的创建，同时发送回复消息给子进程，子进程执行回调函数modifyHandle，继续接下来的操作。</p>\n<p>至此，针对主进程在cluster模式下如何创建服务器\b的流程已完全走通，\b主要的逻辑是在子进程\b服务器的listen过程中实现。</p>\n<h3>net模块与socket</h3>\n<p>上节提到了node中创建服务器无法与socket创建对应的问题，本节就该问题做进一步解释。在net.Server.prototype.listen函数中调用了listenInCluster函数，listenInCluster会\b在主进程或者子进程的回调函数中调用_listen2函数，对应底层服务端socket建立阶段的正是在这里。</p>\n<pre class=\"prettyprint\"><code>function setupListenHandle(address, port, addressType, backlog, fd) {\n\n  &#x2F;&#x2F; worker进程中，_handle为fake对象，无需创建\n  if (this._handle) {\n    debug(&#x27;setupListenHandle: have a handle already&#x27;);\n  } else {\n    debug(&#x27;setupListenHandle: create a handle&#x27;);\n\n    if (rval === null)\n      rval = createServerHandle(address, port, addressType, fd);\n\n    this._handle = rval;\n  }\n\n  this[async_id_symbol] = getNewAsyncId(this._handle);\n\n  this._handle.onconnection = onconnection;\n\n  var err = this._handle.listen(backlog || 511);\n\n}\n</code></pre><p>通过createServerHandl\be函数创建句柄（句柄可理解为\b用户空间的socket），同时给属性onconnection赋值，最后侦听端口，设定backlog。</p>\n<p>那么，socket\b处理请求过程“socket(),bind()”步骤就是在createServerHandl\be完成。</p>\n<pre class=\"prettyprint\"><code>function createServerHandle(address, port, addressType, fd) {\n  var handle;\n\n  &#x2F;&#x2F; 针对网络连接，绑定地址\n  if (address || port || isTCP) {\n    if (!address) {\n      err = handle.bind6(&#x27;::&#x27;, port);\n      if (err) {\n        handle.close();\n        return createServerHandle(&#x27;0.0.0.0&#x27;, port);\n      }\n    } else if (addressType === 6) {\n      err = handle.bind6(address, port);\n    } else {\n      err = handle.bind(address, port);\n    }\n  }\n\n  return handle;\n}\n</code></pre><p>在createServerHandle中，我们看到了如何创建socket（createServerHandle在底层利用node自己封装的类库创建TCP handle），也看到了bind绑定ip和地址，那么node的net模块如何接收客户端请求呢？</p>\n<p>必须深入c++模块才能了解node是如何实现在c++层面调用js层设置的onconnection回调属性，v8引擎提供了c++和js层的类型转换和接口透出，在c++的tcp_wrap中：</p>\n<pre class=\"prettyprint\"><code>void TCPWrap::Listen(const FunctionCallbackInfo&lt;Value&gt;&amp; args) {\n  TCPWrap* wrap;\n  ASSIGN_OR_RETURN_UNWRAP(&amp;wrap,\n                          args.Holder(),\n                          args.GetReturnValue().Set(UV_EBADF));\n  int backloxxg = args[0]-&gt;Int32Value();\n  int err = uv_listen(reinterpret_cast&lt;uv_stream_t*&gt;(&amp;wrap-&gt;handle_),\n                      backlog,\n                      OnConnection);\n  args.GetReturnValue().Set(err);\n}\n</code></pre><p>我们关注uv_listen函数，它是libuv封装后的函数，传入了<strong>handle_,backlog和OnConnection回调函数</strong>，其中handle_为node调用libuv接口创建的socket封装，OnConnection函数\b为socket接收客户端连接时执行的操作。我们可能会猜测在js层设置的onconnction函数最终会在OnConnection中调用，于是进一步深入探查node的connection_wrap c++模块：</p>\n<pre class=\"prettyprint\"><code>template &lt;typename WrapType, typename UVType&gt;\nvoid ConnectionWrap&lt;WrapType, UVType&gt;::OnConnection(uv_stream_t* handle,\n                                                    int status) {\n\n  if (status == 0) {\n    if (uv_accept(handle, client_handle))\n      return;\n\n    &#x2F;&#x2F; Successful accept. Call the onconnection callback in JavaScript land.\n    argv[1] = client_obj;\n  }\n  wrap_data-&gt;MakeCallback(env-&gt;onconnection_string(), arraysize(argv), argv);\n}\n</code></pre><p>过滤掉多余信息便于分析。当新的客户端连接到来时，libuv调用OnConnection，在该函数内执行uv_accept接收连接，最后将js层的回调函数onconnection[通过env-&gt;onconnection_string()获取js\b的回调]和接收到的客户端socket\b封装传入MakeCallback中。其中，argv数组的第一项为错误信息，第二项为\b已连接的clientSocket封装，最后在MakeCallback中执行js层的onconnection函数，该函数的参数正是argv数组传入的数据，“错误代码和clientSocket封装”。</p>\n<p><strong>js层的onconnection回调</strong></p>\n<pre class=\"prettyprint\"><code>function onconnection(err, clientHandle) {\n  var handle = this;\n\n  if (err) {\n    self.emit(&#x27;error&#x27;, errnoException(err, &#x27;accept&#x27;));\n    return;\n  }\n\n  var socket = new Socket({\n    handle: clientHandle,\n    allowHalfOpen: self.allowHalfOpen,\n    pauseOnCreate: self.pauseOnConnect\n  });\n  socket.readable = socket.writable = true;\n\n  self.emit(&#x27;connection&#x27;, socket);\n}\n</code></pre><p>这样，node在C++层调用js层的onconnection函数，构建node层的socket对象，并触发connection事件，完成\b底层socket与node net模块的连接与请求打通。</p>\n<p>至此，我们打通了socket连接建立过程与net模块（js层）的流程的交互，这种封装让开发者在不需要查阅底层接口和数据结构的情况下，仅使用node提供的http模块就可以快速开发一个应用服务器，将目光聚集在业务逻辑中。</p>\n<blockquote>\n<p>backlog是已连接但未进行accept处理的socket队列大小。在linux 2.2以前，backlog大小包括了半连接状态和全连接状态两种队列大小。linux 2.2以后，分离为两个backlog来分别限制半连接SYN_RCVD状态的未完成连接队列大小跟全连接ESTABLISHED状态的已完成连接队列大小。\b这里的半连接状态，即在三次握手中，服务端接收到\b客户端SYN报文后并发送SYN+ACK报文后的状态，此时服务端等待客户端的ACK，全连接状态即服务端和客户端完成三次握手后的状态。backlog并非越大越好，当等待accept队列过长，服务端无法及时处理排队的socket，会造成客户端或者前端服务器如nignx的连接超时错误，出现**“error: Broken Pipe”**。因此，node默认在socket层设置backlog默认值为511，这是因为nginx和redis默认设置的backlog值也为此，尽量避免上述错误。</p>\n</blockquote>\n<h3>\b多个子进程与端口复用</h3>\n<p>再回到关于cluster模块的主线中来。code1中，主进程与所有子进程通过消息构建出侦听8000端口的\bTCP服务器，那么子进程中\b有没有也创建一个服务器，同时侦听8000端口呢？其实，\b在子进程中压根就没有这回事，如何理解呢？子进程中确实\b\b创建了net.Server对象，可是它没有像主进程那样在libuv层构建socket句柄，子进程的net.Server对象使用的是一个人为fake出的一个假句柄来“欺骗”使用者端口已侦听，这样做的目的是为了\b集群的负载均衡，这又涉及到了cluster模块的均衡策略的话题上。</p>\n<p>在本节有关cluster集群端口侦听以及请求处理的描述，都是基于cluster模式的默认策略RoundRobin之上讨论的，关于调度策略的讨论，我们放在下节进行。</p>\n<p>在<strong>主进程与服务器</strong>这一章节最后，我们只了解到主进程是如何创建侦听给定端口的TCP服务器的，此时子进程还在等待主进程创建后发送的消息。当主进程发送创建服务器成功的消息后，子进程会执行modifyHandle\b回调函数。还记得这个函数吗？<strong>主进程与服务器</strong>这一章节最后已经贴出来它的源码：</p>\n<pre class=\"prettyprint\"><code>function modifyHandle(reply, handle) =&gt; {\n    if (typeof obj._setServerData === &#x27;function&#x27;)\n      obj._setServerData(reply.data);\n\n    if (handle)\n      shared(reply, handle, indexesKey, cb);  &#x2F;&#x2F; Shared listen socket.\n    else\n      rr(reply, indexesKey, cb);              &#x2F;&#x2F; Round-robin.\n  }\n</code></pre><p>它会根据主进程是否返回handle句柄（\b即libuv对socket的封装）来选择执行\b函数。由于cluter默认采用RoundRobin调度策略，因此主进程返回的handle为null，执行函数rr。在该函数中，做了上文提到的hack操作，作者fake了一个假的handle对象，“欺骗”上层调用者：</p>\n<pre class=\"prettyprint\"><code>function listen(backlog) {\n    return 0;\n  }\n\n  const handle = { close, listen, ref: noop, unref: noop };\n\n  handles[key] = handle;\n  cb(0, handle);\n</code></pre><p>看到了吗？fake出的handle.listen并没有调用libuv层的Listen方法，它直接返回了。这意味着什么？？子进程压根没有创建底层的服务端socket做侦听，所以在子进程创建的\bHTTP服务器侦听的端口根本不会出现端口复用的情况。 最后，调用cb函数，将fake后的handle传递给上层net.Server，设置net.Server对底层的socket的引用。此后，子进程利用fake后的handle做端口侦听（其实压根啥都没有做），执行成功后返回。</p>\n<p>那么子进程TCP服务器没有创建底层socket，如何接受请求\b和发送响应呢？这就要依赖IPC通道了。既然主进程负责接受客户端请求，那么理所应当由主进程分发客户端请求给某个子进程，由子进程处理请求。实际上也确实是这样做的，主进程的服务器中会创建RoundRobin\bHandle决定分发请求给哪一个子进程，\b筛选出子进程后发送newconn消息给对应子进程：</p>\n<pre class=\"prettyprint\"><code>  const message = { act: &#x27;newconn&#x27;, key: this.key };\n\n  sendHelper(worker.process, message, handle, (reply) =&gt; {\n    if (reply.accepted)\n      handle.close();\n    else\n      this.distribute(0, handle);  &#x2F;&#x2F; Worker is shutting down. Send to another.\n\n    this.handoff(worker);\n  });\n</code></pre><p>子进程接收到newconn消息后，会调用内部的onconnection函数，先向主进程\b发送开始处理请求的消息，然后执行业务处理函数handle.onconnection。还记得这个handle.onconnection吗？它正是上节提到的node在c++层执行的js层回调函数，在handle.onconnection中构造了net.\bSocket对象标识已连接的socket，最后触发connection事件调用开发者的业务处理函数（此时的数据处理对应在网络模型的第四层传输层中，node的http模块会从socket中获取数据做应用层的封装，解析出请求头、请求体并构造响应体），这样便\b从\b内核socket-&gt;libuv-&gt;js依次执行到开发者的业务逻辑中。</p>\n<p>到此为止，相信读者已经明白node是如何处理客户端的请求了，那么下一步\b继续探究node是如何分发客户端的请求给子进程的。</p>\n<h3>请求分发策略</h3>\n<p>上节提到cluster模块默认采用RoundRobin调度策略，那么还有其他策略可以选择吗？答案是肯定的，在windows机器中，cluster模块采用的是共享服务端socket方式，通俗点说就是由操作系统进行调度\b客户端的请求，而不是由\bnode程序\b调度。其实在node v0.8以前，默认的集群模式就是采用操作系统调度方式进行，直到cluster模块的加入才有了改变。</p>\n<p>那么，RoundRobin\b调度策略到底是怎样的呢？</p>\n<pre class=\"prettyprint\"><code>RoundRobinHandle.prototype.distribute = function(err, handle) {\n  this.handles.push(handle);\n  const worker = this.free.shift();\n\n  if (worker)\n    this.handoff(worker);\n};\n\n&#x2F;&#x2F; 发送消息和handle给对应worker进程，处理业务逻辑\nRoundRobinHandle.prototype.handoff = function(worker) {\n  if (worker.id in this.all === false) {\n    return;  &#x2F;&#x2F; Worker is closing (or has closed) the server.\n  }\n\n  const handle = this.handles.shift();\n\n  if (handle === undefined) {\n    this.free.push(worker);  &#x2F;&#x2F; Add to ready queue again.\n    return;\n  }\n\n  const message = { act: &#x27;newconn&#x27;, key: this.key };\n\n  sendHelper(worker.process, message, handle, (reply) =&gt; {\n    if (reply.accepted)\n      handle.close();\n    else\n      this.distribute(0, handle);  &#x2F;&#x2F; Worker is shutting down. Send to another.\n\n    this.handoff(worker);\n  });\n};\n</code></pre><p>核心代码就\b是这两个函数，浓缩的是精华。<code>distribute函数负责筛选出处理请求的子进程，this.free数组存储空闲的子进程，this.handles数组存放待处理的用户请求。handoff\b函数获取排队\b中的客户端请求，并\b\b通过IPC\b发送句柄handle和newconn消息，等待子进程返回。当子进程返回正在处理请求消息时，在此执行handoff函数，继续分配请求给该子进程，\b不管该子进程上次请求是否处理完成（node的异步特性和事件循环可以让单进程处理多请求）。</code>按照这样的策略，主进程每fork一个子进程，都会调用handoff函数，进入该子进程的处理循环中。一旦主进程没有缓存的客户端请求时（this.handles为空），便会将当前子进程加入free空闲队列，等待主进程的下一步调度。这就是cluster模式的RoundRobin调度策略，\b每个子进程的处理逻辑都是一个闭环，直到主进程缓存的客户端请求处理完毕时，该子进程的处理闭环才被打开。</p>\n<p>这么简单的实现带来的效果却是不小，经过全世界这么多使用者的尝试，主进程分发请求还是很平均的，如果RoundRobin的调度需求不满足你业务中的要求，你可以尝试仿照RoundRobin模块写一个另类的调度算法。</p>\n<p>那么cluster模块在windows系统中\b采用的\bshared socket策略（后文简称SS策略）是什么呢？采用SS策略调度算法，子进程的服务器\b工作逻辑完全不同于上文中所讲的那样，子进程创建的TCP服务器会在底层侦听端口并处理响应，这是如何实现的呢？SS策略的核心在于IPC传输句柄的文件描述符，并且在C++层设置端口的<strong>SO_REUSEADDR</strong>选项，最后根据传输的文件描述符还原出handle(net.TCP)，处理请求。这正是shared socket名称由来，共享文件描述符。</p>\n<p><strong>子进程继承父进程fd\b，处理请求</strong></p>\n<pre class=\"prettyprint\"><code>import socket\nimport os\n\ndef main():\n    serversocket = socket.socket(socket.AF_INET, socket.SOCK_STREAM)\n    serversocket.bind((&quot;127.0.0.1&quot;, 8888))\n    serversocket.listen(0)\n\n    # Child Process\n    if os.fork() == 0:\n        accept_conn(&quot;child&quot;, serversocket)\n\n    accept_conn(&quot;parent&quot;, serversocket)\n\ndef accept_conn(message, s):\n    while True:\n        c, addr = s.accept()\n        print &#x27;Got connection from in %s&#x27; % message\n        c.send(&#x27;Thank you for your connecting to %s\\n&#x27; % message)\n        c.close()\n\nif __name__ == &quot;__main__&quot;:\n    main()\n</code></pre><blockquote>\n<p>需要指出的是，在子进程中根据文件描述符还原出的handle，不能再进行bind(ip,port)和listen(backlog)操作，\b只有主进程创建的handle可以调用这些函数。子进程中只能选择accept、read和write操作。</p>\n</blockquote>\n<p>既然SS策略传递的是master进程的服务端socket的\b文件描述符，\b子进程侦听该描述符，那么由谁来调度哪个子进程处理请求呢？这就是由操作系统内核来进行调度。可是\b\b内核调度往往出现意想不到的效果，在linux下导致请求往往集中在某几个\b子进程中处理。这从内核的调度策略也可以推算一二，内核的进程调度离不开<strong>\b上下文切换</strong>，上下文切换的代价很高，不仅需要保存当前进程的<strong>代码、数据和堆栈等用户空间数据，还需要保存各种寄存器，如PC，ESP</strong>，最后还需要恢复被调度进程的上下文状态，仍然包括<strong>代码、数据和各种寄存器</strong>，\b因此代价非常大。而linux内核在\b调度这些子进程时往往倾向于唤醒最近被\b阻塞的子进程，上下文切换的代价相对较小。而且内核的调度策略往往受到当前系统的运行任务数量和资源使用情况，\b对专注于业务开发的http服务器影响较大，因此会造成某些子进程的负载严重不均衡的状况。那么为什么cluster模块默认会在windows机器中采用SS策略调度子进程呢？原因是node在windows平台采用的IOCP来最大化性能，它使得传递连接的句柄到其他进程的成本很高，因此采用默认的依靠操作系统调度的SS策略。</p>\n<p>SS调度策略非常简单，主进程直接通过IPC通道发送handle给子进程即可，此处就不针对代码进行分析了。此处，\b笔者利用node的child_process模块实现了一个简易的SS调度策略的服务集群，读者可以更好的理解：</p>\n<p><strong>master代码</strong></p>\n<pre class=\"prettyprint\"><code>var net = require(&#x27;net&#x27;);\nvar cp = require(&#x27;child_process&#x27;);\nvar w1 = cp.fork(&#x27;.&#x2F;singletest&#x2F;worker.js&#x27;);\nvar w2 = cp.fork(&#x27;.&#x2F;singletest&#x2F;worker.js&#x27;);\nvar w3 = cp.fork(&#x27;.&#x2F;singletest&#x2F;worker.js&#x27;);\nvar w4 = cp.fork(&#x27;.&#x2F;singletest&#x2F;worker.js&#x27;);\n\nvar server = net.createServer();\n\nserver.listen(8000,function(){\n  &#x2F;&#x2F; 传递句柄\n  w1.send({type: &#x27;handle&#x27;},server);\n  w2.send({type: &#x27;handle&#x27;},server);\n  w3.send({type: &#x27;handle&#x27;},server);\n  w4.send({type: &#x27;handle&#x27;},server);\n  server.close();\n});\n</code></pre><p><strong>child代码</strong></p>\n<pre class=\"prettyprint\"><code>var server = require(&#x27;http&#x27;).createServer(function(req,res){\n  res.write(cluster.isMaster + &#x27;&#x27;);\n  res.end(process.pid+&#x27;&#x27;)\n})\n\nvar cluster = require(&#x27;cluster&#x27;);\nprocess.on(&#x27;message&#x27;,(data,handle)=&gt;{\n  if(data.type !== &#x27;handle&#x27;)\n    return;\n\n  handle.on(&#x27;connection&#x27;,function(socket){\n    server.emit(&#x27;connection&#x27;,socket)\n  });\n});\n</code></pre><p>这种方式便是SS策略的典型实现，不推荐\b使用者尝试。</p>\n<h2>结尾</h2>\n<p>\b开篇提到的一些问题至此都已经解答完毕，关于cluster模块的\b一些具体实现本文不做详细描述，有兴趣感受node源码的同学可以在阅读本文的基础上再翻阅，这样事半功倍。本文是在node源码\b和笔者的计算机网络基础\b之上混合后的产物，起因于笔者研究PM2的cluster模式下God进程的具体实现。在尝试几天仔细研读node cluster相关模块后有感于其良好的封装性，故产生将其内部实现原理和技巧向日常开发者所展示的想法，最后有了这篇文章。</p>\n<p>那么，阅读了这篇文章，熟悉了cluster模式的具体实现原理，对于日常开发者有什么促进作用呢？首先，能不停留在\b<strong>使用</strong>层面，深入到具体实现原理\b中去，这便是比大多数人强了；在理解实现\b机制的阶段下，如果能反哺业务开发就更有意义了。比如，根据业务设计出更匹配的负载均衡逻辑；根据服务的日常QPS设置合理的backlog值等；最后，在\b探究实现的\b过程中，我们又回顾了许多离应用层开发人员难以接触到的底层网络\b编程和操作系统知识，这同时也是学习深入的\b过程。</p>\n<p>接下来，笔者可能会抽时间针对node的其他常用模块做一次细致的解读。其实，\bnode较为重要的<strong>Stream</strong>模块笔者已经分析过了\b，<a href=\"http://www.cnblogs.com/accordion/p/5560531.html\">node中的Stream</a>、<a href=\"http://www.cnblogs.com/accordion/p/5907908.html\">深入node之Transform</a>，经过深入探究之后在\b日常开发node应用中有着很大的提升作用，\b读者们可以尝试下。既然提到了Stream模块，那么结合本文的net模块解析，我们就非常容易理解node http模块的实现了，因为http模块正是基于<strong>net和Stream</strong>模块实现的。那么下一篇文章就针对http模块做深入解析吧！</p>\n<h2>参考文章</h2>\n<p><a href=\"http://www.cnblogs.com/jasonxuli/p/4522134.html\">Node.js v0.12的新特性 – Cluster模式采用Round-Robin负载均衡</a>\n<a href=\"http://ju.outofmemory.cn/entry/191319\">TCP SOCKET中backlog参数</a></p>\n</div>","title":"Nodejs cluster模块深入探究","last_reply_at":"2018-06-12T01:16:34.303Z","good":false,"top":false,"reply_count":9,"visit_count":4608,"create_at":"2017-07-20T00:38:51.802Z","author":{"loginname":"royalrover","avatar_url":"https://avatars1.githubusercontent.com/u/7369780?v=4&s=120"}},{"id":"5775cbc0affdb83c50b08e44","author_id":"530bfac1a5efa405730d26eb","tab":"ask","content":"<div class=\"markdown-text\"><p>昨天发生一起严重事故，不知什么原因，pm2挂掉了，所有node项目的服务都挂了。\n应该是进程死掉了，手动把所有 node 进程kill掉，然后再一个个pm2 start 重启才恢复。\nps.查看进程还发现一个 pm2 update 一直卡在那。</p>\n<p>查看pm2.log发现如下记录</p>\n<pre class=\"prettyprint\"><code>2016-06-30 10:58:39: [PM2][WORKER] Process 6 restarted because it uses 0 memory and has ONLINE status\n2016-06-30 10:58:39: Stopping app:cpaapi id:6\n2016-06-30 10:58:39: App name:cpaapi id:6 disconnected\n2016-06-30 10:58:39: [PM2] Error caught by domain:\nError: spawn &#x2F;bin&#x2F;sh EMFILE\n\tat exports._errnoException (util.js:896:11)\n\tat Process.ChildProcess._handle.onexit (internal&#x2F;child_process.js:182:32)\n\tat onErrorNT (internal&#x2F;child_process.js:348:16)\n\tat _combinedTickCallback (internal&#x2F;process&#x2F;next_tick.js:74:11)\n\tat process._tickDomainCallback (internal&#x2F;process&#x2F;next_tick.js:122:9)\n2016-06-30 10:58:39: [PM2] Trying to update PM2...\n2016-06-30 10:58:39: Process with pid 4571 still not killed, retrying...\n2016-06-30 10:58:39: Process with pid 4571 still not killed, retrying...\n2016-06-30 10:58:39: Process with pid 4571 still not killed, retrying...\n2016-06-30 10:58:39: Process with pid 4571 still not killed, retrying...\n2016-06-30 10:58:39: Process with pid 4571 still not killed, retrying...\n2016-06-30 10:58:39: Process with pid 4571 still not killed, retrying...\n2016-06-30 10:58:39: Process with pid 4571 still not killed, retrying...\nBe sure to have the latest version by doing &#96;npm install pm2@latest -g&#96; before doing this procedure.\n[PM2] Saving current process list...\n2016-06-30 10:58:39: Process with pid 4571 still not killed, retrying...\n[PM2] Stopping PM2...\n[PM2] Applying action deleteProcessId on app [all](ids: 6,8,9,11)\n2016-06-30 10:58:39: Stopping app:cpaapi id:6\n&#x2F;usr&#x2F;local&#x2F;nvm&#x2F;versions&#x2F;node&#x2F;v6.0.0&#x2F;lib&#x2F;node_modules&#x2F;.pm2_npminstall&#x2F;pm2&#x2F;1.1.3&#x2F;pm2&#x2F;lib&#x2F;TreeKill.js:87\n\t  throw err;\n\t  ^\n\nError: spawn &#x2F;bin&#x2F;sh EMFILE\n\tat exports._errnoException (util.js:896:11)\n\tat Process.ChildProcess._handle.onexit (internal&#x2F;child_process.js:182:32)\n\tat exports._errnoException (util.js:896:11)\nat Process.ChildProcess._handle.onexit (internal&#x2F;child_process.js:182:32)\nat onErrorNT (internal&#x2F;child_process.js:348:16)\nat _combinedTickCallback (internal&#x2F;process&#x2F;next_tick.js:74:11)\nat process._tickDomainCallback (internal&#x2F;process&#x2F;next_tick.js:122:9)\n</code></pre><p>请教各路大神怎么查找原因以及pm2挂掉怎么自动重启</p>\n</div>","title":"pm2守护进程挂掉是怎么回事？","last_reply_at":"2018-06-11T15:48:39.322Z","good":false,"top":false,"reply_count":8,"visit_count":6624,"create_at":"2016-07-01T01:47:44.393Z","author":{"loginname":"zstxt1989","avatar_url":"https://avatars1.githubusercontent.com/u/3785561?v=4&s=120"}},{"id":"5afe26730a36e5312d6ed257","author_id":"5afe234eadea947348e76576","tab":"share","content":"<div class=\"markdown-text\"><h2>前言</h2>\n<hr>\n<p>​\t项目的灵感来自皮克斯动画《机器人总动员》的主角瓦力（wall.e)。一个在末日的废墟中幸存并日复一日清洁着地球的可爱机器人。</p>\n<p>​\t这是一个十分有趣的物联网项目！它运行在基于arm架构的raspiberry(树莓派）开发板上。借助性能出色的node和多平台兼容的硬件框架johnny-five，我们创建了这个项目。\n\t此项目包括了服务端到前端程序，开发语言选用javascript,功能上包括了视频监控，温度数据采集，远程遥控，距离测量，gps定位等功能。\n欢迎对物联网感兴趣的开发人员Issues</p>\n<h2>仓库地址</h2>\n<h2><a href=\"https://github.com/zexiplus/WALL.E\">https://github.com/zexiplus/WALL.E</a></h2>\n<h2>技术栈</h2>\n<blockquote>\n<ul>\n<li>johnny-five</li>\n<li>vue</li>\n<li>express</li>\n<li>chart.js</li>\n<li>mongoDB</li>\n</ul>\n</blockquote>\n<hr>\n<h2>目标功能</h2>\n<ul>\n<li>[x] 支持视频实时监控 (完成)</li>\n<li>[x] 支持摄像头转动（完成）</li>\n<li>[x] 支持手动控制电机运行（完成）</li>\n<li>[x] 支持温度采集（完成）</li>\n<li>[ ] 支持gps定位</li>\n<li>[ ] 支持距离探测</li>\n<li>[ ] 支持循迹功能</li>\n<li>[ ] 支持自由巡航</li>\n</ul>\n<h2>环境配置和依赖</h2>\n<ul>\n<li>树莓派开发板（Raspberry Pi 3 Model B）</li>\n<li>ubuntu mate16.0.4操作系统</li>\n<li>node &amp;&amp; npm</li>\n<li><a href=\"http://shumeipai.nxez.com/2017/05/14/raspberry-pi-mjpg-streamer-installation.html\">MJPG-streamer</a></li>\n</ul>\n<h2>运行项目</h2>\n<h3>项目下载</h3>\n<pre class=\"prettyprint language-shell\"><code>git clone https:&#x2F;&#x2F;github.com&#x2F;zexiplus&#x2F;WALL.E.git\n\ncd WALL.E\n\nnpm install\n\n</code></pre><h3>开发模式运行web界面程序</h3>\n<pre class=\"prettyprint language-shell\"><code>npm run dev\n\n&#x2F;&#x2F; then open the browser at http:&#x2F;&#x2F;localhost:1234\n</code></pre><h3>生产环境运行web界面程序</h3>\n<pre class=\"prettyprint language-shell\"><code>npm run build\n\nnpm run local\n\n&#x2F;&#x2F;then open the browser at http:&#x2F;&#x2F;localhost:2999\n</code></pre><h3>运行服务端程序</h3>\n<pre class=\"prettyprint language-shell\"><code>npm run board\n</code></pre><h2>材料准备</h2>\n<table>\n<thead>\n<tr>\n<th>模块</th>\n<th>价格</th>\n<th>数量</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>树莓派开发板</td>\n<td>￥200</td>\n<td>1</td>\n</tr>\n<tr>\n<td>履带底盘</td>\n<td>￥350</td>\n<td>1</td>\n</tr>\n<tr>\n<td>AD转换器</td>\n<td>￥15</td>\n<td>1</td>\n</tr>\n<tr>\n<td>红外传感器</td>\n<td>￥3</td>\n<td>6</td>\n</tr>\n<tr>\n<td>SG90舵机</td>\n<td>￥15</td>\n<td>1</td>\n</tr>\n<tr>\n<td>树莓派摄像头</td>\n<td>￥80</td>\n<td>1</td>\n</tr>\n<tr>\n<td>电池</td>\n<td>￥30</td>\n<td>1</td>\n</tr>\n<tr>\n<td>gps模块</td>\n<td>￥50</td>\n<td>1</td>\n</tr>\n<tr>\n<td>MPU6050集成传感器模块</td>\n<td>￥20</td>\n<td>1</td>\n</tr>\n</tbody>\n</table>\n<h2>接线说明</h2>\n<p>接线参考图如下</p>\n<p><img src=\"https://github.com/zexiplus/WALL.E/blob/master/static/line.png?raw=true\" alt=\"接线图例\"></p>\n<p>目前接入电路的模块有电机驱动模块，mpu6050集成模块，servo伺服电机模块，摄像头模块。</p>\n<p>电机驱动模块接收io引脚发出的高低电平，输出12v的电压从而驱动电机。</p>\n<p>servo伺服电机模块用来转动摄像头，摄像头固定于伺服电机支撑的转轴上。</p>\n<p>mpu6050模块可以感知周边温度，测量加速度等。</p>\n<p>由于gps模块的通信信道与wifi冲突，暂时无法引入，gps定位会在之后的版本中完成。</p>\n<p>本项目树莓派io引脚采用wiringPi编码，如图</p>\n<p><img src=\"https://github.com/zexiplus/WALL.E/blob/master/static/pinDefine.png?raw=true\" alt=\"raspi引脚图\"></p>\n<p>接线描述：</p>\n<p>伺服电机的信号线接树莓派开发板  1引脚（wiringPi编码，下同）</p>\n<p>mpu6050传感器SCL接树莓派开发板  3引脚，SDA接  2引脚</p>\n<p>电机驱动模块四个输入端分别接树莓派 21，22，23，24 引脚</p>\n<h2>项目展示</h2>\n<p><a href=\"http://jsrobot.herokuapp.com\">web控制页面</a></p>\n<p><img src=\"https://github.com/zexiplus/WALL.E/blob/master/static/tem.gif?raw=true\" alt=\"温度模块\"></p>\n<p><img src=\"https://github.com/zexiplus/WALL.E/blob/master/static/camTurn2.gif?raw=true\" alt=\"视频模块\"></p>\n<p><img src=\"https://github.com/zexiplus/WALL.E/blob/master/static/run.gif?raw=true\" alt=\"control\"></p>\n<p><img src=\"https://raw.githubusercontent.com/zexiplus/WALL.E/master/static/seven.jpg\" alt=\"实物展示1\">\n<img src=\"https://raw.githubusercontent.com/zexiplus/WALL.E/master/static/five.jpg\" alt=\"实物展示2\"></p>\n<h2>项目维护人</h2>\n<ul>\n<li><a href=\"https://github.com/zexiplus\">float</a></li>\n</ul>\n<h2>协议</h2>\n<p>GPL</p>\n</div>","title":"用树莓派+nodejs开发物联网实时图传机器人","last_reply_at":"2018-06-11T15:04:57.356Z","good":false,"top":false,"reply_count":23,"visit_count":1973,"create_at":"2018-05-18T01:03:47.098Z","author":{"loginname":"zexiplus","avatar_url":"https://avatars3.githubusercontent.com/u/15920861?v=4&s=120"}},{"id":"5a311f729807389a1809f37a","author_id":"57b99bc2dcaeb5d932db220a","tab":"share","content":"<div class=\"markdown-text\"><h1>Web性能</h1>\n<p>从底层计算机网络协议到应用层各个方面去理解Web性能。目前项目处于刚开始阶段，欢迎对性能优化感兴趣的同学共同参与总结！</p>\n<p>Github: <a href=\"https://github.com/laoqiren/web-performance\">https://github.com/laoqiren/web-performance</a></p>\n<h2>目录</h2>\n<ul>\n<li><a href=\"https://github.com/laoqiren/web-performance/blob/master/%E7%BD%91%E9%A1%B5%E6%B8%B2%E6%9F%93%E5%8E%9F%E7%90%86/README.md\">网页渲染原理</a>\n<ul>\n<li><a href=\"https://github.com/laoqiren/web-performance/blob/master/%E7%BD%91%E9%A1%B5%E6%B8%B2%E6%9F%93%E5%8E%9F%E7%90%86/%E6%B8%B2%E6%9F%93%E8%BF%87%E7%A8%8B.md\">渲染过程</a></li>\n<li><a href=\"https://github.com/laoqiren/web-performance/blob/master/%E7%BD%91%E9%A1%B5%E6%B8%B2%E6%9F%93%E5%8E%9F%E7%90%86/%E8%B5%84%E6%BA%90%E5%8A%A0%E8%BD%BD%E9%A1%BA%E5%BA%8F.md\">资源加载顺序</a></li>\n<li><a href=\"https://github.com/laoqiren/web-performance/blob/master/%E7%BD%91%E9%A1%B5%E6%B8%B2%E6%9F%93%E5%8E%9F%E7%90%86/%E6%B8%B2%E6%9F%93%E8%BF%87%E7%A8%8B.md\">浏览器优化策略</a></li>\n<li><a href=\"/%E7%BD%91%E9%A1%B5%E6%B8%B2%E6%9F%93%E5%8E%9F%E7%90%86/repaint%E4%B8%8Ereflow.md\">repaint与reflow</a></li>\n</ul>\n</li>\n<li><a href=\"https://github.com/laoqiren/web-performance/tree/master/%E5%B8%A6%E5%AE%BD%E4%B8%8E%E5%BB%B6%E8%BF%9F\">带宽与延迟</a>\n<ul>\n<li><a href=\"https://github.com/laoqiren/web-performance/blob/master/%E5%B8%A6%E5%AE%BD%E4%B8%8E%E5%BB%B6%E8%BF%9F/%E4%BB%8E%E8%BE%93%E5%85%A5URL%E5%BC%80%E5%A7%8B.md\">从输入URL开始</a></li>\n<li><a href=\"https://github.com/laoqiren/web-performance/blob/master/%E5%B8%A6%E5%AE%BD%E4%B8%8E%E5%BB%B6%E8%BF%9F/%E5%B8%A6%E5%AE%BD%E4%B8%8E%E5%BB%B6%E8%BF%9F.md\">带宽与延迟</a></li>\n<li>TCP协议细节</li>\n<li>HTTP 1.x性能</li>\n<li>针对性优化</li>\n</ul>\n</li>\n<li><a href=\"https://github.com/laoqiren/web-performance/blob/master/%E7%BC%93%E5%AD%98%E6%9C%BA%E5%88%B6/README.md\">缓存机制</a>\n<ul>\n<li><a href=\"https://github.com/laoqiren/web-performance/blob/master/%E7%BC%93%E5%AD%98%E6%9C%BA%E5%88%B6/%E9%A6%96%E9%83%A8%E5%AD%97%E6%AE%B5.md\">首部字段</a></li>\n<li><a href=\"https://github.com/laoqiren/web-performance/blob/master/%E7%BC%93%E5%AD%98%E6%9C%BA%E5%88%B6/%E6%B5%8F%E8%A7%88%E5%99%A8%E8%A1%8C%E4%B8%BA.md\">浏览器行为</a></li>\n<li><a href=\"https://github.com/laoqiren/web-performance/blob/master/%E7%BC%93%E5%AD%98%E6%9C%BA%E5%88%B6/%E4%BC%98%E5%8C%96.md\">优化</a></li>\n</ul>\n</li>\n<li><a href=\"https://github.com/laoqiren/web-performance/tree/master/%E9%9D%99%E6%80%81%E8%B5%84%E6%BA%90\">静态资源</a>\n<ul>\n<li>减少请求</li>\n<li><a href=\"https://github.com/laoqiren/web-performance/blob/master/%E9%9D%99%E6%80%81%E8%B5%84%E6%BA%90/%E8%B5%84%E6%BA%90%E5%8E%8B%E7%BC%A9.md\">资源压缩</a></li>\n<li><a href=\"https://github.com/laoqiren/web-performance/blob/master/%E9%9D%99%E6%80%81%E8%B5%84%E6%BA%90/%E5%9B%BE%E5%83%8F%E4%BC%98%E5%8C%96.md\">图片资源优化</a></li>\n<li>Webpack</li>\n<li>CDN</li>\n</ul>\n</li>\n<li>Virtual DOM\n<ul>\n<li><a href=\"https://github.com/laoqiren/web-performance/blob/master/%E8%99%9A%E6%8B%9FDOM/React%E5%9F%BA%E7%A1%80.md\">React基础</a></li>\n<li>实现</li>\n<li>diff算法</li>\n<li>性能考虑</li>\n</ul>\n</li>\n<li>SPA与SSR\n<ul>\n<li>SPA问题</li>\n<li>服务端渲染</li>\n<li>同构应用</li>\n<li>性能问题</li>\n</ul>\n</li>\n<li>HTTP2\n<ul>\n<li>新特性概览</li>\n<li>性能提升</li>\n<li>工程实践</li>\n</ul>\n</li>\n<li>HTTPS性能影响\n<ul>\n<li>TLS原理</li>\n<li>性能影响</li>\n</ul>\n</li>\n<li>高性能JavaScript\n<ul>\n<li>V8与JIT</li>\n<li>内存泄露</li>\n<li>GC机制</li>\n<li>算法与流程</li>\n<li>Web worker</li>\n</ul>\n</li>\n<li>WebAssembly</li>\n<li>PWA与离线应用</li>\n<li>即时运用与P2P</li>\n<li>Node.js性能优化</li>\n<li>集群与负载均衡</li>\n<li>数据库相关</li>\n<li>性能测试\n<ul>\n<li>Chrome开发者工具</li>\n<li>benchmark</li>\n<li>压力测试</li>\n</ul>\n</li>\n</ul>\n<h2>引用说明</h2>\n<p>此项目会引用许多其他文章书籍的图片或部分内容，我会尽量都加以注明，如果有部分遗漏以致于侵犯到您的版权，烦请联系我修改！此项目旨在整理零碎的知识和实践方案，方便交流学习，请勿用于商业用途。</p>\n<h2>参与贡献</h2>\n<ul>\n<li>提想法和建议</li>\n<li>纠错完善</li>\n<li>增加新章节或内容</li>\n</ul>\n</div>","title":"性能优化知识与实践整理","last_reply_at":"2018-06-11T14:14:13.253Z","good":false,"top":false,"reply_count":14,"visit_count":4669,"create_at":"2017-12-13T12:39:14.755Z","author":{"loginname":"laoqiren","avatar_url":"https://avatars2.githubusercontent.com/u/16136702?v=4&s=120"}},{"id":"5a43615dd92f2f5b185ad2a6","author_id":"5a1b9fb2227353e00378f11b","tab":"share","content":"<div class=\"markdown-text\"><h2>说明</h2>\n<p>之前为了熟练antd框架，特别做了这个后台管理系统练手。\n正因为要熟悉，所以在设计面板的时候，尽可能想用上更多的控件。\n于是对照着antd的<a href=\"https://ant.design/docs/react/introduce-cn\">API</a>，开始往这个项目上堆控件。\n<a href=\"https://www.jianshu.com/p/42167fdf685f\">简书地址</a> 喜欢就点个赞咯</p>\n<h2>更新日志</h2>\n<p>218-05-31</p>\n<ol>\n<li>antd: <a href=\"/user/2\">@2</a>.13.4 - <a href=\"/user/3\">@3</a>.5.4</li>\n<li>增加富文本和markdown显示</li>\n</ol>\n<p>218-05-11</p>\n<ol>\n<li>echarts: <a href=\"/user/3\">@3</a>.8.5 - <a href=\"/user/4\">@4</a>.1.0</li>\n<li>修复登录失败的问题</li>\n</ol>\n<h2>效果图</h2>\n<p><img src=\"http://upload-images.jianshu.io/upload_images/7429221-a1992d28799f11ec.gif?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240\" alt=\"login.gif\">!</p>\n<p><img src=\"http://upload-images.jianshu.io/upload_images/7429221-c2411818447fb284.gif?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240\" alt=\"main.gif\"></p>\n<p><img src=\"http://upload-images.jianshu.io/upload_images/7429221-fd5a4cab33efc25e.gif?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240\" alt=\"date.gif\"></p>\n<p><img src=\"http://upload-images.jianshu.io/upload_images/7429221-fca9e4e65020d08b.gif?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240\" alt=\"add.gif\"></p>\n<p><img src=\"http://upload-images.jianshu.io/upload_images/7429221-1d13f04b371c7c1c.gif?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240\" alt=\"update.gif\"></p>\n<p><img src=\"http://upload-images.jianshu.io/upload_images/7429221-b68c38f3a6ae5a38.gif?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240\" alt=\"del.gif\"></p>\n<p><img src=\"http://upload-images.jianshu.io/upload_images/7429221-0e9693b816dbf551.gif?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240\" alt=\"search.gif\"></p>\n<p><img src=\"http://upload-images.jianshu.io/upload_images/7429221-a54312b73224af36.gif?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240\" alt=\"echarts.gif\"></p>\n<p><img src=\"//dn-cnode.qbox.me/FhqUrAZm7XT5ACF003VHXniwbYYc\" alt=\"1.png\"></p>\n<h2>Components</h2>\n<ul>\n<li>General\n<ul>\n<li><a href=\"https://ant.design/components/button-cn/\">Button按钮</a></li>\n<li><a href=\"https://ant.design/components/icon-cn/\">Icon图标</a></li>\n</ul>\n</li>\n<li>Layout\n<ul>\n<li><a href=\"https://ant.design/components/grid-cn/\">Grid栅格</a></li>\n<li><a href=\"https://ant.design/components/layout-cn/\">Layout布局</a></li>\n</ul>\n</li>\n<li>Navigation\n<ul>\n<li><a href=\"https://ant.design/components/breadcrumb-cn/\">Breadcrumb面包屑</a></li>\n<li><a href=\"https://ant.design/components/dropdown-cn/\">Dropdown下拉菜单</a></li>\n<li><a href=\"https://ant.design/components/menu-cn/\">Menu导航菜单</a></li>\n<li><a href=\"https://ant.design/components/pagination-cn/\">Pagination分页</a></li>\n</ul>\n</li>\n<li>Data Entry\n<ul>\n<li><a href=\"https://ant.design/components/auto-complete-cn/\">AutoComplete自动完成</a></li>\n<li><a href=\"https://ant.design/components/cascader-cn/\">Cascader级联选择</a></li>\n<li><a href=\"https://ant.design/components/checkbox-cn/\">Checkbox多选框</a></li>\n<li><a href=\"https://ant.design/components/date-picker-cn/\">DatePicker日期选择框</a></li>\n<li><a href=\"https://ant.design/components/form-cn/\">Form表单</a></li>\n<li><a href=\"https://ant.design/components/input-number-cn/\">InputNumber数字输入框</a></li>\n<li><a href=\"https://ant.design/components/input-cn/\">Input输入框</a></li>\n<li><a href=\"https://ant.design/components/radio-cn/\">Radio单选框</a></li>\n<li><a href=\"https://ant.design/components/select-cn/\">Select选择器</a></li>\n<li><a href=\"https://ant.design/components/time-picker-cn/\">TimePicker时间选择框</a></li>\n</ul>\n</li>\n<li>Data Display\n<ul>\n<li><a href=\"https://ant.design/components/badge-cn/\">Badge徽标数</a></li>\n<li><a href=\"https://ant.design/components/calendar-cn/\">Calendar日历</a></li>\n<li><a href=\"https://ant.design/components/card-cn/\">Card卡片</a></li>\n<li><a href=\"https://ant.design/components/collapse-cn/\">Collapse折叠面板</a></li>\n<li><a href=\"https://ant.design/components/popover-cn/\">Popover气泡卡片</a></li>\n<li><a href=\"https://ant.design/components/tooltip-cn/\">Tooltip文字提示</a></li>\n<li><a href=\"https://ant.design/components/table-cn/\">Table表格</a></li>\n<li><a href=\"https://ant.design/components/timeline-cn/\">Timeline时间轴</a></li>\n</ul>\n</li>\n<li>Feedback\n<ul>\n<li><a href=\"https://ant.design/components/modal-cn/\">Modal对话框</a></li>\n<li><a href=\"https://ant.design/components/message-cn/\">Message 全局提示</a></li>\n<li><a href=\"https://ant.design/components/notification-cn/\">Notification通知提醒框</a></li>\n<li><a href=\"https://ant.design/components/progress-cn/\">Progress进度条</a></li>\n<li><a href=\"https://ant.design/components/popconfirm-cn/\">Popconfirm气泡确认框</a></li>\n<li><a href=\"https://ant.design/components/spin-cn/\">Spin加载中</a></li>\n</ul>\n</li>\n</ul>\n<h2>安装运行</h2>\n<p>1.克隆项目</p>\n<blockquote>\n<p>git clone <a href=\"mailto:git@github.com\">git@github.com</a>:zhaoyu69/antd-spa.git</p>\n</blockquote>\n<p>2.安装依赖</p>\n<blockquote>\n<p>npm i</p>\n</blockquote>\n<p>3.运行</p>\n<blockquote>\n<p>npm run start</p>\n</blockquote>\n<p>4.打包</p>\n<blockquote>\n<p>npm run build</p>\n</blockquote>\n<h2>结尾</h2>\n<p>页面不复杂，没有使用状态管理。\n使用React本身的State更新，也很好理解。\n练练手熟悉熟悉框架还是不错的。</p>\n<h2>源码</h2>\n<p><a href=\"https://github.com/zhaoyu69/antd-spa\">Github.</a></p>\n</div>","title":"React+Antd 后台管理系统","last_reply_at":"2018-06-11T14:08:06.323Z","good":false,"top":false,"reply_count":27,"visit_count":5047,"create_at":"2017-12-27T09:01:17.871Z","author":{"loginname":"zhaoyu69","avatar_url":"https://avatars3.githubusercontent.com/u/23548734?v=4&s=120"}},{"id":"5a98da9789a57ad544fa4175","author_id":"545b74143e1f39344c5b3bee","tab":"ask","content":"<div class=\"markdown-text\"><p>一个个学过来，会疯掉的：（</p>\n</div>","title":"Vue，React，Angular，最应该精通的是哪个框架呢？","last_reply_at":"2018-06-11T10:29:03.889Z","good":false,"top":false,"reply_count":29,"visit_count":3207,"create_at":"2018-03-02T05:01:11.364Z","author":{"loginname":"chapgaga","avatar_url":"https://avatars0.githubusercontent.com/u/9590859?v=4&s=120"}},{"id":"5b1b595f8a4f51e140d946c5","author_id":"597c351b68aa87c774e5ed3f","tab":"ask","content":"<div class=\"markdown-text\"><p>求更详细的解释\n我知道客户端缓存，通常可以通过ETAG和Last-Modified来标识该内容是否发生了变化，那么服务端缓存呢\n<img src=\"//dn-cnode.qbox.me/FqKdwEoGLhULT_v7WHxkAj4JSxjZ\" alt=\"2018-06-09_123012.png\"></p>\n</div>","title":"node做服务端缓存，万一被缓存的结果变了，用户怎么获取到最新的内容呢？","last_reply_at":"2018-06-11T10:06:38.899Z","good":false,"top":false,"reply_count":6,"visit_count":785,"create_at":"2018-06-09T04:36:47.027Z","author":{"loginname":"vcxiaohan","avatar_url":"https://avatars3.githubusercontent.com/u/13744878?v=4&s=120"}},{"id":"5b1e20e929e6e510415b29d0","author_id":"5aed77ea1b02288048bd0cb6","tab":"share","content":"<div class=\"markdown-text\"><h1>来自<a href=\"https://github.com/shenzekun/useful-tools\">github</a></h1>\n<h1>useful-tools</h1>\n<blockquote>\n<p>🔨 一些有用的工具网站（<strong>注意</strong>：有些网站可能需要翻墙才能看到）</p>\n</blockquote>\n<h2>浏览器兼容类🌎</h2>\n<ul>\n<li><a href=\"https://caniuse.com/\">caniuse</a> （网站开发浏览器兼容性查询）</li>\n<li><a href=\"http://browserhacks.com/\">browserhacks</a> (一些浏览器兼容写法)</li>\n</ul>\n<h2>图片类😎</h2>\n<ul>\n<li><a href=\"https://tinypng.com/\">Tinypng</a> （压缩图片）</li>\n<li><a href=\"http://www.biaonimeia.com/login\">标你妹啊</a> (psd 标注)</li>\n<li><a href=\"https://coolbackgrounds.io/\">Cool Backgrounds</a> （生成好看的渐变背景图）</li>\n<li><a href=\"https://carbon.now.sh/?bg=rgba(171,%20184,%20195,%201)&amp;t=seti&amp;wt=none&amp;l=auto&amp;ds=true&amp;dsyoff=20px&amp;dsblur=68px&amp;wc=true&amp;wa=true&amp;pv=48px&amp;ph=32px&amp;ln=false&amp;fm=Hack&amp;fs=14px&amp;si=false&amp;es=2x&amp;wm=false\">carbon</a> (生成类似 mac 风格的代码图片，用于分享)</li>\n<li><a href=\"https://source.unsplash.com/\">Unsplash Source</a> (生成随机图片)</li>\n<li><a href=\"https://spritegen.website-performance.org/\">CSS Sprite Generator</a> (生成雪碧图)</li>\n<li><a href=\"http://www.iconfont.cn/plus\">iconfont</a> (阿里巴巴矢量图标库)</li>\n<li><a href=\"https://icons8.com/preloaders/\">Preloaders</a> (加载图，<strong>有些是收费的</strong>)</li>\n<li><a href=\"https://www.desktoppr.co/wallpapers\">desktoppr</a> （好看的壁纸）</li>\n<li><a href=\"https://material.io/tools/icons/?style=baseline\">Material icons</a> (Material icons图标)</li>\n</ul>\n<h2>代码类⌨️</h2>\n<ul>\n<li><a href=\"https://paste.ubuntu.com/\">Ubuntu pastebin</a> （代码分享）</li>\n<li><a href=\"https://codepen.io/pens/\">Codepen</a> (在线代码编辑)</li>\n<li><a href=\"http://jsbin.com/\">Jsbin</a> (在线代码编辑)</li>\n<li><a href=\"http://www.colorzilla.com/gradient-editor/\">Ultimate CSS Gradient Generator</a> (生成 css 渐变)</li>\n<li><a href=\"https://www.grabient.com/\">Grabient</a> (生成漂亮的 css 渐变)</li>\n<li><a href=\"https://dev.w3.org/html5/html-author/charref\">Character Entity Reference Chart</a> (各种符号的转义字符)</li>\n<li><a href=\"https://easings.net/zh-cn?tuyiyi.com\">缓动函数速查表</a></li>\n<li><a href=\"https://regexper.com/\">Regexper</a> (正则可视化)</li>\n<li><a href=\"https://visualgo.net/en\">Visualgo</a> (数据结构，算法可视化)</li>\n<li><a href=\"http://animista.net/\">Animista</a> (在线生成 css 动画)</li>\n<li><a href=\"https://developers.google.com/speed/pagespeed/insights/\">PageSpeed Insights</a> (测试网站速度，优化性能)</li>\n<li><a href=\"https://learngitbranching.js.org/\">Learn Git Branching</a> (以动画的形式让你学习 git)</li>\n<li><a href=\"http://asciiflow.com/\">Asciiflow</a> (生成类似代码注释里那种佛祖的代码。。自己画😄)</li>\n<li><a href=\"http://pxtoem.com/\">PXtoEM</a> (PX EM 单位换算)</li>\n<li><a href=\"https://awehunt.com/npmdownloads?ids=react,angular,vue,ember-cli\">Awehunt</a> (npm包下载量曲线对比)</li>\n</ul>\n<h2>效率类⚡️</h2>\n<ul>\n<li><a href=\"https://modao.cc/\">墨刀</a> （画原型图）</li>\n<li><a href=\"https://shimo.im/\">石墨文档</a> (多人实时协作的云端文档与表格)</li>\n<li><a href=\"https://www.hloom.com/resume-examples/\">resume-examples</a> (简历模板)</li>\n<li><a href=\"https://enhancv.com/\">Enhancv</a> (生成简历)</li>\n<li><a href=\"http://www.koppt.cn/index\">KOPPT</a> (ppt 模板)</li>\n<li><a href=\"https://www.canva.com/templates/\">Canva</a> (设计模板)</li>\n<li><a href=\"https://www.processon.com/;jsessionid=EC0CB59BD105F6FD0294417AB0B0CC22.jvm1\">ProcessOn</a> (在线画流程图，思维导图、UI原型图等等)</li>\n<li><a href=\"https://wakatime.com/\">WakaTime</a> (跟踪项目花费的时间，得装插件)</li>\n<li><a href=\"http://screensiz.es/\">Screen Sizes</a> (移动屏幕尺寸)</li>\n<li><a href=\"https://habitica.com/\">Habitica</a> (游戏化Todo)</li>\n<li><a href=\"https://smallpdf.com/\">Smallpdf</a> (非常厉害的一个网站，PDF压缩，PDF转PPT，Word，Excel等等都可以直接通过这个页面实现)</li>\n</ul>\n</div>","title":"分享一些有用的工具网站","last_reply_at":"2018-06-11T08:59:49.530Z","good":false,"top":false,"reply_count":3,"visit_count":502,"create_at":"2018-06-11T07:12:41.157Z","author":{"loginname":"shenzekun","avatar_url":"https://avatars1.githubusercontent.com/u/21151080?v=4&s=120"}},{"id":"5b1a556457137f22415c4ab3","author_id":"5ad7f07ba7d228c16b986f3a","tab":"ask","content":"<div class=\"markdown-text\"><p>Error: /home/dev/backend/node_modules/concat-stream/node_modules/readable-stream/lib/_stream_writable.js:458\n3|backend- |       asyncWrite(afterWrite, stream, state, finished, cb);\n3|backend- |       ^\n3|backend- | TypeError: asyncWrite is not a function</p>\n</div>","title":"asyncWrite is not a function ?","last_reply_at":"2018-06-11T08:49:46.974Z","good":false,"top":false,"reply_count":3,"visit_count":563,"create_at":"2018-06-08T10:07:32.271Z","author":{"loginname":"chenzeZzz","avatar_url":"https://avatars0.githubusercontent.com/u/24696566?v=4&s=120"}},{"id":"58c2a8f9e0cfa8974a26118f","author_id":"57b08034a4f7e29c763413ef","tab":"share","content":"<div class=\"markdown-text\"><h3>StickPackage，NodeJs中TCP粘包、分包解决方案！</h3>\n<p><a href=\"https://github.com/lvgithub/stickPackage.git\">持续更新，源码地址，喜欢的话请点star，想订阅点watch</a>\n配置介绍</p>\n<ul>\n<li>[x] 提供对TCP粘包处理的解决方案</li>\n<li>[x] 默认缓冲512个字节，当接收数据超过512字节，自动以512倍数扩大缓冲空间</li>\n<li>[x] 本默认采用包头两个字节表示包长度</li>\n<li>[x] 默认采用大端接模式接收数据</li>\n<li>[x] 可以配置大端小端读取</li>\n<li>[x] 可以配置自定义包头长度</li>\n</ul>\n<p>Changes:</p>\n<ul>\n<li>设置大端,小端接收,添加setReadIntBE,添加setReadIntLE方法:</li>\n</ul>\n<pre class=\"prettyprint\"><code>setReadIntBE(type) ,setReadIntLE(type)  type:16  包头长度为2，short类型\nsetReadIntBE(type) ,setReadIntLE(type)  type:32  包头长度为4，int类型\n</code></pre><hr>\n<p>使用方法(进入项目有test函数进行演练)</p>\n<pre class=\"prettyprint\"><code>var Stick = require(&#x27;.&#x2F;index&#x27;);\nlet stick = new Stick(1024).setReadIntBE(&#x27;16&#x27;)\n\n&#x2F;*\n*  包含两个数据包,10个字节,包头为short，两个字节：[0x00, 0x02],[ 0x00, 0x04]\n*  数据包1:[0x00, 0x02, 0x66, 0x66]\n*  数据包2:[0x00, 0x04, 0x88, 0x02, 0x11, 0x11]\n*&#x2F;\nlet data = Buffer.from([0x00, 0x02, 0x66, 0x66, 0x00, 0x04, 0x88, 0x02, 0x11, 0x11]);\n\n&#x2F;*  构造两个buffer\n*   data2_1包含:  第一个数据包的全部数据,第二个数据包的部分数据\t\n*   data2_2包含:  第二个数据包的剩余数据\n*&#x2F;\nlet data2_1 = Buffer.from([0x00, 0x00, 0x00, 0x02, 0x66, 0x66, 0x00, 0x04, 0x88, 0x02, 0x11]);\nlet data2_2 = Buffer.from([0x11]);\n\n&#x2F;&#x2F; 设置收到完整数据触发器\nstick.onData(function (data) {\n    console.log(&#x27;receive data,length:&#x27; + data.length);\n    console.log(data)\n});\n\nstick.putData(data);        \nstick.putData(data2_1);\nstick.putData(data2_2);  \n\n 运行结果：   \n&#x2F;&#x2F;  receive data,length:4 &lt;Buffer 00 02 66 66&gt;  \n&#x2F;&#x2F;  receive data,length:6 &lt;Buffer 00 04 88 02 11 11&gt;\n&#x2F;&#x2F;  receive data,length:2&lt; Buffer 00 00&gt; receive data, length:4 &lt; Buffer 00 02 66 66&gt; receive data, length:6&lt; Buffer 00 04 88 02 11 11&gt;\n</code></pre><p><a href=\"https://github.com/lvgithub/stickPackage.git\">源码地址，喜欢的话请点star，想订阅点watch</a></p>\n<hr>\n<p>测试结果\n<img src=\"//dn-cnode.qbox.me/Fvph9oxEyfcFVx5G5RuzVEFhATls\" alt=\"2017-03-11 09-44-18 的屏幕截图.png\">\n源码地址\n<a href=\"https://github.com/lvgithub/stickPackage.git\">喜欢的话请点star，想订阅点watch</a></p>\n</div>","title":"分享NodeJs中TCP粘包、分包解决方案","last_reply_at":"2018-06-11T08:13:22.568Z","good":false,"top":false,"reply_count":11,"visit_count":7102,"create_at":"2017-03-10T13:24:09.827Z","author":{"loginname":"lvgithub","avatar_url":"https://avatars1.githubusercontent.com/u/16065346?v=4&s=120"}},{"id":"5b1e2b5e8a4f51e140d9471d","author_id":"59be2ef38812ce51127a8f63","tab":"ask","content":"<div class=\"markdown-text\"><p><img src=\"//dn-cnode.qbox.me/FjntiTz3ZxjDEOdoblvydueMaNLt\" alt=\"TIM图片20180611153538.png\">\n在项目使用egg-mysql，发现一段时间后（请求几次以后）就好出现问题，第一条日志有打印，第二条日志没有打印，我怀疑是await 没有返回，这时ping数据库是通的，我想问问egg-mysql是不是要怎么释放资源（比如释放链接）。出现问题以后重启项目又是好的，一段时间后（请求几次以后）又是一样，有人遇到过这样的问题吗？\n----egg-mysql是基于ali-rds ,ali-rds又是基于mysql的。。。。。</p>\n</div>","title":"【egg-mysql】没有返回值","last_reply_at":"2018-06-11T08:04:22.730Z","good":false,"top":false,"reply_count":1,"visit_count":359,"create_at":"2018-06-11T07:57:18.870Z","author":{"loginname":"783010296","avatar_url":"https://avatars2.githubusercontent.com/u/15160126?v=4&s=120"}},{"id":"5a9661ff71327bb413bbff5b","author_id":"5110f2bedf9e9fcc584e4677","tab":"share","content":"<div class=\"markdown-text\"><p><img src=\"https://github.com/nswbmw/node-in-debugging/raw/master/assets/book.jpg\" alt>\n《Node.js 调试指南》是本人整理的从事 Node.js 开发这几年的一些调试经验和思路，希望授人以鱼亦能授人以渔。</p>\n<p>享受开源，支持正版~</p>\n<h2>购书链接</h2>\n<ul>\n<li><a href=\"http://product.dangdang.com/25278935.html\">当当</a></li>\n<li><a href=\"https://item.jd.com/12356929.html\">京东</a></li>\n<li><a href=\"https://s.taobao.com/search?q=Node.js%E8%B0%83%E8%AF%95%E6%8C%87%E5%8D%97\">淘宝</a></li>\n<li><a href=\"https://www.amazon.cn/dp/B07D57FDY4/\">亚马逊</a></li>\n<li><a href=\"http://product.china-pub.com/8004731\">china-pub</a></li>\n</ul>\n<h2>目录</h2>\n<ul>\n<li>CPU 篇\n<ul>\n<li><a href=\"https://github.com/nswbmw/node-in-debugging/blob/master/1.1%20perf%20%2B%20FlameGraph.md\">perf + FlameGraph</a></li>\n<li><a href=\"https://github.com/nswbmw/node-in-debugging/blob/master/1.2%20v8-profiler.md\">v8-profiler</a></li>\n<li><a href=\"https://github.com/nswbmw/node-in-debugging/blob/master/1.3%20Tick%20Processor.md\">Tick Processor</a></li>\n</ul>\n</li>\n<li>内存篇\n<ul>\n<li><a href=\"https://github.com/nswbmw/node-in-debugging/blob/master/2.1%20gcore%20%2B%20llnode.md\">gcore + llnode</a></li>\n<li><a href=\"https://github.com/nswbmw/node-in-debugging/blob/master/2.2%20heapdump.md\">heapdump</a></li>\n<li><a href=\"https://github.com/nswbmw/node-in-debugging/blob/master/2.3%20memwatch-next.md\">memwatch-next</a></li>\n<li><a href=\"https://github.com/nswbmw/node-in-debugging/blob/master/2.4%20cpu-memory-monitor.md\">cpu-memory-monitor</a></li>\n</ul>\n</li>\n<li>代码篇\n<ul>\n<li><a href=\"https://github.com/nswbmw/node-in-debugging/blob/master/3.1%20Promise.md\">Promise</a></li>\n<li><a href=\"https://github.com/nswbmw/node-in-debugging/blob/master/3.2%20Async%20%2B%20Await.md\">Async + Await</a></li>\n<li><a href=\"https://github.com/nswbmw/node-in-debugging/blob/master/3.3%20Error%20Stack.md\">Error Stack</a></li>\n<li><a href=\"https://github.com/nswbmw/node-in-debugging/blob/master/3.4%20Node%408.md\">Node@8</a></li>\n<li><a href=\"https://github.com/nswbmw/node-in-debugging/blob/master/3.5%20Rust%20Addons.md\">Rust Addons</a></li>\n<li><a href=\"https://github.com/nswbmw/node-in-debugging/blob/master/3.6%20Event%20Loop.md\">Event Loop</a></li>\n<li><a href=\"https://github.com/nswbmw/node-in-debugging/blob/master/3.7%20uncaughtException%20%2B%20llnode.md\">uncaughtException + llnode</a></li>\n</ul>\n</li>\n<li>工具篇\n<ul>\n<li><a href=\"https://github.com/nswbmw/node-in-debugging/blob/master/4.1%20Source%20Map.md\">Source Map</a></li>\n<li><a href=\"https://github.com/nswbmw/node-in-debugging/blob/master/4.2%20Chrome%20DevTools.md\">Chrome DevTools</a></li>\n<li><a href=\"https://github.com/nswbmw/node-in-debugging/blob/master/4.3%20Visual%20Studio%20Code.md\">Visual Studio Code</a></li>\n<li><a href=\"https://github.com/nswbmw/node-in-debugging/blob/master/4.4%20debug%20%2B%20repl2%20%2B%20power-assert.md\">debug + repl2 + power-assert</a></li>\n<li><a href=\"https://github.com/nswbmw/node-in-debugging/blob/master/4.5%20supervisor-hot-reload.md\">supervisor-hot-reload</a></li>\n</ul>\n</li>\n<li>APM 篇\n<ul>\n<li><a href=\"https://github.com/nswbmw/node-in-debugging/blob/master/5.1%20NewRelic.md\">NewRelic</a></li>\n<li><a href=\"https://github.com/nswbmw/node-in-debugging/blob/master/5.2%20Elastic%20APM.md\">Elastic APM</a></li>\n</ul>\n</li>\n<li>日志篇\n<ul>\n<li><a href=\"https://github.com/nswbmw/node-in-debugging/blob/master/6.1%20koa-await-breakpoint.md\">koa-await-breakpoint</a></li>\n<li><a href=\"https://github.com/nswbmw/node-in-debugging/blob/master/6.2%20async_hooks.md\">async_hooks</a></li>\n<li><a href=\"https://github.com/nswbmw/node-in-debugging/blob/master/6.3%20ELK.md\">ELK</a></li>\n<li><a href=\"https://github.com/nswbmw/node-in-debugging/blob/master/6.4%20OpenTracing%20%2B%20Jaeger.md\">OpenTracing + Jaeger</a></li>\n<li><a href=\"https://github.com/nswbmw/node-in-debugging/blob/master/6.5%20Sentry.md\">Sentry</a></li>\n</ul>\n</li>\n<li>监控篇\n<ul>\n<li><a href=\"https://github.com/nswbmw/node-in-debugging/blob/master/7.1%20Telegraf%20%2B%20InfluxDB%20%2B%20Grafana(%E4%B8%8A).md\">Telegraf + InfluxDB + Grafana(上)</a></li>\n<li><a href=\"https://github.com/nswbmw/node-in-debugging/blob/master/7.2%20Telegraf%20%2B%20InfluxDB%20%2B%20Grafana(%E4%B8%8B).md\">Telegraf + InfluxDB + Grafana(下)</a></li>\n</ul>\n</li>\n<li>应用篇\n<ul>\n<li><a href=\"https://github.com/nswbmw/node-in-debugging/blob/master/8.1%20node-clinic.md\">node-clinic</a></li>\n<li><a href=\"https://github.com/nswbmw/node-in-debugging/blob/master/8.2%20alinode.md\">alinode</a></li>\n</ul>\n</li>\n</ul>\n</div>","title":"《Node.js 调试指南》已出版","last_reply_at":"2018-06-11T06:44:44.340Z","good":true,"top":false,"reply_count":52,"visit_count":8042,"create_at":"2018-02-28T08:02:07.081Z","author":{"loginname":"nswbmw","avatar_url":"https://avatars0.githubusercontent.com/u/4279697?v=4&s=120"}},{"id":"5b18de308a4f51e140d94618","author_id":"5062b5ea01d0b801483ae4ff","tab":"share","content":"<div class=\"markdown-text\"><p>第一届 GraphQLParty 远远超出期望结束，涉及到前后端/协同/领域建模/系统架构</p>\n<p><a href=\"https://github.com/GraphQL-Party/HangZhou-GraphQL-Party\">https://github.com/GraphQL-Party/HangZhou-GraphQL-Party</a></p>\n<p>PPT 和直播（录播）链接等资料，都已经同步到 Github，欢迎大家 Star + 开 issue 写听后感</p>\n<p>2018-6-9 下午全场录播地址：<a href=\"http://www.itdks.com/dakashuo/playback/2260\">http://www.itdks.com/dakashuo/playback/2260</a></p>\n<p>线下越重，线上需要越轻，这个轻指的是轻便轻巧和简洁易用，通过前面几章小菜技术与产品历史介绍，我们了解到 B2B 生鲜领域在线下是如此之重，那么在交易场景线上化的过程中，端的移动化就势在必行，试想一下，让菜市场摊位老板人手一台笔记本点开网页选购支付，让采购销售抱着电脑去拜访客户，一边聊蔬菜行情，一边打开笔记本进行记录，有没有一种回到世纪初的感觉。</p>\n<p>产品的移动化，这将是我们展开这篇文章的背景，我们会先了解小菜的产品托管在哪些端上，然后感受这些端带来的挑战，最后是我们面对这些挑战所采取的策略，以及整个小菜前端团队历练后的技术成长和沉淀，和我们对于自己的一个评估和对未来的展望，本文将采用最通俗易懂的方式陈述，会略有繁琐，但力求对技术新人也足够友好。</p>\n<h3>一、小菜大前端的端有哪些</h3>\n<p>小菜早期围绕着蔬菜销地以客户集单批发的模式摸爬滚打几年，从上游的蔬菜供应商到下游批发市场的摊位老板，在这个长长的链路中，我们诞生了这样几款线上产品来服务于不同的人群和场景，之前文章中也有介绍，这里再汇总一下，共 7 款 App：</p>\n<ul>\n<li>宋小菜 服务于销地批发老板的下单工具</li>\n<li>宋小福 服务于小菜内部销售团队的 CRM 销售管理与客户管理工具</li>\n<li>宋小仓 连接司机-物流-采购-销售的蔬菜在途位置监控工具</li>\n<li>采秘    服务于小菜内部采购团队的蔬菜品类采购工具</li>\n<li>麦大蔬 服务于上游蔬菜供应商的大宗农产品交易平台</li>\n<li>宋大仓 服务于上游囤货配资的进出库管理平台</li>\n<li>行情宝 服务于产销两地的行情采集和预测工具</li>\n</ul>\n<p>前 6 款 App 都是基于 ReactNative 开发的 iOS/Android App，最后一个是微信小程序，它们涵盖了公司几乎所有的协同场景和工作流，其他涉及审核、数据观测和过程管理的部分，则会进入到我们 PC 端产品中，也就是：</p>\n<ul>\n<li>ERP 后台管理系统</li>\n</ul>\n<p>生鲜的 toB 场景，角色众多，链路冗长，这种延伸到产地农民，延伸到小 B 交易的管理系统一定会角色杂，权限多，操作重，业务复杂度所带来的页面复杂度不是一般的小系统可比拟。</p>\n<p>到目前为止，我们已经看到小菜的 7 个移动端 App，以及一个复杂的后台管理系统，这些都跟前端工程师息息相关，除了这些，还有 2 个重要的内部产品，就是：</p>\n<ul>\n<li>大表哥 数据报表系统</li>\n<li>大瓜子 市调模板配置系统</li>\n</ul>\n<p>其中大表哥（谐音：搭 Excel 表格）由前端工程师独立研发和维护的数据报表系统，单拎出来这个系统，是因为在 B2B 公司，尤其涉及到供应链的长链路场景中，真实业务数据的及时反馈对于每一个执行团队都至关重要，没有这些数据抓手，就失去了多维度数据观测，都很难快速的做出正确的运营决策和业务调整，甚至很难发现业务中出现的漏洞和问题，比如不正常的非自助下单（也就是销售帮忙下单）的比例。</p>\n<p>关于报表系统后文还有介绍，我们再为前端增加一个服务的产品场景，就是微信生态内产品，比如公众号或者小程序，它的技术栈和运行环境跟原生 App 和 PC 都不同，虽然小程序可以带来更多的业务可能性，也会对前端带来更大的挑战。</p>\n<p>我们把这些端合并一下，小菜前端要服务的端或场景：</p>\n<ul>\n<li>移动端（iOS/Android App/小程序）</li>\n<li>PC 端（ERP）</li>\n<li>工具端（大表哥数据报表）</li>\n</ul>\n<p>端上全部开花，这也应了我之前在掘金 JTalk 上小菜对于长链路流通交易分享的一个观点：<a href=\"http://www.itdks.com/eventlist/detail/2174\">链路足够长，每个节点上都可以长出产品</a>。那这些端产品都是与业务有强关联的，还有更多技术基建的和服务于团队内的产品，比如：</p>\n<ul>\n<li>大伯伯（谐音打包包） 实现 App 选仓库选分支选环境配置的自主打包与推包系统</li>\n<li>大表姐（来自饥饿游戏，寓意开工没有回头箭） 实现 6 款 App 解包差分后下发热更新包的发布系统</li>\n<li>姑奶奶  线上异常汇集分析与与 Bug 定级指派系统</li>\n<li>大舅子 向下调用微服务接口向上提供 GraphQL 查询能力的数据聚合服务</li>\n<li>RGB    用户使用 App 的 PV/UV，以及业务数据监控相关的可视化平台</li>\n<li>110     解决端异常收集与报警需求</li>\n<li>堂哥工作台 团队记录资源分配与 redmine 同步的自动化周报系统</li>\n<li>ITms 解决内部 App 安装测试的配置生成和预装服务</li>\n<li>…</li>\n</ul>\n<p>这些是服务于团队内部的工具链，全部由小菜前端自行维护。到这里我们发现，在小菜这样一家创业公司内，前端要服务的端和场景的确较多，但这些产品和工具的背后，整个前端组也就 10 个人而已（我们当然也求才若渴），但是人虽少，效率不能自我妥协，所以我们能服务到这些端，也正是基于端的多样性和数量，我们称自己：宋小菜大前端。</p>\n<p>先上小菜端上若干产品和工具的技术栈图，帮助大家理解我们的技术理念：</p>\n<p><img src=\"https://user-gold-cdn.xitu.io/2018/6/7/163d8eaf4d0f3ed6?w=1358&amp;h=990&amp;f=png&amp;s=238841\" alt=\"image.png | left | 747x545\"></p>\n<h3>二、多端带来的挑战</h3>\n<h5>1. 【物理现状】移动端的碎片化</h5>\n<p>古典互联网时代，因为要兼容 IE678 而痛苦不堪，Hack 黑魔法经验基本代表前端水平，如今互联网早已移动化，我们理想中的移动端开发，看上去是可以大胆使用新语法特性，只需要做好尺寸兼容就好了，但事实并非如此，不仅在移动端的浏览器不是如此，在移动端开发 RN App 也是如此，这是我们某一款 App 一段时间内，所收集上来的手机厂商分布：</p>\n<p><img src=\"https://user-gold-cdn.xitu.io/2018/6/7/163d8eaf4c405851?w=1508&amp;h=996&amp;f=png&amp;s=365406\" alt=\"image.png | left | 747x493\"></p>\n<p>可以发现 Android 的碎片化非常严重，每一个厂商下面有不同时期推出的不同型号的手机，这些手机有着不同版本的操作系统，不同的分辨率和用电策略，不同的后台进程管理方式和用户权限，要让一款 App 在哪怕头部 40% 的手机上兼容，都是一件艰难的事情，这个客观物理现状叠加下面的社区现状，App 质量保证这件事情会变得雪上加霜。</p>\n<h5>2. 【社区现状】技术框架的不稳定性</h5>\n<p>回到本文的开头，我们在长链路的 B2B 生鲜场景中，为了更快更轻，开发出 7 款 App，而且将来随着业务场景的拓展会诞生更多独立 App 甚至是集大成的 App，所以技术选型不太可能选择原生的 Java/Object-C 开发，尤其对于创业公司，6 款 App 得需要多少名原生开发工程师才能搞定，高频繁重的业务变化又怎样靠堆人来保证？</p>\n<p>想清楚这些，一开始我们就调研 ReactNative，并最终全部从原生切换到了 RN，通过跑过来的这 3 年来看，使用 RN 为公司节约了大量的人力成本同时，也尽可能的满足到几乎所有的需要快速迭代的业务场景，又快又轻，成为宋小菜大前端团队做事的一个典型特征。</p>\n<p>但换一个角度看，就是带来的问题，又快又轻的背后是 RN 版本的飞速迭代，截止到目前，也就是 2018 年 6 月份，RN 还没有推出一个官方的正式的长期维护的稳定版本，什么意思？就是 RN 目前依然处在不稳定的研发周期内，我们依然站在刀尖起舞，用不稳定的 RN 版本试图开发稳定的应用，三年走过来，我们在 RN 的框架里，多少次面对旧版本局限性和新版本不稳定性都进退不得，旧版本的 Bug 可能会在新版本中修复，新版本引进则会来新版本自己的问题。</p>\n<p>除了 RN 自身版本，还有第二个问题，围绕着 RN 有很多业界优秀的组件，但这些社区组件甚至官方组件，都不一定能及时跟进最新的 RN 版本，同时还能兼容到较老的 RN 版本，所以 RN 升级导致的组件不兼容性，会引发你 Fork 修改组件的冲动，但这样会带来额外的开发成本和版本维护成本，取舍会成为版本升降的终极问题。</p>\n<p>在国内开发，还有第三个问题，就是中文文档缺乏，社区资源匮乏，参考文献陈旧，可拿来主义的开源工程方案甚至社区线上线下会议分享都很缺乏，一个不小心就会踩坑，这就是 RN 社区的现状，我们在刀尖浪花上独步，App 选型背后的技术栈稳定性则成为悬在头上的一把铡刀，你不知道什么时候会咔嚓一声。</p>\n<h5>3. 【人才现状】人员能力的长短不齐</h5>\n<p>我们知道有一个词叫做主观能动性，表示没有条件创造条件也可以上，这个词的主体就是人，聊完移动端设备现状和社区现状后，我们来聊聊人的问题。RN 在国内真正开始普及使用，是从 2015 年开始，也就意味着，到 2018 年，一个 RN 工程师也就只有 3 年的工作经验，而 RN 的 “Learn once, write anywhere”&lt;span data-type=“color” style=“color:rgb(84, 84, 84)”&gt;&lt;span data-type=“background” style=“background-color:rgb(255, 255, 255)”&gt; 也刺激着一切 Care 人员开支， Care 产品研发投入性价比的公司纷纷跳水研究 RN，争抢 RN 人才，RN 是前端中的移动前端，前端有多抢手，那么 RN 工程师就比它还要抢手。&lt;/span&gt;&lt;/span&gt;</p>\n<p>&lt;span data-type=“color” style=“color:rgb(84, 84, 84)”&gt;&lt;span data-type=“background” style=“background-color:rgb(255, 255, 255)”&gt;这导致基本上 RN 工程师，很难靠外部招聘，只能靠内部培养，这也是小菜前端的成长历程，我们有  2 名资深 RN 工程师，一个是从服务端 Java，一个是从原生 Android 开发转过来的。如果 RN 人手不足，产品支持的力度和速度就一定会遇到瓶颈，这就是我们曾经面临的问题，就是人才现状，外招数量不足，内培速度有限，RN 工程师的数量和能力就时不时成为公司业务扩张的瓶颈。&lt;/span&gt;&lt;/span&gt;</p>\n<h5>4. 【公司现状】高密集业务的交付质量</h5>\n<p>作为工程师，我们有很强的自尊心和不容挑战的代码洁癖，但在一个创业公司里面，甚至大公司的一个创业团队里面，我们需要对接一些关键的业务节点，冲刺一些特定的时间窗口，并且要及时响应多变的业务，和业务背后多变的产品形态，这都会带来非常密集的需求队列。</p>\n<p>这些密集的需求队列对我们的代码实现质量有非常高的挑战，一个组件用 5 分钟思考如何抽象和用 50 分钟思考，实现后的稳定性、兼容性都是不同的，如何保证产品按期交付上线，会是摆在我们面前一个非常关键的命题，而这个难题之外，还有一个更难的命题等着我们，那就是如何保证交付不延期的同时，还能保证交付质量。</p>\n<p>要知道，如果一个项目代码赶的太毛糙，后期维护起来的成本会是巨大的，甚至只能用更高的成本重构重写。本质上，再次重构就一定是公司在为早期的猛冲买单，为这些技术债买单，如何不去买单或者如何用最小的成本买单，这跟我们早期的业务密集程度，交付周期，质量把控有很大的关系。</p>\n<p>综上，移动端碎片化所带来的兼容难度，RN 框架的局限性，版本间差异带来的不稳定性，技术社区资源的匮乏和前端团队技术能力掣肘，再叠加上高密度的业务排期，让前端开发这个本来很酷的事情，变得晴雨不定。</p>\n<p>这些避不开的现实，是绕不过去的坎儿，是搭建团队必须搞定的基础，我们想要把 B2B 生鲜的线上线下场景通过端产品关联起来，想要通过前端团队的用户侧输出从而让这些产品落地，就必须面对这些现实挑战，而应对这些挑战，首先必须搞清楚有哪些挑战，搞清楚挑战以后，我们就会认识到，首当其冲的事情，是去搭建 B2B 生鲜公司的前端技术栈和人才梯队，现在我们进入到本文的重点。</p>\n<h3>三、如何应对井喷的挑战</h3>\n<h5>1. 前端梯队如何搭建</h5>\n<p>创业公司的技术团队，本质上就是人和事，用合适的人搞定特定的事，人才的瓶颈就是这家公司产品落地速度和上线质量的瓶颈，因此人是第一位的，对于前端团队来说，如何一步步形成有综合战斗力的团队，取决于搭建什么层次的前端梯队，如果所有人一视同仁，培养同样的能力栈，发挥同样的兴趣向，跟进同样的业务线，那么这个梯队的扁平就会带来致命的团队瓶颈：能力可复制但不能互补，能力可递进但很难跨越，不能互补和很难跨越会导致团队内的技术路线过于单一，技术思维趋于固化，至于技术储备的丰富性和技术沟通带来的碰撞就更有限，最终导致人做事越来越机械化，甚至失去最初的技术初心。</p>\n<p>那么小菜前端到底如何搭建，还是要从公司的人员、业务和技术现状出发，由于端的碎片化和技术框架的不稳定性，就必须在质量保障上投入巨大的人力保证产品可用，而人才能力局限性和数量的匮乏，就跟产品的质量保证成为了天然的矛盾，不可协调，代码撺太快，线上天天都是 Bug，代码撺太慢，产品节奏跟不上，至于跟工程师天天宣讲要小心小心再小心，能起到的作用也不大，因为工程师本身的能力也是参差不齐的，所以就必须把团队先拆成两部分，一部分做基建支持，一部分做业务支持，基建支持的同学研发整个团队的工具脚手架、抽象和打磨团队的基础通用组件、长期维护项目的通用架构，这些投入都会反哺到业务支持的同学，业务的同学可以放心大胆的基于基建的成果做上层业务开发，稳定的工程基础有了保障，上层的业务代码做质量保障难度就大大降低了。</p>\n<p>除了分出来人做基建，做业务，还需要有核心的技术骨干，做技术前瞻性的研究，为团队 3 个月后，半年后，甚至 1 年后的技术方向，做必要的调研、测试和实验性开发，因为对于刀耕火种的早期技术团队，从原始人到迈向外太空跨空间作战，这中间还差着很多个关键的技术迭代节点，这些关键的技术迭代节点，一部分是靠外招技术专家和资深的工程师来输血发力，还有一大部分是需要靠团队内部长期的积累沉淀，也就是人才内部培养。</p>\n<p>我们总结一下：</p>\n<ul>\n<li>基建的同学负责输出工具系统、基础组件、流程规范，保证内部效率最大化和质量的有效保障</li>\n<li>架构的同学负责攻克技术底层难点，调研先进技术，升级团队技术架构，沉淀技术方案，锁定和推进团队未来技术方向</li>\n<li>业务的同学负责产品跟进，高频使用基建产品，并通过反馈来优化团队的技术基础设施，同时基于业务来抽象更多的基建需求</li>\n</ul>\n<p>基建、架构、业务这三个角色并不是相互独立，而是互有重合各有侧重，一个业务的同学，可能也同时在负责基建的事情，一个基建的同学，可能也同时在参与架构的设计，在小菜就有同学以架构和基建为主，业务也时不时的参与开发，架构和基建必须依托于业务场景来做，不能脱离了场景，不然会输出畸形的难以落地的技术方案。</p>\n<p>上面是人员的分工，还有三个重要的保障，这里不做引申，只列举一下：</p>\n<ul>\n<li>团队人员的兴趣栈、能力栈和业务要尽量匹配</li>\n<li>团队人员的阶段性目标、长期规划要跟进公司的职业晋升路线和能力模型</li>\n<li>团队要有持续性的内部技术互动分享和对外的技术理念、方法方案分享</li>\n</ul>\n<p>小菜的前端是大前端，对人的要求是：一专多精多能，至少在某个领域内朝着专家方向走，同时要慢慢精通多项技能，最后是具备多个特定技术栈的开发能力，比如 ReactNative，在小菜就是一个必须具备的开发能力，不要求每一个同学都成为 RN 专家或者精通，但要具备业务开发的能力，通俗点描述，就是能用 RN 开发业务产品。</p>\n<p>最后一点，就是资源流转，架构的同学，基建的同学和业务的同学的梯次关系是从下到上，越下越接近技术本质，越上越接近业务结果，越向下需要越好的技术实力，越向上需要越好的业务理解能力，这两个能力都是核心能力，需要让团队成员沿着梯队关系慢慢流动起来，业务中技术能力好的同学可以有机会沉下来做做基建，长期埋头基建的同学可以有机会上去做做业务，业务理解不错技术沉淀又好的同学可以继续沉下去参与架构，这样团队内部的同学都可以有多样性的技术场景和业务场景，一旦有同学请假、陷在别的业务不能抽调，马上就有同学可以补位进来开发，不会影响到产品上线节点。</p>\n<p>关于团队如何搭建，目前小菜是走到了这个算是 v1.0 的阶段，未来还有更多挑战，也会带来更多的基于公司现状的新调整，无论如何变迁，方法论我们先沉下来：</p>\n<ul>\n<li>人才梯队要有层次：基础架构、基建和业务上层等</li>\n<li>人才成长要有规划：兴趣栈、能力栈和公司关系</li>\n<li>人才能力要有扩展：单人能力和互补后的团队能力</li>\n</ul>\n<p>以人为过程，以事为结果，人事之间要有动态的机制形成互惠互补的关系，只有这样，团队才会初心不变，激情常在。</p>\n<h5>2. 如何做技术选型</h5>\n<p>技术选型是一个行业老话题了，方法论也有很多，在小菜我们遵循的是：技术方向性预研大踏步，业务基建型开发小碎步，前者尽可能激进，后者尽可能保守，比如 数据报表系统，我们激进的采用 GraphQL 来解决  SQL =&gt; 页面 Dom 的链路问题，在宋小福 App 上面，我们就求稳的采用 v0.48 的 ReactNative 版本，而不是用当时较新的 v50+ 版本。</p>\n<p>在做技术选型之前，还有一些比较重要的基础性问题需要搞定，那就是团队技术动作的一致性，这个一致主要包含两点：</p>\n<ul>\n<li>代码规范共用一套</li>\n<li>仓库合作方式共用一套</li>\n</ul>\n<p>这两点如果不一致，会给技术选型后的落地带来内耗成本，千万不可大意。</p>\n<p>再回到技术选型本身，抛开激进保守的大踏步和小碎步，我们需要回到技术本质和工程师的本质来看待如何选的命题，技术的本质是效率，工程师的本质是兴趣，如果这一套技术选型不能带来效率，如果工程师普遍不感兴趣，那么通常这一个选型我们不会采纳，我觉得这一个主观一些的标准，大家可以参考，但这里面也要权衡好历史包袱、维护成本，上手难度等这些客观现实，如果一个新技术会带来革命性的效率提升，那么即使有上手难度和维护成本，我们也会果断入坑，比如 GraphQL 对于数据报表对于解放前后端有大幅度的提升，我们会果断入坑大力推行，如果一个技术对于团队是锦上添花，那么我们会慎重选用，比如 TypeScript，可以给工程稳定性带来了较大的保障，但我们只选择在热更新这种 RN SDK 和 Server 端的去集成，而不是一下子推广到整个团队项目中铺开用，这里面就会考虑到实际得到的好处，以及历史包袱和上手难度，反复权衡后并没有带来更大的价值，所以这两类场景的推行和不大力推行，就又不会太依赖于工程师的喜好兴趣。</p>\n<p>那么我们技术选型后的结果是如何呢？</p>\n<p>文章最开始的那张图，里面就是我们的技术栈，这里再做一下总结：</p>\n<ul>\n<li>工具类：强依赖 Node，多而杂的其他技术，如：MongoDB/Redis/MySQL/Shell/Python</li>\n<li>业务类：强依赖 React/ReactNative，适度集成其他技术，如： Redux/GraphQL/Apollo</li>\n<li>框架类：除了 React 全家桶会谨慎选择，Node 端框架则相对宽松：Koa/Thinkjs/Eggjs</li>\n</ul>\n<p>这些相对求稳，不求稳的部分，如小程序开发，我们会使用 mpvue，也会用原生，还会集成进去 GraphQL，同时一些涉及到数据爬取和视频图像识别，我们也会集成 Python/C++/TenserFLow 等等，不过这些往往是前瞻性的技术尝试，会让团队的同学适当分配精力持续研究。</p>\n<h5>3. RN 的 App 工程如何架构</h5>\n<p>小菜的主要产品类型，尤其是对外的产品，主要是 RN App，而且数量较多，那么 RN 项目的合理架构就变得尤其重要，我们这里探讨下小菜前端在 RN App 上面的沉淀，涉及到原生层面的技术细节太多，这里暂不做讨论。</p>\n<p>首先，我们在构建 RN App 工程时需要关注这几个关键要素：</p>\n<ul>\n<li>配置管理</li>\n<li>静态文件管理</li>\n<li>网络请求</li>\n<li>组件管理</li>\n<li>路由管理</li>\n<li>数据缓存</li>\n<li>App 的热更新</li>\n<li>数据搜集</li>\n</ul>\n<p>__配置管理__是指可以灵活合理的管理 App 的内部环境，主要包括：</p>\n<ul>\n<li>App 本身的一些配置</li>\n<li>所使用三方插件的配置</li>\n</ul>\n<p>我们在构建工程时尽量将所有的配置抽象统一放置在一个地方，这样便于查找和修改，但是由于大多数配置都统一放在同一个地方，那么就难免有部分文件要使用某个配置时其引用路径比较长，比如：</p>\n<pre class=\"prettyprint language-javascript\"><code>import { pluginAConfig } from &#x27;..&#x2F;..&#x2F;..&#x2F;..&#x2F;..&#x2F;config&#x27;\n</code></pre><p>这样就造成了阅读性很差且代码不美观，因此我们可以使用 Facebook 的 <code>fbjs</code> 模块提供的一个功能<code>providesModule</code> :</p>\n<pre class=\"prettyprint language-javascript\"><code>&#x2F;&#x2F;config.js\n&#x2F;**\n * config for all\n * @providesModule config \n * 使用 providesModule 将 config 暴露出去\n **&#x2F;\nimport pluginAConfig from &#x27;.&#x2F;plugin_a_config&#x27;\n\nexport default {\n    pluginAConfig\n}\n\n&#x2F;&#x2F; 然后在其他文件中调用\n&#x2F;&#x2F; A.js\nimport { pluginAConfig } from &#x27;config&#x27;\n</code></pre><p>这样就能很方便地在 App 的任意一处使用 config 了，但是我们要避免滥用 <code>providesMoudle</code> ，因为使用了 <code>providesMoudle</code> 进行声明的模块的源码，想要在编辑器中使用跳转到定义的方式去查看比较困难，不利于团队多人合作。</p>\n<p>__静态资源__泛指会被多次调用的图片或 icon，我们一般在 RN 使用图片时是直接引用的：</p>\n<pre class=\"prettyprint language-javascript\"><code>import { Image } from &#x27;react-native&#x27;\n\nrender(){\n  return (\n    &lt;Image source={{uri: &#x27;.&#x2F;logo.png&#x27;}} &#x2F;&gt;\n  )\n}\n</code></pre><p>当图片需要在多处使用时，我们可能会将这些可能会被反复使用的图片统一管理到 <code>assets</code> 文件夹中，统一管理和使用，但是当需要使用图片资源的文件嵌套较深时，引用图片就变得麻烦：</p>\n<pre class=\"prettyprint language-javascript\"><code>render(){\n  return (\n    &lt;Image source={{uri: &#x27;..&#x2F;..&#x2F;..&#x2F;..&#x2F;assets&#x2F;logo.png&#x27;}} &#x2F;&gt;\n  )\n}\n</code></pre><p>这个问题与配置管理的问题一样，可以首先将图片资源按照类型进行分类，比如 assets 文件夹下有 button/icon/img/splash/svg 等，每一个类型的结构如下：</p>\n<pre class=\"prettyprint language-javascript\"><code>- icon&#x2F;\n - asset&#x2F;\n - index.js\n</code></pre><p>其中 <code>asset</code> 文件夹保存我们的图片资源，在 <code>index.js</code> 中对图片进行引用并暴露为模块：</p>\n<pre class=\"prettyprint language-javascript\"><code>&#x2F;&#x2F; index.js\nexport default {\n   IconAlarmClockOrange: require(&#x27;.&#x2F;asset&#x2F;icon_alarm_clock_orange.png&#x27;),\n   IconAvatarBlue: require(&#x27;.&#x2F;asset&#x2F;icon_avatar_blue.png&#x27;),\n   IconArrowLeftBlue: require(&#x27;.&#x2F;asset&#x2F;icon_arrow_left_blue.png&#x27;),\n   IconArrowUpGreen: require(&#x27;.&#x2F;asset&#x2F;icon_arrow_up_green.png&#x27;)\n}\n</code></pre><p>然后再在 <code>assets</code> 文件夹下编辑 <code>index.js</code> ，将所有的图片资源作为 <code>assets</code> 模块暴露出去，为了避免和其他模块冲突你可以修改模块名为 <code>xxAssets</code></p>\n<pre class=\"prettyprint language-javascript\"><code>&#x2F;&#x2F; assets&#x2F;index.js\n&#x2F;**\n * @providesModule myAssets\n **&#x2F;\n import Splash from &#x27;.&#x2F;splash&#x27;\n import Icon from &#x27;.&#x2F;icon&#x27;\n import Img from &#x27;.&#x2F;img&#x27;\n import Btn from &#x27;.&#x2F;button&#x27;\n import Svg from &#x27;.&#x2F;svg&#x27;\n\n export {\n   Splash,\n   Icon,\n   Img,\n   Btn,\n   Svg\n }\n\n&#x2F;&#x2F; A.js\nimport { Icon } from &#x27;myAssets&#x27;\n\nrender(){\n  return (\n    &lt;Image source={Icon.IconAlarmClockOrange} &#x2F;&gt;\n  )\n}\n</code></pre><p>这样，我们就能很方便地将分散在项目各处的图片资源统一到一个地方进行管理了，使用起来也非常方便。</p>\n<p>__网络请求__这块，react-native 使用 <a href=\"https://github.com/facebook/react-native/blob/master/Libraries/Network/fetch.js\">whatwg-fetch</a>，我们也可以选在其他的三方包如 <a href=\"https://github.com/axios/axios\">axios</a> 来做网络请求，但有我们在开发中遇到过一个问题，那就是我们明明已经在代码里已经修改了 cookie， 但是每次请求可能还是会带上之前的 cookie 从而造成一些困扰，所以这里推荐一个实用的组件 <code>Networking</code> :</p>\n<pre class=\"prettyprint language-javascript\"><code>import { NativeModules } from &#x27;react-native&#x27;\nconst { Networking } = NativeModules\n\n&#x2F;&#x2F; 手动清除已缓存 Cookie，这样就能解决上述的问题了\nNetworking.clearCookies(callBack)\n\n</code></pre><p>当然，<code>Networking</code> 的功能不止于此，还有很多其他有趣的功能可以发掘，可以直接用它来包装自己的网络请求工具，还支持 <code>abort</code> ，可以参考 <a href=\"https://github.com/facebook/react-native/blob/master/Libraries/Network/RCTNetworking.ios.js\">源码</a> 来具体把玩。</p>\n<p>使用 RN 开发 App 本身效率就比较高，如果想要继续进阶就要考虑组件化开发，一旦涉及到组件化开发，就不可避免地会涉及到组件管理的问题，这里的__组件管理__比较宽泛，它实际上应该指的是：</p>\n<ul>\n<li>组件规范</li>\n<li>组件类型划分</li>\n<li>组件开发标准</li>\n</ul>\n<p>组件规范指的是 UI 设计规范，我们可以与设计同学交流规定好一套特定的规范，然后将通用的样式属性（如主题颜色，按钮轮廓，返回按键，Tab 基础样式等）定义出来，便于所有的组件开发者在开发时使用，而不是开发者各自为政在开发时重复写样式文件，这里推荐一个比较好用的用于样式定义的三方插件 <a href=\"https://github.com/vitalets/react-native-extended-stylesheet\">react-native-extended-stylesheet</a> ，我们可以使用这个插件定义我们的通用属性：</p>\n<pre class=\"prettyprint language-javascript\"><code>&#x2F;&#x2F; mystyle\nimport { PixelRatio, Dimensions } from &#x27;react-native&#x27;\nimport EStyleSheet from &#x27;react-native-extended-stylesheet&#x27;\n\nconst { width, height } = Dimensions.get(&#x27;window&#x27;)\n\nconst globals = {\n  &#x2F;** build color **&#x2F;\n  $Primary: &#x27;#aa66ff&#x27;,\n  $Secondary: &#x27;#77aa33&#x27;,\n  $slimLine: 1 &#x2F; PixelRatio.get(),\n  &#x2F;** dimensions **&#x2F;\n  $windowWidth: width,\n  $windowHeight: height\n}\n\nEStyleSheet.build(globals)\n\nmodule.exports = {\n  ...EStyleSheet,\n  create: styleObject =&gt; EStyleSheet.create(styleObject),\n  build: (obj) =&gt; {\n    if (!obj) {\n      return\n    }\n    EStyleSheet.build(_.assign(obj, globals))\n  }\n}\n\n&#x2F;&#x2F; view.js\nimport MyStyleSheet from &#x27;mystyle&#x27;\n\nconst s = MyStyleSheet.create({\n  container: {\n    backgroundColor: &#x27;$Secondary&#x27;,\n    width: &#x27;$windowWidth&#x27;\n  }\n})\n\nrender....\n</code></pre><p>这样，我们就能在开发的任意插件或者 App 中直接使用这些基础属性，当某些属性需要修改时只需要更新 <code>mystyle</code> 组件即可，还可以衍生出主题切换等功能，使得开发更加灵活。</p>\n<p>关于组件类型我们会抛开三方组件以及原生组件，因为一旦涉及到这两者，需要写的东西就太多了，我们将组件按使用范围分为通用组件和业务组件两大类。</p>\n<p>首先什么是业务组件？即我们在开发某个业务产品常用到的组件，这个组件绑定了与业务相关的一些特殊属性，除了这个业务开发以外，其他地方都不适用，但是在开发这个业务时多个页面会频繁地使用到，所以我们有必要将其抽象出来，方便使用。</p>\n<p>什么是通用组件？即可以在 App 范围内使用甚至于跨 App 使用的组件，这里可以对这个类别进行细分，我们将能跨 App 使用的组件上传到了自己的搭建的私有 npm  仓库，方便我们的 App 开发者使用，同时，具有 App 自己特色的组件则放到工程中统一管理，同样适用 <code>providesModules</code> 暴露出去。</p>\n<p>制定一整套组件开发标准的是很重要的，因为很多组件开发可能是多人维护的，有一套既定的规范就可以降低维护成本，组件使用的说明文档的完善也同样重要。</p>\n<p>开发 App 就不可避免地会遇到如何管理页面以及处理页面跳转等问题，也就是__路由管理__问题，自从 Facebook 取消了 RN 本身自带的 Navigator 以后，许多依赖于这个组件的开发者不得不将目光投向百花齐放的社区三方组件，FB 随后推荐大家使用的是 <a href=\"https://github.com/react-community\">react-community</a> 推出的 <a href=\"https://github.com/react-navigation\">react-navigation</a> ，现在这个路由组件已经独立出来了。我们在开发时就是使用的这个组件作为路由管理组件，只不过是在其基础上做了一些定制 ，使得使用更加简单，部分跳转动作更加符合我们的产品场景，推荐大家使用这个组件。当然，除去这个组件还有很多其他的组件可供选择：</p>\n<ul>\n<li>基于 <code>react-navigation</code> 进行深度定制的 <a href=\"https://github.com/aksonov/react-native-router-flux\">react-native-router-flux</a></li>\n<li>基于原生解决方案的 <a href=\"https://github.com/wix/react-native-navigation\">react-native-navigation</a></li>\n<li>airbnb 的 <a href=\"https://github.com/airbnb/native-navigation\">native-navigation</a></li>\n</ul>\n<p>路由管理作为整个 App 的骨架，它是这几个部分中最重要的一部分，合理地定制和使用路由管理可以极大地简化我们的开发复杂度。</p>\n<p>一般情况下需要缓存的数据基本上就可能是我们会在 App 很多地方都会使用到的全局数据，如用户信息，App 设置（非应用层面的设置）等，RN 提供一个 <a href=\"https://github.com/facebook/react-native/blob/master/Libraries/Storage/AsyncStorage.js\">AsyncStorage</a> 存储引擎，通常的使用方式是对这个数据引擎进行包装后暴露出符合我们要求的读写接口。这里推荐另外一种使用方式：</p>\n<p>既然需要缓存的数据可能是会在 App 很多地方使用到的全局数据，那么我们可以将这些全局数据使用 <a href=\"https://github.com/reactjs/redux\">redux</a> 来进行管理，而利器 <a href=\"https://github.com/rt2zz/redux-persist\">redux-persist</a> 则能让我们很优雅地读写我们的缓存数据。</p>\n<p>同时，如果对 <code>react-navigation</code> 进行合理的定制，接管其路由管理，那么我们还能实现保存用户退出 App 之前最后浏览的页面的状态，用户在下次打开 App 依然可以从之前浏览的地方继续使用 App，当然，这个功能要谨慎使用！</p>\n<p><strong>App 的版本更新</strong>，RN 除了传统的 App 更新外还有一个热更新的可选项（传统 App 更新也有热更新，其原理就不太一样了），社区大多数人都推荐使用 <a href=\"https://github.com/Microsoft/react-native-code-push\">codepush</a> 来进行热更新，至于其后端解决方案 貌似已经有了一个 <a href=\"https://github.com/lisong/code-push-server\">code-push-server</a> ，我们是使用自己的热更新方案，其原理就是在不更新原生代码的基础上更新 JS 代码和静态资源文件。</p>\n<p><strong>搜集的 App 使用数据</strong>(包括异常数据)并对此分析，根据分析来定位问题是保证 App 质量的有效手段之一。你可以选择自己搭建一套数据搜集服务，包括客户端 SDK 和服务端搜集服务，或者选择市场上已有的工具，目前较为成熟的收据搜集工具比较多，如友盟，mixpanel, <a href=\"https://count.ly/\">countly</a> 等等，在此不作赘述。</p>\n<p>总结一下，一个 RN App 架构应该要保证 App 的运行稳定以及开发的便捷。运行稳定这一方面，除了从 JS 层面（如单元测试，JS 错误上报等）保证之外，很大程度上还要依赖于原生层面的处理，所以团队里面要有同学的精力可以投在原生研究上面，至于开发便捷，我们尽量将复杂重要或者简单繁琐的操作在构建工程时就做掉，这样也可以大幅度提高我们的开发效率，降低开发者之间的合作沟通成本。</p>\n<h5>4. 效率协同工具如何打造</h5>\n<p>效率协同往往不分家，效率宽泛一点，就是又快又好，协同宽泛一点，就是顺滑无内耗，而且效率协同在不同的场景下，一定有不同的表现，所以效率协同一定要具体到某一个场景才有意义，比如：</p>\n<p>我们要发布 6 款 RN App 中的若干款，在一周内的若干天发布，由若干人自行打包测试自行发布，那么这里面就有巨大的协同问题，同时还有一些效率问题，如果一个同学进来改了 3 行接口调用代码，他至少要有这几个阶段:</p>\n<ul>\n<li>开发阶段本机切新分支调试</li>\n<li>测试阶段打一个连接测试环境的包测试有效性</li>\n<li>测试完再打一个连接正式环境的本地包测正确性</li>\n<li>最后再打一个连接正式环境的用来热更新的包进行发布</li>\n</ul>\n<p>那么多人之间都各自来做这个发布，就会出现一些发布冲突的协同问题，如果把发布权限全回收到某一个人，协同貌似能解决，但是会带来效率问题，大家要让这个发布人频繁打包，或者打好的包，反复传给发布人，发布人的时间线就被他人的开发进程给打断了，变成了一个打包员，关于这个我专门做了一张图：</p>\n<p><img src=\"https://user-gold-cdn.xitu.io/2018/6/7/163d8eaf4c6002cf?w=1658&amp;h=1160&amp;f=png&amp;s=628475\" alt=\"image.png | left | 747x523\"></p>\n<p>这里面的一个圆点，就代表一个编译后的包，比如 A 打出来的不需要 Debug 的连接正式环境的需要热更新的 iOS 的 ipa 包，那么 A 的这个包，跟 B 打出来的不需要 Debug 的连接正式环境的需要热更新的 iOS 的 ipa 包，即便是在同一个仓库的同一个分支，也不能保证 100% 一模一样的包，原因在于，这些本地打的包，还会受到 Node/NPM 版本（语义化），XCode 版本，原生热更新版本控制等等因素影响，导致这个包自身很容易出问题，甚至是一些人肉引发的分支和人工上传等等的影响，也会导致这个包发布出问题，举一个我们真实发生过的故障，A 打完包，把包文件钉钉传给 B，B 在发布的时候，选择本地文件时候选错了一个老版本直接发布上线，导致线上部分用户直接版本回退，我们后来不得已采用紧急回滚，才把影响范围控制住。</p>\n<p>上面大篇幅的介绍打包的这个场景，是小菜前端早期非常痛苦的一个场景，协同方式和规范无论我们如何三令五申总是避免不了人肉的问题，一旦出问题，就是大问题大故障，那么这时候，就必须投入基建的力量来打造一款或者一套流程工具，通过工具一劳永逸的解决这些主要的协同问题，把琐碎人肉的事情交给机器去做，机器比人做的快，也比人做的好。</p>\n<p>我们来总结一下，团队跑一段时间，一定会挤压一些问题，这些问题不可以视而不见，也不可以拿业务支持第一这样的借口来无限期推迟解决问题，而是时不时评估一下，有没有可能通过系统和工具，来约束一些行为，来取代一些人肉工作，进而可以一劳永逸的解决掉一些问题，一旦决定去解决了，那么如何打造协同工具就变得顺水推舟了，因为工程师最擅长的干的事情之一，就是造轮子造工具。</p>\n<p>小菜前端造了哪些轮子哪些工具呢，文章最开始就已经列出来了，这里再陈述和解释一下：</p>\n<ul>\n<li>大伯伯（谐音打包包） 解决人肉打包带来的协同问题</li>\n<li>大表姐（代号 Laurence - 来自饥饿游戏） 解决人肉发布、人工维护版本，问题追溯定位的效率问题</li>\n<li>姑奶奶 解决去多个三方平台查看异常日志和 Bug 反馈指派的人肉效率问题</li>\n<li>大舅子 解决前后端耦合在 Restful/Mock/冗余的接口 的合作效率问题</li>\n<li>RGB    解决纯数字报表分析页面访问数据和用户行为的效率问题</li>\n<li>堂哥工作台 解决组员与 Leader 日报周报难回忆带来的书写效率和后期回顾问题</li>\n<li>小菜图书馆 解决小菜书架上面借书还书靠人肉记录维护的效率问题</li>\n<li>…</li>\n</ul>\n<p>其中的大舅子这个单独拿出来说一下，现在前后端常见的合作方式是基于 restful API 的接口合作，前后端经过一轮接口评审，后端再为前端写 Mock 数据，可能还会加上一个 Proxy 服务，最终前端本地的页面上，做 Mock 环境、测试环境和正式环境的切换，这种方式最大的问题有 2 个：</p>\n<ul>\n<li>前端比较依赖于后端的接口定义，后端为前端 Mock 做完后，前端才方便的进行页面中的数据替换和逻辑判断，有等待成本</li>\n<li>前端复杂多变的页面会影响到后端的接口复杂度和体积，页面上的字段增减，都会反映到接口的字段增减，接口本身变得不稳定，会带来很多隐患点，比如接口体积越来越臃肿，或者接口有多个版本，一旦接口文档更新没跟上，会导致后期的同一个接口的不同版本之间，增加调用出错概率等等</li>\n</ul>\n<p>当然业界也有各种各样规避这些问题的策略，可能是文档建设，可能是流程约束，小菜早期，哪怕到现在，也是在使用这种方式合作的，直到现在我们有了大舅子，前后端合作的方式开始进化，大舅子系统架构图如下：</p>\n<p><img src=\"https://user-gold-cdn.xitu.io/2018/6/7/163d8eaf4ca59e7c?w=1616&amp;h=927&amp;f=png&amp;s=138050\" alt=\"image.png | left | 747x429\"></p>\n<p>大舅子目前的架构是放到网关下面，网关层做一些鉴权和安全的处理，向下把一个 GraphQL 的请求转发给大舅子，大舅子上面根据这个 Query Type 对应的 Resolver 去调用下层的服务接口，下层可能是另外一个 GraphQL 服务，也可能是微服务，也可能是数据库，兼容度很高，无论是哪一种，大舅子的角色扮演就是配置和聚合：配置客户端上页面对应的数据类型，嵌套关系和数据结构，向下连接和聚合不同的数据源。</p>\n<p>内部的开发正式环境关系图如下：</p>\n<p><img src=\"https://user-gold-cdn.xitu.io/2018/6/7/163d8eaf4c355f0e?w=1268&amp;h=1080&amp;f=png&amp;s=175706\" alt=\"image.png | left | 747x636\"></p>\n<p>这个事情并不新鲜，多年前，Nodejs 就在扮演数据聚合层的角色，把多个 API 聚合成一个 API，或者打散一些 API，聚合成新的 API，但本质上依然是向客户端提供 API，这种 API 依然是面向页面，可以看做是页面驱动的 API，大舅子因为整个建模基础是 GraphQL，所以页面和数据结合的权利，交给了客户端自己去做，它需要什么数据，就在客户端声明什么数据结构，带来的好处很多，这里列举两条我认为有价值的：</p>\n<ul>\n<li>前端可以不再局限于接口评审阶段，可以继续往前提到数据库/表结构评审阶段进入开发流程，在表结构评审期就能拿到字段定义与含义，从而再大舅子上提前定义前端自己的 Type 和 Resolver</li>\n<li>后端不再耽误自己的时间为前端提供 Mock，也不再受页面 API 的约束，可以下沉精力专心做下层业务领域能努力的建设，下沉的领域能力多大，那么端上可使用和组合的能力就有多大</li>\n</ul>\n<p>从此，尘归尘，土归土，前后因为页面数据控制权的分离而解耦，也因为数据能力的回收而同时贴近业务，前端也被倒逼去了解业务，不再仅仅是界面和产品交互驱动，现在大舅子还在早期的迭代阶段，关于它的好处和优化的空间还非常非常大，今天不做深入讨论，我们来总结一下：</p>\n<p>小菜前端已经从工具基建中受益，因为工具带来了协同和效率的优化只是结果之一，最重要的收获还有两个：</p>\n<ul>\n<li>解放了小菜前端团队以及技术团队的人肉时间，可以有精力做其他事情</li>\n<li>通过基建工具研发培养了小菜前端分析问题和解决问题的能力，同时沉淀了一些不错的技术方案</li>\n</ul>\n<p>那么小菜的成长和沉淀，我们接下来就可以来总结一下了。</p>\n<h3>四、技术成长和沉淀</h3>\n<p>技术成长就是工程师的能力变化，我在 4 月份给大家做了一个 10 个月前后的能力评估，这 10 个月，是小菜前端 3 年来基建密度和团队内调整最大的几个月，也是团队整体战斗力提升最大的几个月，本文的所有分析、策略和实际的解决办法，也都是在这几个月里面进行实施的，挑了几个同学，挑了几个主要的能力维度，我们感受下他们的技术成长，白色的 * 代表 10 个月之前的能力值，2 颗星代表可以熟练的开发，三颗星代表基本精通或擅长，四颗星是比较精通。</p>\n<p><img src=\"https://user-gold-cdn.xitu.io/2018/6/7/163d8eaf4f618d77?w=1814&amp;h=832&amp;f=png&amp;s=1807328\" alt=\"image.png | left | 747x343\"></p>\n<p>可以看到每个人都有不同程度不同层面的成长，有的全面开花，有的某些领域内快速积累，也要同学技术成长不多，但是协作能力工程能力有很大提升，其实还少了一个维度，就是参与业务拿到的结果或者说业务能力，图上放不下了，稍后会做分析和补充，我们再来看下这些同学做的事情：</p>\n<p><img src=\"https://user-gold-cdn.xitu.io/2018/6/7/163d8eaf6d1aeba3?w=1776&amp;h=998&amp;f=png&amp;s=2367758\" alt=\"image.png | left | 747x420\"></p>\n<p>如果仔细比照一下，我们很容易得出三个结论：</p>\n<ul>\n<li>整个技术团队综合技术能力有大幅度的提升</li>\n<li>承担职责越多的同学能力成长越多越快（如组员 A）</li>\n<li>承担繁重基建和工具开发的同学比承担业务开发的同学技术成长更多（如组员 E）</li>\n</ul>\n<p>业务能力没有放到图上，这是要补充的第四个结论</p>\n<ul>\n<li>承担业务越多的同学，项目管理能力/沟通能力/业务理解能力也越好</li>\n</ul>\n<p>以上是人才成长，那么沉淀下来的内容一共是三部分：</p>\n<ul>\n<li>通用的工具技术解决方案</li>\n<li>通用的技术模块和业务组件库</li>\n<li>团队整体的问题解决套路（分析解决问题的思维方式）</li>\n</ul>\n<p>通用的技术解决方案可以不断的快速复用，比如我们宋小福用新架构前后调整优化有 1 个月，把这同一套架构放到麦大蔬上 2 周就够了，再次迁移到新项目宋大仓里面只需要 1 周就搞定了。</p>\n<p>通用的技术模块和业务组件库，则是我们的组件三步走策略，首先是某个业务产品线下面的组件模板，比如 筛选组件或者列表组件，能在这个业务场景下的产品形态中通用，如果它可以跨产品线，那么就会跃升为 App 内通用组件，如果它还能继续抽象具有可重用性，那么就可以跃升为跨 App 的通用业务组件，比如热更新组件，地理位置定位组件，登录组件，异常提示弹窗组件等等。</p>\n<p>团队整体的问题解决套路，这个是我们最大的收获，再直白一点，就是如何更快更好更有创造性的做事，这种思维方式，解决问题的套路，本质上是可以在团队内不断传承的，无论我们后面遇到什么样的业务和团队问题，我们用这一套场景-技术-长短期投入产出比评估的路子，都能用较轻的方式把问题解决掉，这个对于我们培养新人有很大的帮助。</p>\n<h3>五、对未来的展望</h3>\n<p>小菜三年走过来，前端团队从早期的技术和人员不稳定，到现在趋于稳定，站在公司的角度，最大的收获就是培养和磨炼了一批有创业热情，有担当勇气，有技术底蕴的一群人，这一群人抱团在一起，可以在所谓大前端这个框框内玩出更多的花样，支持到更多的业务场景。</p>\n<p>站在今天看明天，虽然有很多东西对我们来说依然是未知的，但我们不再像过去一样临场发怯，手忙脚乱，取而代之的是无论多大多难的业务类型，我们都可以坐下来利用这帮人的智慧汇聚出一个最优选择，胸有成竹的去做技术探索和工程尝试，在跟公司一起成长变大的过程中，小菜前端也一定会沉淀出来更有实践价值，更有效率的技术方案，而这些就是我们将来可推广复用的宝贵技术资产，当然除了宝贵的技术资产，最最最重要的有我们这群人，可以开心有趣有挑战性的 Coding，<a href=\"https://cnodejs.org/topic/5b1f416c8a4f51e140d9474c\">想了解我们，看这里</a></p>\n<p>关于如何搭建高效率的生鲜B2B平台，因为包含的内容较多，也很复杂，无法再一篇文章中给大家讲清楚，本篇文章只是抛砖引玉，下面将分为多篇文章从行业现状、业务现状、产品概述、技术团队搭建、服务端技术平台搭建、前端开发等多个维度来讲述，我们将三年多在B2B领域沉淀的核心产品和技术平台公开，希望更多行业的人能深入了解，少走一些弯路，希望对大家有帮助，本系列文章分布如下（会继续更新）：</p>\n<p>0、<a href=\"https://cnodejs.org/topic/5b1f416c8a4f51e140d9474c\">Scott 为何再次创业及对于资深前端工程师的要求</a></p>\n<p>1、<a href=\"https://juejin.im/post/5b19e379f265da6e281c0b87\">《如何搭建高效率的生鲜 B2B 平台（B2B 技术共享第一篇）》</a></p>\n<p>2、<a href=\"https://juejin.im/post/5b19e3595188257d5a30c6ac\">《宋小菜如何切入生鲜 B2B 市场（B2B 技术共享第二篇）》</a></p>\n<p>3、<a href=\"https://juejin.im/post/5b19e314f265da6e6414a1f5\">《生鲜 B2B 平台的产品体系如何迭代（B2B 技术共享第三篇）》</a></p>\n<p>4、<a href=\"https://juejin.im/post/5b19e2546fb9a01e554c04de\">《生鲜 B2B 如何搭建高效的技术团队（B2B 技术共享第四篇）》</a></p>\n<p>5、<a href=\"https://juejin.im/post/5b19e15a6fb9a01e324b45f8\">《如何从 0 到 1 搭建生鲜 B2B 的技术体系（B2B 技术共享第五篇）》</a></p>\n<p>6、<a href=\"https://juejin.im/post/5b1a9cc1f265da6e1b554bbb\">《宋小菜技术如何应对生鲜 B2B 业务的快速变化（B2B 技术共享第六篇）》</a></p>\n<p>7、<a href=\"https://juejin.im/post/5b1a9d0051882513eb62ee44\">《生鲜 B2B 技术平台的前端团队该如何搭建（B2B 技术共享第七篇）》</a></p>\n<p>8、<a href=\"https://juejin.im/post/5b1a9d6a51882513c1038daa\">《宋小菜有关“能力”的设计和思考（B2B 技术共享第八篇）》</a></p>\n<p>9、<a href=\"https://juejin.im/post/5b1a9d9c5188257d692df407\">《服务拆分的设计和思考（B2B 技术共享第九篇）》</a></p>\n<p>想进一步了解我们团队的可以<a href=\"https://cnodejs.org/topic/5ad951ec3edb2aff6be85e01\">移步这里</a></p>\n</div>","title":"生鲜 B2B 技术平台的前端团队该如何搭建（B2B 技术共享第七篇） - 面向技术 Leader","last_reply_at":"2018-06-11T06:34:39.095Z","good":false,"top":false,"reply_count":23,"visit_count":2647,"create_at":"2018-06-07T07:26:40.359Z","author":{"loginname":"huanglong","avatar_url":"https://avatars1.githubusercontent.com/u/670360?v=4&s=120"}},{"id":"5b1e150e5cd02be64090138c","author_id":"589aadfb26aaf5da084b0452","tab":"share","content":"<div class=\"markdown-text\"><p><a href=\"https://promotion.aliyun.com/ntms/act/group/team.html?group=i5iw3AWXrL\">https://promotion.aliyun.com/ntms/act/group/team.html?group=i5iw3AWXrL</a></p>\n</div>","title":"阿里云ecs新人3年297","last_reply_at":"2018-06-11T06:22:06.816Z","good":false,"top":false,"reply_count":0,"visit_count":461,"create_at":"2018-06-11T06:22:06.816Z","author":{"loginname":"DoveAz","avatar_url":"https://avatars1.githubusercontent.com/u/15158280?v=4&s=120"}},{"id":"5ac478e10ab0448f0fe3f86d","author_id":"5ac3a5a437f5d1510f57c88d","tab":"ask","content":"<div class=\"markdown-text\"><p>react.js 入门真心难，太多步骤太多东西要记了</p>\n</div>","title":"React入门真难","last_reply_at":"2018-06-11T05:49:39.200Z","good":false,"top":false,"reply_count":33,"visit_count":2908,"create_at":"2018-04-04T07:04:01.663Z","author":{"loginname":"15766273878","avatar_url":"https://avatars0.githubusercontent.com/u/37205147?v=4&s=120"}},{"id":"5b1df2fb57137f22415c4b12","author_id":"58bcbd32ea21217a4486d01e","tab":"ask","content":"<div class=\"markdown-text\"><p>/app/nodejs/node-v4.4.4-linux-x64/lib/node_modules/<a href=\"/user/alicloud\">@alicloud</a>/agenthub/bin/agenthub:152\n15     const [appid, pid, config, startTime] = line.split(SPLITTER);\n16           ^\n17\n18 SyntaxError: Unexpected token [\n19     at exports.runInThisContext (vm.js:53:16)\n20     at Module._compile (module.js:373:25)\n21     at Object.Module._extensions…js (module.js:416:10)\n22     at Module.load (module.js:343:32)\n23     at Function.Module._load (module.js:300:12)\n24     at Function.Module.runMain (module.js:441:10)\n25     at startup (node.js:139:18)\n26     at node.js:968:3\n报这个错误是什么原因呢</p>\n</div>","title":"alinode agenthub启动报错","last_reply_at":"2018-06-11T05:21:50.038Z","good":false,"top":false,"reply_count":2,"visit_count":368,"create_at":"2018-06-11T03:56:43.427Z","author":{"loginname":"chenqichenqi","avatar_url":"https://avatars0.githubusercontent.com/u/11622497?v=4&s=120"}}]}
+
+  
+
+}
+
